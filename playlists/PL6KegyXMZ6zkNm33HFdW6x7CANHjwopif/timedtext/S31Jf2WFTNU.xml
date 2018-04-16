@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#E5E5E5"/>
+<pen id="2" fc="#CCCCCC"/>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="3490" d="5910" w="1"><s ac="223">hi</s><s t="840" ac="252"> there</s><s t="1110" ac="246"> so</s><s t="1620" ac="255"> I</s><s t="1920" ac="250"> thought</s><s t="2520" ac="255"> I&#39;d</s><s t="2670" ac="252"> update</s><s p="1" t="2850" ac="201"> you</s></p>
+<p t="6750" d="2650" w="1" a="1">
+</p>
+<p t="6760" d="4350" w="1"><s ac="252">with</s><s t="210" ac="252"> regards</s><s p="2" t="690" ac="155"> to</s><s t="870" ac="236"> what</s><s t="1170" ac="252"> has</s><s t="1349" ac="252"> been</s><s t="1589" ac="230"> going</s><s t="2520" ac="252"> on</s></p>
+<p t="9390" d="1720" w="1" a="1">
+</p>
+<p t="9400" d="5849" w="1"><s ac="227">at</s><s t="150" ac="252"> the</s><s t="240" ac="249"> University</s><s t="720" ac="252"> of</s><s p="1" t="780" ac="201"> Toronto</s><s t="1170" ac="236"> in</s><s t="1409" ac="252"> the</s><s p="1" t="1470" ac="204"> last</s></p>
+<p t="11100" d="4149" w="1" a="1">
+</p>
+<p t="11110" d="6480" w="1"><s ac="242">week</s><s p="2" t="1099" ac="88"> since</s><s p="1" t="2099" ac="201"> I</s><s t="2340" ac="252"> released</s><s t="2670" ac="226"> my</s><s t="3359" ac="225"> three</s><s t="3779" ac="252"> videos</s></p>
+<p t="15239" d="2351" w="1" a="1">
+</p>
+<p t="15249" d="4860" w="1"><s ac="252">starting</s><s t="541" ac="252"> on</s><s t="661" ac="252"> September</s><s p="1" t="841" ac="201"> 27th</s><s t="1741" ac="223"> dealing</s><s p="1" t="2161" ac="217"> with</s></p>
+<p t="17580" d="2529" w="1" a="1">
+</p>
+<p t="17590" d="5640" w="1"><s p="1" ac="215">political</s><s t="510" ac="252"> correctness</s><s p="2" t="860" ac="166"> at</s><s t="1860" ac="252"> the</s><s t="2040" ac="252"> legislative</s></p>
+<p t="20099" d="3131" w="1" a="1">
+</p>
+<p t="20109" d="4641" w="1" p="1"><s ac="200">level</s><s t="121" ac="200"> and</s><s t="750" ac="252"> in</s><s t="1351" ac="241"> terms</s><s t="1590" ac="235"> of</s><s t="1891" ac="248"> certain</s><s t="2580" ac="252"> policy</s></p>
+<p t="23220" d="1530" w="1" a="1">
+</p>
+<p t="23230" d="5359" w="1"><s ac="252">decisions</s><s t="480" ac="252"> at</s><s t="629" ac="252"> the</s><s t="780" ac="244"> University</s><s t="1199" ac="252"> of</s><s t="1230" ac="236"> Toronto</s></p>
+<p t="24740" d="3849" w="1" a="1">
+</p>
+<p t="24750" d="6369" w="1"><s p="2" ac="148">most</s><s t="1000" ac="252"> particularly</s><s t="1509" ac="252"> the</s><s p="1" t="2369" ac="200"> mandatory</s></p>
+<p t="28579" d="2540" w="1" a="1">
+</p>
+<p t="28589" d="6491" w="1"><s p="1" ac="211">requirement</s><s t="1000" ac="252"> that</s><s t="1151" ac="240"> the</s><s t="1420" ac="236"> human</s><s t="2110" ac="236"> resources</s></p>
+<p t="31109" d="3971" w="1" a="1">
+</p>
+<p t="31119" d="6601" w="1"><s ac="252">staff</s><s p="1" t="240" ac="214"> take</s><s p="1" t="2391" ac="204"> anti-racism</s><s p="1" t="3391" ac="247"> an</s><s p="1" t="3571" ac="235"> anti</s><s p="1" t="3781" ac="235"> bias</s></p>
+<p t="35070" d="2650" w="1" a="1">
+</p>
+<p t="35080" d="7110" w="1"><s ac="227">training</s><s p="1" t="360" ac="209"> so</s><s t="690" ac="241"> on</s><s p="2" t="1350" ac="186"> October</s><s t="1830" ac="236"> 3rd</s><s p="1" t="2070" ac="216"> I</s><s t="2250" ac="252"> received</s></p>
+<p t="37710" d="4480" w="1" a="1">
+</p>
+<p t="37720" d="7110" w="1"><s ac="252">the</s><s t="150" ac="236"> first</s><s t="390" ac="231"> of</s><s t="660" ac="220"> two</s><s t="1190" ac="229"> warning</s><s t="2190" ac="252"> letters</s><s p="1" t="3470" ac="217"> telling</s></p>
+<p t="42180" d="2650" w="1" a="1">
+</p>
+<p t="42190" d="4770" w="1"><s ac="252">me</s><s p="1" t="120" ac="208"> that</s><s t="330" ac="252"> I</s><s t="360" ac="252"> was</s><s p="2" t="480" ac="162"> required</s><s p="2" t="1260" ac="172"> to</s><s p="2" t="1590" ac="252"> act</s><s p="2" t="2430" ac="252"> in</s></p>
+<p t="44820" d="2140" w="1" a="1">
+</p>
+<p t="44830" d="5160" w="1"><s ac="252">accordance</s><s p="2" t="90" ac="86"> with</s><s p="1" t="510" ac="207"> university</s><s t="1170" ac="252"> policies</s><s t="1710" ac="252"> and</s></p>
+<p t="46950" d="3040" w="1" a="1">
+</p>
+<p t="46960" d="7020" w="1"><s ac="240">with</s><s t="810" ac="220"> the</s><s p="1" t="1020" ac="215"> relevant</s><s t="1440" ac="252"> law</s><s p="1" t="1650" ac="218"> I&#39;m</s><s t="2400" ac="252"> not</s><s p="1" t="2490" ac="204"> going</s><s t="2910" ac="226"> to</s></p>
+<p t="49980" d="4000" w="1" a="1">
+</p>
+<p t="49990" d="5430" w="1"><s ac="252">read</s><s t="180" ac="252"> you</s><s t="330" ac="252"> the</s><s p="2" t="480" ac="107"> first</s><s t="750" ac="252"> letter</s><s p="1" t="2660" ac="201"> but</s><s t="3660" ac="247"> I&#39;ll</s><s t="3780" ac="252"> read</s></p>
+<p t="53970" d="1450" w="1" a="1">
+</p>
+<p t="53980" d="5580" w="1"><s ac="249">you</s><s t="90" ac="252"> the</s><s t="240" ac="252"> second</s><s p="1" t="630" ac="217"> one</s><s t="750" ac="252"> which</s><s t="960" ac="252"> I</s><s t="1110" ac="249"> got</s><s p="2" t="1290" ac="167"> on</s></p>
+<p t="55410" d="4150" w="1" a="1">
+</p>
+<p t="55420" d="5850" w="1"><s ac="237">October</s><s t="450" ac="252"> 18th</s><s p="1" t="870" ac="210"> so</s><s t="2300" ac="240"> dear</s><s t="3300" ac="247"> professor</s><s t="3840" ac="252"> Peterson</s></p>
+<p t="59550" d="1720" w="1" a="1">
+</p>
+<p t="59560" d="3420" w="1"><s p="1" ac="216">we</s><s t="420" ac="252"> are</s><s t="540" ac="252"> writing</s><s t="780" ac="242"> and</s><s t="1050" ac="242"> follow-up</s><s t="1530" ac="248"> to</s></p>
+<p t="61260" d="1720" w="1" a="1">
+</p>
+<p t="61270" d="5070" w="1"><s ac="233">professor</s><s t="450" ac="252"> Ferber&#39;s</s><s t="900" ac="252"> letter</s><s t="1170" ac="252"> to</s><s t="1410" ac="249"> you</s><s t="1500" ac="252"> of</s></p>
+<p t="62970" d="3370" w="1" a="1">
+</p>
+<p t="62980" d="6050" w="1"><s p="2" ac="179">October</s><s t="480" ac="252"> 3rd</s><s t="829" ac="249"> 2016</s><s t="1829" ac="226"> professor</s><s t="2760" ac="221"> Ferber</s><s t="3090" ac="221"> is</s><s t="3150" ac="252"> the</s></p>
+<p t="66330" d="2700" w="1" a="1">
+</p>
+<p t="66340" d="6839" w="1"><s ac="252">chair</s><s t="270" ac="252"> of</s><s p="1" t="300" ac="204"> the</s><s t="840" ac="252"> psychology</s><s p="2" t="1230" ac="137"> department</s><s p="1" t="1620" ac="217"> and</s></p>
+<p t="69020" d="4159" w="1" a="1">
+</p>
+<p t="69030" d="6040" w="1"><s ac="225">she</s><s t="1000" ac="226"> gave</s><s p="2" t="1479" ac="168"> me</s><s t="1659" ac="252"> the</s><s t="1780" ac="252"> first</s><s p="1" t="1960" ac="208"> letter</s><s t="2640" ac="228"> as</s><s t="3640" ac="252"> a</s></p>
+<p t="73169" d="1901" w="1" a="1">
+</p>
+<p t="73179" d="3510" w="1"><s ac="252">consequence</s><s p="1" t="540" ac="216"> of</s><s t="720" ac="227"> her</s><s t="870" ac="252"> interactions</s><s p="2" t="1141" ac="143"> with</s><s t="1531" ac="223"> a</s></p>
+<p t="75060" d="1629" w="1" a="1">
+</p>
+<p t="75070" d="5100" w="1"><s ac="252">variety</s><s t="270" ac="252"> of</s><s t="479" ac="252"> administrators</s><s t="1229" ac="252"> at</s><s p="2" t="1439" ac="105"> the</s></p>
+<p t="76679" d="3491" w="1" a="1">
+</p>
+<p t="76689" d="5990" w="1"><s ac="229">University</s><s t="1941" ac="223"> regarding</s><s t="2941" ac="252"> the</s><s t="3151" ac="255"> ongoing</s></p>
+<p t="80160" d="2519" w="1" a="1">
+</p>
+<p t="80170" d="4320" w="1"><s p="1" ac="207">concerns</s><s t="780" ac="226"> related</s><s p="2" t="1350" ac="142"> to</s><s t="1439" ac="252"> your</s><s t="1530" ac="236"> videos</s><s p="1" t="1920" ac="217"> and</s></p>
+<p t="82669" d="1821" w="1" a="1">
+</p>
+<p t="82679" d="3701" w="1"><s ac="252">complaints</s><s t="1000" ac="252"> that</s><s t="1091" ac="225"> have</s><s p="1" t="1180" ac="209"> been</s><s t="1360" ac="252"> made</s><s t="1540" ac="252"> to</s><s t="1720" ac="252"> the</s></p>
+<p t="84480" d="1900" w="1" a="1">
+</p>
+<p t="84490" d="4409" w="1"><s p="2" ac="159">university</s><s t="570" ac="252"> by</s><s t="750" ac="252"> members</s><s t="1169" ac="252"> of</s><s p="1" t="1199" ac="201"> the</s><s t="1409" ac="252"> university</s></p>
+<p t="86370" d="2529" w="1" a="1">
+</p>
+<p t="86380" d="4080" w="1"><s p="2" ac="83">community</s><s t="799" ac="252"> including</s><s t="1799" ac="252"> transgendered</s></p>
+<p t="88889" d="1571" w="1" a="1">
+</p>
+<p t="88899" d="3381" w="1"><s ac="252">persons</s><s t="421" ac="252"> and</s><s t="600" ac="221"> the</s><s t="780" ac="252"> organizations</s><s t="1500" ac="252"> that</s></p>
+<p t="90450" d="1830" w="1" a="1">
+</p>
+<p t="90460" d="4140" w="1"><s p="1" ac="207">represent</s><s t="240" ac="247"> and</s><s t="869" ac="252"> support</s><s t="1259" ac="252"> them</s><s t="1409" ac="252"> on</s><s t="1530" ac="252"> campus</s></p>
+<p t="92270" d="2330" w="1" a="1">
+</p>
+<p t="92280" d="7420" w="1"><s p="1" ac="203">about</s><s t="1000" ac="252"> some</s><s t="1269" ac="252"> of</s><s t="1360" ac="252"> the</s><s t="1479" ac="252"> content</s><s p="2" t="1719" ac="125"> of</s><s p="1" t="2140" ac="205"> those</s></p>
+<p t="94590" d="5110" w="1" a="1">
+</p>
+<p t="94600" d="6750" w="1"><s ac="252">videos</s><s t="890" ac="243"> first</s><s p="1" t="1969" ac="201"> let</s><s p="1" t="2969" ac="201"> us</s><s p="1" t="3119" ac="252"> be</s><s p="1" t="3329" ac="236"> clear</s><s p="1" t="3509" ac="202"> that</s><s p="1" t="4100" ac="201"> the</s></p>
+<p t="99690" d="1660" w="1" a="1">
+</p>
+<p t="99700" d="3150" w="1" p="1"><s ac="217">university</s><s t="510" ac="204"> is</s><s t="659" ac="226"> committed</s><s t="869" ac="227"> to</s><s t="1529" ac="252"> the</s></p>
+<p t="101340" d="1510" w="1" a="1">
+</p>
+<p t="101350" d="4259" w="1"><s p="1" ac="201">protection</s><s t="180" ac="252"> of</s><s p="1" t="659" ac="206"> freedom</s><s t="1049" ac="252"> of</s><s t="1140" ac="226"> speech</s></p>
+<p t="102840" d="2769" w="1" a="1">
+</p>
+<p t="102850" d="4799" w="1"><s p="2" ac="141">as</s><s t="269" ac="252"> a</s><s t="600" ac="252"> core</s><s p="2" t="960" ac="85"> value</s><s t="1439" ac="239"> for</s><s p="2" t="1649" ac="162"> our</s><s t="2009" ac="252"> community</s><s p="1" t="2549" ac="212"> and</s></p>
+<p t="105599" d="2050" w="1" a="1">
+</p>
+<p t="105609" d="4620" w="1"><s p="1" ac="200">for</s><s t="481" ac="226"> any</s><s p="2" t="661" ac="166"> university</s><s p="2" t="1290" ac="166"> in</s><s p="2" t="1411" ac="252"> a</s><s p="2" t="1500" ac="132"> Democratic</s></p>
+<p t="107639" d="2590" w="1" a="1">
+</p>
+<p t="107649" d="4290" w="1"><s p="2" ac="132">Society</s><s p="1" t="591" ac="200"> the</s><s p="2" t="1591" ac="155"> university</s><s t="2040" ac="252"> is</s><s t="2161" ac="252"> likewise</s></p>
+<p t="110219" d="1720" w="1" a="1">
+</p>
+<p t="110229" d="4140" w="1"><s ac="252">committed</s><s t="511" ac="252"> to</s><s t="630" ac="252"> protecting</s><s t="810" ac="252"> the</s><s t="1200" ac="252"> academic</s></p>
+<p t="111929" d="2440" w="1" a="1">
+</p>
+<p t="111939" d="4231" w="1"><s p="2" ac="195">freedom</s><s t="331" ac="252"> of</s><s p="1" t="420" ac="213"> our</s><s t="540" ac="252"> faculty</s><s t="1021" ac="252"> members</s><s t="1430" ac="235"> including</s></p>
+<p t="114359" d="1811" w="1" a="1">
+</p>
+<p t="114369" d="4471" w="1"><s ac="247">their</s><s t="151" ac="252"> right</s><s t="331" ac="252"> to</s><s p="2" t="360" ac="70"> criticize</s><s t="990" ac="252"> the</s><s p="1" t="1200" ac="202"> university</s></p>
+<p t="116160" d="2680" w="1" a="1">
+</p>
+<p t="116170" d="5399" w="1"><s ac="238">and</s><s t="180" ac="252"> society</s><s t="1170" ac="252"> at</s><s t="1290" ac="252"> large</s><s p="2" t="1469" ac="146"> with</s><s p="1" t="2129" ac="216"> freedom</s><s p="1" t="2489" ac="207"> from</s></p>
+<p t="118830" d="2739" w="1" a="1">
+</p>
+<p t="118840" d="4709" w="1"><s ac="252">institutional</s><s t="690" ac="252"> censorship</s><s t="1290" ac="226"> as</s><s t="2040" ac="252"> articulated</s></p>
+<p t="121559" d="1990" w="1" a="1">
+</p>
+<p t="121569" d="3360" w="1"><s ac="252">in</s><s t="211" ac="237"> article</s><s t="690" ac="227"> 5</s><s t="900" ac="252"> of</s><s t="930" ac="226"> the</s><s t="1230" ac="227"> memorandum</s><s p="2" t="1620" ac="157"> of</s></p>
+<p t="123539" d="1390" w="1" a="1">
+</p>
+<p t="123549" d="3180" w="1"><s ac="252">agreement</s><s t="151" ac="252"> between</s><s t="660" ac="252"> the</s><s t="901" ac="234"> University</s><s t="1350" ac="252"> of</s></p>
+<p t="124919" d="1810" w="1" a="1">
+</p>
+<p t="124929" d="4171" w="1"><s ac="228">Toronto</s><s p="1" t="451" ac="204"> and</s><s p="1" t="601" ac="201"> the</s><s p="1" t="1140" ac="252"> University</s><s p="1" t="1591" ac="252"> of</s><s p="1" t="1620" ac="252"> Toronto</s></p>
+<p t="126719" d="2381" w="1" a="1">
+</p>
+<p t="126729" d="3871" w="1"><s ac="252">Faculty</s><s t="361" ac="252"> Association</s><s p="1" t="861" ac="208"> the</s><s t="1861" ac="252"> University&#39;s</s></p>
+<p t="129090" d="1510" w="1" a="1">
+</p>
+<p t="129100" d="3660" w="1"><s ac="252">commitment</s><s p="1" t="180" ac="202"> to</s><s t="659" ac="252"> protecting</s><s t="1079" ac="232"> these</s><s t="1230" ac="237"> core</s></p>
+<p t="130590" d="2170" w="1" a="1">
+</p>
+<p t="130600" d="3270" w="1"><s p="2" ac="152">values</s><s t="450" ac="249"> includes</s><s t="1230" ac="249"> your</s><s t="1410" ac="252"> right</s><s t="1590" ac="252"> to</s><s t="1770" ac="252"> express</s></p>
+<p t="132750" d="1120" w="1" a="1">
+</p>
+<p t="132760" d="4309" w="1"><s ac="252">and</s><s t="210" ac="252"> debate</s><s t="420" ac="252"> views</s><s t="750" ac="252"> that</s><s t="930" ac="242"> may</s><s t="1050" ac="242"> be</s></p>
+<p t="133860" d="3209" w="1" a="1">
+</p>
+<p t="133870" d="5060" w="1" p="2"><s ac="142">discomfiting</s><s t="630" ac="167"> or</s><s t="1110" ac="252"> even</s><s t="1410" ac="252"> offensive</s><s t="1890" ac="252"> to</s><s t="2040" ac="252"> others</s></p>
+<p t="137059" d="1871" w="1" a="1">
+</p>
+<p t="137069" d="4320" w="1"><s ac="252">however</s><s t="271" ac="252"> as</s><s t="510" ac="226"> Professor</s><s t="991" ac="248"> Ferber</s><s t="1381" ac="252"> has</s><s t="1530" ac="252"> already</s></p>
+<p t="138920" d="2469" w="1" a="1">
+</p>
+<p t="138930" d="5520" w="1"><s p="1" ac="204">pointed</s><s t="300" ac="252"> out</s><s t="389" ac="225"> to</s><s t="630" ac="252"> you</s><s p="1" t="800" ac="217"> these</s><s t="1800" ac="252"> rights</s><s t="2160" ac="252"> are</s><s p="1" t="2309" ac="205"> not</s></p>
+<p t="141379" d="3071" w="1" a="1">
+</p>
+<p t="141389" d="5011" w="1"><s p="2" ac="161">without</s><s t="360" ac="252"> limitation</s><s p="1" t="1050" ac="208"> and</s><s t="1440" ac="237"> must</s><s p="1" t="2401" ac="202"> be</s><s t="2550" ac="252"> exercised</s></p>
+<p t="144440" d="1960" w="1" a="1">
+</p>
+<p t="144450" d="3439" w="1"><s p="1" ac="217">in</s><s t="269" ac="249"> accordance</s><s t="689" ac="236"> with</s><s t="780" ac="252"> your</s><s t="1019" ac="249"> responsibilities</s></p>
+<p t="146390" d="1499" w="1" a="1">
+</p>
+<p t="146400" d="5220" w="1"><s ac="252">as</s><s t="179" ac="252"> a</s><s t="209" ac="252"> faculty</s><s p="1" t="509" ac="215"> member</s></p>
+<p t="147879" d="3741" w="1" a="1">
+</p>
+<p t="147889" d="5981" w="1"><s ac="252">including</s><s t="1000" ac="237"> upholding</s><s t="1720" ac="252"> applicable</s><s t="1960" ac="253"> laws</s><s t="2731" ac="245"> you</s></p>
+<p t="151610" d="2260" w="1" a="1">
+</p>
+<p t="151620" d="4050" w="1"><s ac="252">have</s><s p="1" t="30" ac="209"> continued</s><s t="629" ac="252"> to</s><s p="1" t="660" ac="217"> state</s><s t="959" ac="252"> public</s><s t="1410" ac="243"> publicly</s></p>
+<p t="153860" d="1810" w="1" a="1">
+</p>
+<p t="153870" d="4319" w="1"><s ac="227">that</s><s t="300" ac="252"> if</s><s t="420" ac="252"> a</s><s t="509" ac="252"> student</s><s p="2" t="720" ac="141"> or</s><s t="989" ac="249"> colleague</s><s t="1380" ac="226"> or</s><s t="1530" ac="252"> staff</s></p>
+<p t="155660" d="2529" w="1" a="1">
+</p>
+<p t="155670" d="4860" w="1"><s ac="252">member</s><s t="390" ac="239"> requests</s><s t="1319" ac="226"> that</s><s p="2" t="1769" ac="167"> you</s><s t="1920" ac="252"> refer</s><s t="2250" ac="252"> to</s><s t="2280" ac="252"> them</s></p>
+<p t="158179" d="2351" w="1" a="1">
+</p>
+<p t="158189" d="4530" w="1"><s p="1" ac="218">using</s><s p="1" t="211" ac="217"> gender-neutral</s><s p="1" t="901" ac="245"> pronouns</s><s p="2" t="1621" ac="165"> you</s><s t="2190" ac="252"> will</s></p>
+<p t="160520" d="2199" w="1" a="1">
+</p>
+<p t="160530" d="4439" w="1"><s ac="255">refuse</s><s p="2" t="420" ac="131"> to</s><s t="569" ac="252"> do</s><s t="720" ac="252"> so</s><s p="2" t="750" ac="132"> and</s><s p="1" t="1260" ac="202"> that</s><s t="1799" ac="232"> you</s><s t="1890" ac="252"> do</s><s p="1" t="2069" ac="205"> not</s></p>
+<p t="162709" d="2260" w="1" a="1">
+</p>
+<p t="162719" d="4080" w="1"><s ac="237">recognize</s><s p="1" t="211" ac="200"> the</s><s t="720" ac="248"> rights</s><s t="931" ac="252"> of</s><s t="1170" ac="252"> others</s><s p="1" t="1500" ac="205"> to</s><s t="2041" ac="252"> tell</s></p>
+<p t="164959" d="1840" w="1" a="1">
+</p>
+<p t="164969" d="4731" w="1"><s ac="252">you</s><s t="151" ac="252"> which</s><s t="330" ac="252"> personal</s><s t="841" ac="252"> pronoun</s><s t="1200" ac="238"> to</s><s t="1380" ac="252"> use</s><s p="1" t="1410" ac="202"> when</s></p>
+<p t="166789" d="2911" w="1" a="1">
+</p>
+<p t="166799" d="4770" w="1"><s ac="252">addressing</s><s p="1" t="360" ac="219"> them</s><s p="1" t="860" ac="214"> the</s><s p="1" t="1860" ac="252"> law</s><s p="1" t="2011" ac="252"> of</s><s p="1" t="2160" ac="239"> Ontario</s></p>
+<p t="169690" d="1879" w="1" a="1">
+</p>
+<p t="169700" d="4629" w="1"><s p="1" ac="200">specifically</s><s t="1000" ac="252"> the</s><s t="1119" ac="252"> Ontario</s><s t="1539" ac="252"> Human</s><s t="1689" ac="252"> Rights</s></p>
+<p t="171559" d="2770" w="1" a="1">
+</p>
+<p t="171569" d="5161" w="1"><s ac="252">Code</s><s p="1" t="320" ac="216"> protects</s><s t="1320" ac="252"> against</s><s t="1760" ac="252"> discrimination</s></p>
+<p t="174319" d="2411" w="1" a="1">
+</p>
+<p t="174329" d="5490" w="1"><s p="2" ac="186">based</s><s t="330" ac="252"> on</s><s t="601" ac="252"> gender</s><s p="1" t="660" ac="206"> expression</s><s p="1" t="1651" ac="206"> and</s><s p="1" t="1800" ac="252"> gender</s></p>
+<p t="176720" d="3099" w="1" a="1">
+</p>
+<p t="176730" d="5280" w="1"><s ac="252">identity</s><s p="1" t="860" ac="214"> depending</s><s p="1" t="1860" ac="208"> on</s><s p="1" t="1979" ac="252"> the</s><s p="1" t="2069" ac="252"> context</s><s p="1" t="2729" ac="202"> if</s></p>
+<p t="179809" d="2201" w="1" a="1">
+</p>
+<p t="179819" d="4170" w="1"><s ac="252">personal</s><s t="510" ac="252"> pronouns</s><s t="870" ac="252"> are</s><s t="1081" ac="252"> being</s><s t="1320" ac="252"> used</s><s t="1590" ac="232"> the</s></p>
+<p t="182000" d="1989" w="1" a="1">
+</p>
+<p t="182010" d="3569" w="1"><s p="1" ac="204">refusal</s><s t="569" ac="252"> by</s><s t="659" ac="252"> a</s><s t="689" ac="252"> teacher</s><s t="959" ac="226"> or</s><s p="1" t="1110" ac="214"> calling</s><s t="1619" ac="235"> to</s><s t="1770" ac="252"> use</s></p>
+<p t="183979" d="1600" w="1" a="1">
+</p>
+<p t="183989" d="3390" w="1"><s ac="252">the</s><s t="271" ac="239"> personal</s><s t="691" ac="252"> pronoun</s><s p="2" t="1051" ac="143"> that</s><s t="1321" ac="252"> is</s><s t="1441" ac="252"> an</s></p>
+<p t="185569" d="1810" w="1" a="1">
+</p>
+<p t="185579" d="6110" w="1"><s ac="252">expression</s><s p="2" t="330" ac="153"> of</s><s t="690" ac="227"> the</s><s t="1110" ac="252"> person&#39;s</s><s t="1500" ac="252"> gender</s></p>
+<p t="187369" d="4320" w="1" a="1">
+</p>
+<p t="187379" d="7920" w="1"><s ac="227">identity</s><s p="1" t="661" ac="216"> can</s><s t="1560" ac="236"> constitute</s><s t="2131" ac="252"> discrimination</s></p>
+<p t="191679" d="3620" w="1" a="1">
+</p>
+<p t="191689" d="6190" w="1"><s p="1" ac="215">in</s><s t="1000" ac="252"> many</s><s t="1841" ac="252"> situations</s><s t="2500" ac="252"> it</s><s t="2651" ac="252"> is</s><s p="1" t="2681" ac="205"> not</s><s t="2920" ac="252"> necessary</s></p>
+<p t="195289" d="2590" w="1" a="1">
+</p>
+<p t="195299" d="4741" w="1"><s ac="252">to</s><s p="1" t="90" ac="216"> use</s><s p="2" t="211" ac="176"> personal</s><s t="900" ac="252"> pronouns</s><s p="2" t="1050" ac="186"> at</s><s t="1440" ac="252"> all</s><s t="1590" ac="226"> but</s></p>
+<p t="197869" d="2171" w="1" a="1">
+</p>
+<p t="197879" d="4411" w="1"><s ac="252">where</s><s t="151" ac="252"> it</s><s p="1" t="271" ac="203"> is</s><s t="450" ac="222"> the</s><s t="1080" ac="233"> personal</s><s t="1500" ac="252"> pronoun</s><s t="1890" ac="252"> that</s><s p="1" t="1920" ac="204"> is</s></p>
+<p t="200030" d="2260" w="1" a="1">
+</p>
+<p t="200040" d="4379" w="1"><s ac="238">chosen</s><s t="360" ac="252"> as</s><s p="2" t="720" ac="132"> the</s><s t="899" ac="252"> person&#39;s</s><s p="1" t="1259" ac="207"> gender</s><s t="1649" ac="252"> identity</s></p>
+<p t="202280" d="2139" w="1" a="1">
+</p>
+<p t="202290" d="5009" w="1"><s ac="252">related</s><s t="449" ac="234"> and</s><s t="569" ac="252"> gender</s><s t="1110" ac="252"> expression</s><s t="1289" ac="252"> related</s></p>
+<p t="204409" d="2890" w="1" a="1">
+</p>
+<p t="204419" d="4951" w="1"><s p="2" ac="168">identifiers</s><s t="600" ac="236"> should</s><s t="1201" ac="252"> be</s><s t="1350" ac="251"> used</s><s t="1880" ac="230"> your</s></p>
+<p t="207289" d="2081" w="1" a="1">
+</p>
+<p t="207299" d="5220" w="1"><s ac="252">statements</s><s t="690" ac="252"> that</s><s p="2" t="810" ac="145"> you</s><s t="991" ac="252"> will</s><s t="1110" ac="252"> refuse</s><s p="2" t="1620" ac="122"> to</s><s t="1921" ac="252"> use</s></p>
+<p t="209360" d="3159" w="1" a="1">
+</p>
+<p t="209370" d="5579" w="1"><s ac="250">transgendered</s><s t="1339" ac="220"> your</s><s t="2339" ac="252"> statements</s><s t="2940" ac="252"> that</s><s t="3089" ac="231"> you</s></p>
+<p t="212509" d="2440" w="1" a="1">
+</p>
+<p t="212519" d="4590" w="1"><s p="1" ac="207">will</s><s t="271" ac="248"> refuse</s><s t="750" ac="234"> to</s><s p="1" t="990" ac="207"> refer</s><s t="1590" ac="252"> to</s><s t="1620" ac="252"> transgendered</s></p>
+<p t="214939" d="2170" w="1" a="1">
+</p>
+<p t="214949" d="5400" w="1"><s ac="252">persons</s><s t="421" ac="252"> using</s><s p="2" t="630" ac="79"> gender</s><s p="2" t="1111" ac="198"> neutral</s><s p="2" t="1500" ac="250"> pronouns</s><s p="2" t="1951" ac="147"> if</s></p>
+<p t="217099" d="3250" w="1" a="1">
+</p>
+<p t="217109" d="4891" w="1"><s ac="252">they</s><s p="1" t="421" ac="204"> ask</s><s t="630" ac="238"> you</s><s t="931" ac="220"> to</s><s t="1080" ac="252"> do</s><s t="1261" ac="252"> so</s><s t="1500" ac="251"> or</s><s t="2340" ac="252"> contrary</s><s p="2" t="2940" ac="195"> to</s><s p="2" t="3060" ac="165"> the</s></p>
+<p t="220339" d="1661" w="1" a="1">
+</p>
+<p t="220349" d="3840" w="1"><s p="1" ac="202">rights</s><s t="271" ac="233"> of</s><s t="480" ac="252"> those</s><s t="630" ac="244"> persons</s><s t="1200" ac="244"> to</s><s t="1320" ac="252"> equal</s></p>
+<p t="221990" d="2199" w="1" a="1">
+</p>
+<p t="222000" d="4109" w="1"><s ac="252">treatment</s><s p="1" t="180" ac="216"> without</s><s t="750" ac="252"> discrimination</s><s t="1379" ac="233"> based</s></p>
+<p t="224179" d="1930" w="1" a="1">
+</p>
+<p t="224189" d="4860" w="1"><s ac="225">on</s><s t="330" ac="252"> their</s><s p="1" t="510" ac="205"> gender</s><s t="1140" ac="252"> identity</s><s p="1" t="1290" ac="204"> and</s><s t="1890" ac="252"> gender</s></p>
+<p t="226099" d="2950" w="1" a="1">
+</p>
+<p t="226109" d="4530" w="1"><s ac="252">expression</s><s p="1" t="981" ac="200"> you</s><s p="1" t="1981" ac="214"> should</s><s p="1" t="2160" ac="252"> also</s><s p="1" t="2340" ac="237"> be</s><s p="1" t="2611" ac="252"> aware</s><s p="2" t="2641" ac="144"> that</s></p>
+<p t="229039" d="1600" w="1" a="1">
+</p>
+<p t="229049" d="3631" w="1"><s p="1" ac="207">many</s><s t="390" ac="252"> members</s><s p="2" t="660" ac="158"> of</s><s p="1" t="870" ac="200"> the</s><s t="1080" ac="252"> university</s><s t="1560" ac="252"> community</s></p>
+<p t="230629" d="2051" w="1" a="1">
+</p>
+<p t="230639" d="3990" w="1" p="1"><s ac="205">are</s><s t="570" ac="203"> concerned</s><s t="990" ac="252"> and</s><s t="1171" ac="234"> distressed</s><s t="1680" ac="252"> about</s><s t="1921" ac="252"> the</s></p>
+<p t="232670" d="1959" w="1" a="1">
+</p>
+<p t="232680" d="4429" w="1"><s ac="223">declarations</s><s t="779" ac="252"> of</s><s t="899" ac="231"> your</s><s t="1110" ac="252"> discriminatory</s></p>
+<p t="234619" d="2490" w="1" a="1">
+</p>
+<p t="234629" d="4950" w="1"><s ac="252">intentions</s><s p="1" t="681" ac="216"> the</s><s p="1" t="1681" ac="201"> university</s><s p="1" t="2161" ac="252"> has</s><s p="1" t="2250" ac="252"> received</s></p>
+<p t="237099" d="2480" w="1" a="1">
+</p>
+<p t="237109" d="4840" w="1"><s ac="252">communications</s><s p="1" t="1000" ac="209"> from</s><s p="2" t="1481" ac="187"> individuals</s><s t="2080" ac="252"> student</s></p>
+<p t="239569" d="2380" w="1" a="1">
+</p>
+<p t="239579" d="6180" w="1"><s ac="252">groups</s><s p="1" t="211" ac="206"> and</s><s t="360" ac="226"> employee</s><s t="870" ac="252"> groups</s><s t="1201" ac="227"> that</s><s t="1921" ac="240"> find</s><s t="2220" ac="252"> my</s></p>
+<p t="241939" d="3820" w="1" a="1">
+</p>
+<p t="241949" d="8130" w="1"><s ac="252">comments</s><s t="421" ac="252"> to</s><s t="510" ac="252"> be</s><s t="540" ac="226"> unacceptable</s><s p="1" t="2810" ac="203"> emotionally</s></p>
+<p t="245749" d="4330" w="1" a="1">
+</p>
+<p t="245759" d="5940" w="1"><s ac="252">disturbing</s><s p="1" t="600" ac="206"> and</s><s t="1460" ac="242"> painful</s><s t="2960" ac="227"> some</s><s t="3960" ac="227"> members</s><s t="4290" ac="252"> of</s></p>
+<p t="250069" d="1630" w="1" a="1">
+</p>
+<p t="250079" d="3930" w="1"><s p="1" ac="200">the</s><s t="180" ac="252"> university</s><s t="601" ac="252"> community</s><s t="630" ac="230"> report</s><s t="1380" ac="252"> that</s><s t="1530" ac="252"> the</s></p>
+<p t="251689" d="2320" w="1" a="1">
+</p>
+<p t="251699" d="4141" w="1"><s ac="252">statements</s><s p="1" t="481" ac="207"> and</s><s p="2" t="630" ac="164"> the</s><s t="990" ac="252"> invective</s><s p="1" t="1680" ac="204"> that</s><s t="2130" ac="252"> has</s></p>
+<p t="253999" d="1841" w="1" a="1">
+</p>
+<p t="254009" d="3991" w="1"><s p="1" ac="208">followed</s><s t="421" ac="248"> in</s><s p="1" t="540" ac="205"> the</s><s t="690" ac="233"> ensuing</s><s t="1021" ac="252"> commentary</s><s t="1650" ac="252"> and</s></p>
+<p t="255830" d="2170" w="1" a="1">
+</p>
+<p t="255840" d="4079" w="1"><s ac="252">debates</s><s t="269" ac="252"> on</s><s t="480" ac="248"> social</s><s t="840" ac="248"> media</s><s p="1" t="1109" ac="206"> have</s><s t="1530" ac="252"> caused</s><s t="1889" ac="252"> them</s></p>
+<p t="257990" d="1929" w="1" a="1">
+</p>
+<p t="258000" d="4560" w="1"><s ac="252">to</s><s t="150" ac="252"> fear</s><s t="389" ac="226"> for</s><s t="630" ac="252"> their</s><s t="750" ac="252"> safety</s><s p="2" t="780" ac="188"> on</s><s t="1440" ac="237"> the</s></p>
+<p t="259909" d="2651" w="1" a="1">
+</p>
+<p t="259919" d="4321" w="1" p="2"><s ac="0">university</s><s t="481" ac="159"> campus</s><s t="1130" ac="226"> some</s><s t="2130" ac="252"> students</s><s p="1" t="2521" ac="216"> have</s></p>
+<p t="262550" d="1690" w="1" a="1">
+</p>
+<p t="262560" d="3750" w="1"><s ac="252">reported</s><s p="1" t="180" ac="204"> being</s><s p="1" t="570" ac="216"> the</s><s p="1" t="750" ac="252"> target</s><s p="2" t="930" ac="187"> of</s><s t="1169" ac="252"> specific</s></p>
+<p t="264230" d="2080" w="1" a="1">
+</p>
+<p t="264240" d="3870" w="1"><s ac="252">and</s><s t="120" ac="225"> violent</s><s t="540" ac="252"> threats</s><s t="810" ac="242"> including</s><s t="1649" ac="224"> threats</s><s t="1919" ac="252"> of</s></p>
+<p t="266300" d="1810" w="1" a="1">
+</p>
+<p t="266310" d="3840" w="1"><s ac="251">assault</s><s p="1" t="359" ac="216"> injury</s><s t="840" ac="252"> and</s><s p="1" t="990" ac="205"> death</s><s t="1169" ac="236"> against</s><s t="1650" ac="252"> them</s></p>
+<p t="268100" d="2050" w="1" a="1">
+</p>
+<p t="268110" d="4680" w="1"><s ac="252">individually</s><s t="630" ac="226"> and</s><s t="809" ac="236"> as</s><s t="1320" ac="252"> members</s><s p="2" t="1470" ac="133"> of</s><s t="1770" ac="252"> the</s></p>
+<p t="270140" d="2650" w="1" a="1">
+</p>
+<p t="270150" d="4290" w="1"><s p="2" ac="173">as</s><s t="60" ac="242"> community</s><s t="600" ac="236"> we</s><s t="1470" ac="252"> trust</s><s p="1" t="1830" ac="207"> that</s><s t="2040" ac="242"> these</s><s t="2220" ac="223"> impacts</s></p>
+<p t="272780" d="1660" w="1" a="1">
+</p>
+<p t="272790" d="3210" w="1"><s ac="242">on</s><s t="210" ac="252"> students</s><s t="690" ac="252"> and</s><s p="1" t="810" ac="204"> others</s><s t="990" ac="252"> were</s><s t="1200" ac="252"> not</s><s p="1" t="1260" ac="207"> your</s></p>
+<p t="274430" d="1570" w="1" a="1">
+</p>
+<p t="274440" d="5250" w="1"><s ac="224">intention</s><s p="1" t="360" ac="200"> in</s><s p="2" t="600" ac="164"> making</s><s t="930" ac="252"> these</s><s t="1020" ac="245"> remarks</s></p>
+<p t="275990" d="3700" w="1" a="1">
+</p>
+<p t="276000" d="5490" w="1"><s p="1" ac="213">however</s><s t="930" ac="230"> in</s><s t="1260" ac="252"> view</s><s p="2" t="1620" ac="167"> of</s><s t="2070" ac="252"> these</s><s t="2190" ac="228"> impacts</s><s p="2" t="2700" ac="147"> as</s><s t="3030" ac="252"> well</s></p>
+<p t="279680" d="1810" w="1" a="1">
+</p>
+<p t="279690" d="5820" w="1"><s p="2" ac="147">as</s><s t="360" ac="252"> the</s><s t="480" ac="228"> requirements</s><s t="1080" ac="252"> of</s><s t="1170" ac="252"> the</s><s t="1260" ac="252"> Ontario</s><s p="2" t="1560" ac="168"> Human</s></p>
+<p t="281480" d="4030" w="1" a="1">
+</p>
+<p t="281490" d="12120" w="1"><s ac="252">Rights</s><s t="180" ac="252"> Code</s><s p="2" t="480" ac="165"> we</s><s t="1410" ac="252"> urge</s><s t="1650" ac="252"> you</s><s t="2070" ac="252"> to</s><s p="2" t="3020" ac="149"> stop</s></p>
+<p t="285500" d="8110" w="1" a="1">
+</p>
+<p t="285510" d="9300" w="1"><s p="2" ac="165">repeating</s><s t="750" ac="243"> these</s><s t="1710" ac="234"> statements</s><s t="6410" ac="244"> as</s><s p="1" t="7410" ac="205"> Professor</s></p>
+<p t="293600" d="1210" w="1" a="1">
+</p>
+<p t="293610" d="3030" w="1"><s ac="241">Ferber</s><s p="1" t="330" ac="218"> informed</s><s t="930" ac="248"> you</s><s t="1020" ac="252"> your</s></p>
+<p t="294800" d="1840" w="1" a="1">
+</p>
+<p t="294810" d="3600" w="1"><s ac="252">responsibilities</s><s t="780" ac="252"> as</s><s t="960" ac="252"> a</s><s t="990" ac="252"> faculty</s><s p="1" t="1260" ac="204"> member</s><s p="2" t="1470" ac="131"> at</s></p>
+<p t="296630" d="1780" w="1" a="1">
+</p>
+<p t="296640" d="4890" w="1"><s p="1" ac="212">the</s><s t="120" ac="248"> University</s><s t="510" ac="252"> of</s><s t="540" ac="247"> Toronto</s><s p="1" t="720" ac="215"> include</s><s t="1650" ac="252"> an</s></p>
+<p t="298400" d="3130" w="1" a="1">
+</p>
+<p t="298410" d="5340" w="1"><s ac="252">obligation</s><s t="660" ac="252"> to</s><s p="1" t="690" ac="201"> uphold</s><s p="1" t="780" ac="214"> the</s><s p="1" t="1290" ac="252"> law</s><s p="1" t="2120" ac="252"> including</s></p>
+<p t="301520" d="2230" w="1" a="1">
+</p>
+<p t="301530" d="4170" w="1"><s p="2" ac="151">the</s><s t="90" ac="252"> Ontario</s><s t="480" ac="252"> Human</s><s t="630" ac="252"> Rights</s><s t="810" ac="252"> Code</s><s p="1" t="1110" ac="205"> and</s><s t="1530" ac="252"> to</s><s t="2070" ac="252"> do</s></p>
+<p t="303740" d="1960" w="1" a="1">
+</p>
+<p t="303750" d="3450" w="1"><s ac="229">so</s><s t="210" ac="252"> as</s><s p="2" t="360" ac="166"> you</s><s t="480" ac="251"> exercise</s><s p="1" t="780" ac="204"> your</s><s t="1110" ac="252"> academic</s><s t="1650" ac="252"> freedom</s></p>
+<p t="305690" d="1510" w="1" a="1">
+</p>
+<p t="305700" d="3030" w="1"><s ac="252">or</s><s t="120" ac="252"> freedom</s><s p="1" t="150" ac="218"> of</s><s t="540" ac="249"> expression</s><s p="1" t="1080" ac="219"> your</s></p>
+<p t="307190" d="1540" w="1" a="1">
+</p>
+<p t="307200" d="3420" w="1"><s ac="252">responsibilities</s><s t="810" ac="252"> as</s><s t="990" ac="252"> a</s><s t="1020" ac="252"> faculty</s><s t="1320" ac="252"> member</s></p>
+<p t="308720" d="1900" w="1" a="1">
+</p>
+<p t="308730" d="3660" w="1"><s p="1" ac="206">also</s><s t="570" ac="252"> include</s><s t="900" ac="252"> dealing</s><s p="1" t="1110" ac="203"> with</s><s t="1320" ac="252"> other</s><s t="1500" ac="252"> members</s></p>
+<p t="310610" d="1780" w="1" a="1">
+</p>
+<p t="310620" d="3330" w="1"><s ac="252">of</s><s t="30" ac="231"> the</s><s t="240" ac="252"> university</s><s t="780" ac="252"> community</s><s p="1" t="810" ac="214"> in</s><s t="1290" ac="228"> ways</s><s t="1500" ac="252"> that</s></p>
+<p t="312380" d="1570" w="1" a="1">
+</p>
+<p t="312390" d="4680" w="1"><s ac="252">provide</s><s t="300" ac="239"> equal</s><s p="2" t="660" ac="165"> treatment</s><s t="1110" ac="236"> without</s></p>
+<p t="313940" d="3130" w="1" a="1">
+</p>
+<p t="313950" d="5400" w="1"><s ac="221">discrimination</s><s p="1" t="1250" ac="207"> article</s><s t="2250" ac="223"> 5</s><s t="2460" ac="252"> of</s><s p="1" t="2490" ac="216"> the</s><s t="2820" ac="252"> memo</s><s t="3030" ac="252"> of</s></p>
+<p t="317060" d="2290" w="1" a="1">
+</p>
+<p t="317070" d="4350" w="1"><s p="1" ac="206">agreement</s><s t="570" ac="252"> between</s><s t="720" ac="240"> you</s><s t="1080" ac="236"> Toronto</s><s p="2" t="1530" ac="0"> n</s><s t="1680" ac="231"> and</s><s t="1860" ac="252"> the</s></p>
+<p t="319340" d="2080" w="1" a="1">
+</p>
+<p t="319350" d="3810" w="1"><s p="2" ac="122">u</s><s t="90" ac="252"> Toronto</s><s t="570" ac="252"> Faculty</s><s t="750" ac="252"> Association</s><s t="1260" ac="252"> not</s><s t="1770" ac="226"> only</s></p>
+<p t="321410" d="1750" w="1" a="1">
+</p>
+<p t="321420" d="4770" w="1"><s ac="252">recognizes</s><s t="630" ac="252"> that</s><s p="1" t="780" ac="219"> faculty</s><s t="1020" ac="228"> members</s><s t="1470" ac="252"> have</s><s t="1590" ac="228"> the</s></p>
+<p t="323150" d="3040" w="1" a="1">
+</p>
+<p t="323160" d="5310" w="1"><s ac="252">right</s><s t="240" ac="251"> to</s><s t="720" ac="252"> academic</s><s t="1260" ac="252"> freedom</s><s p="1" t="1580" ac="205"> but</s><s t="2580" ac="252"> also</s><s p="2" t="2610" ac="189"> notes</s></p>
+<p t="326180" d="2290" w="1" a="1">
+</p>
+<p t="326190" d="4110" w="1"><s p="1" ac="208">the</s><s t="180" ac="226"> responsibility</s><s p="2" t="1020" ac="137"> of</s><s t="1110" ac="252"> faculty</s><s t="1500" ac="252"> members</s><s p="1" t="1530" ac="200"> to</s></p>
+<p t="328460" d="1840" w="1" a="1">
+</p>
+<p t="328470" d="5910" w="1"><s p="1" ac="215">establish</s><s t="480" ac="252"> fair</s><s t="750" ac="252"> and</s><s t="960" ac="252"> ethical</s><s t="1050" ac="252"> dealings</s><s t="1680" ac="252"> with</s></p>
+<p t="330290" d="4090" w="1" a="1">
+</p>
+<p t="330300" d="7110" w="1"><s ac="252">students</s><s t="450" ac="252"> as</s><s t="810" ac="252"> well</s><s t="1050" ac="252"> as</s><s p="2" t="1200" ac="71"> with</s><s t="1530" ac="252"> colleagues</s><s p="1" t="3080" ac="218"> the</s></p>
+<p t="334370" d="3040" w="1" a="1">
+</p>
+<p t="334380" d="4830" w="1"><s ac="252">impact</s><s p="1" t="540" ac="208"> of</s><s p="1" t="810" ac="214"> your</s><s p="1" t="1170" ac="245"> behavior</s><s p="1" t="1800" ac="200"> runs</s><s t="2430" ac="252"> the</s><s t="2640" ac="252"> risk</s><s t="2760" ac="252"> of</s></p>
+<p t="337400" d="1810" w="1" a="1">
+</p>
+<p t="337410" d="4110" w="1"><s ac="249">undermining</s><s t="660" ac="226"> your</s><s t="930" ac="252"> ability</s><s t="1410" ac="252"> to</s><s p="2" t="1440" ac="167"> conduct</s></p>
+<p t="339200" d="2320" w="1" a="1">
+</p>
+<p t="339210" d="5250" w="1"><s ac="227">essential</s><s t="780" ac="252"> components</s><s t="1320" ac="252"> of</s><s p="1" t="1410" ac="200"> your</s><s t="1560" ac="252"> job</s><s t="1860" ac="235"> as</s><s t="2070" ac="252"> a</s></p>
+<p t="341510" d="2950" w="1" a="1">
+</p>
+<p t="341520" d="4800" w="1"><s ac="252">faculty</s><s p="2" t="390" ac="156"> member</s><s t="900" ac="236"> and</s><s t="1160" ac="234"> we</s><s t="2160" ac="241"> urge</s><s t="2370" ac="252"> you</s><s p="2" t="2730" ac="158"> to</s></p>
+<p t="344450" d="1870" w="1" a="1">
+</p>
+<p t="344460" d="4230" w="1"><s ac="252">consider</s><s p="1" t="180" ac="213"> your</s><s t="630" ac="245"> obligations</s><s t="1350" ac="252"> as</s><s t="1470" ac="252"> a</s><s t="1560" ac="252"> faculty</s></p>
+<p t="346310" d="2380" w="1" a="1">
+</p>
+<p t="346320" d="5270" w="1"><s p="1" ac="206">member</s><s p="2" t="240" ac="152"> to</s><s t="960" ac="252"> act</s><s t="1140" ac="252"> in</s><s t="1320" ac="252"> a</s><s t="1410" ac="252"> manner</s><s t="1620" ac="236"> that</s><s t="1980" ac="223"> is</s></p>
+<p t="348680" d="2910" w="1" a="1">
+</p>
+<p t="348690" d="5850" w="1"><s ac="252">consistent</s><s p="2" t="60" ac="187"> with</s><s t="840" ac="248"> the</s><s t="1080" ac="252"> law</s><s t="1320" ac="252"> and</s><s p="1" t="1770" ac="207"> with</s></p>
+<p t="351580" d="2960" w="1" a="1">
+</p>
+<p t="351590" d="5050" w="1"><s p="2" ac="82">University</s><s t="1000" ac="252"> policy</s><s p="1" t="1320" ac="202"> you</s><s t="2320" ac="252"> have</s><s p="1" t="2350" ac="200"> referred</s><s p="2" t="2800" ac="166"> to</s></p>
+<p t="354530" d="2110" w="1" a="1">
+</p>
+<p t="354540" d="3900" w="1"><s ac="252">allegations</s><s p="1" t="510" ac="207"> of</s><s p="1" t="840" ac="216"> criminal</s><s p="2" t="1020" ac="144"> behavior</s><s t="1380" ac="252"> by</s><s t="1800" ac="252"> some</s></p>
+<p t="356630" d="1810" w="1" a="1">
+</p>
+<p t="356640" d="5190" w="1"><s ac="247">in</s><s t="210" ac="252"> attendance</s><s p="2" t="330" ac="166"> at</s><s t="810" ac="252"> the</s><s t="930" ac="252"> rally</s><s p="1" t="1140" ac="205"> of</s><s p="2" t="1320" ac="194"> October</s></p>
+<p t="358430" d="3400" w="1" a="1">
+</p>
+<p t="358440" d="5460" w="1"><s ac="252">11th</s><s t="390" ac="230"> 2016</s><s p="1" t="1350" ac="211"> the</s><s p="2" t="2100" ac="149"> university</s><s t="2610" ac="252"> deplores</s><s t="3060" ac="252"> acts</s></p>
+<p t="361820" d="2080" w="1" a="1">
+</p>
+<p t="361830" d="4140" w="1"><s ac="252">of</s><s t="210" ac="252"> violence</s><s p="1" t="390" ac="206"> and</s><s p="2" t="780" ac="182"> its</s><s t="1020" ac="252"> disruption</s><s t="1620" ac="252"> of</s><s t="1710" ac="243"> civil</s></p>
+<p t="363890" d="2080" w="1" a="1">
+</p>
+<p t="363900" d="3870" w="1"><s ac="252">debate</s><s t="200" ac="226"> the</s><s t="1200" ac="252"> allegations</s><s t="1800" ac="252"> of</s><s p="1" t="1920" ac="207"> criminal</s></p>
+<p t="365960" d="1810" w="1" a="1">
+</p>
+<p t="365970" d="4170" w="1"><s p="1" ac="211">behavior</s><s t="360" ac="247"> are</s><s t="810" ac="252"> being</s><s t="990" ac="252"> investigated</s><s t="1440" ac="252"> by</s><s t="1770" ac="252"> the</s></p>
+<p t="367760" d="2380" w="1" a="1">
+</p>
+<p t="367770" d="3990" w="1"><s ac="220">Toronto</s><s p="2" t="270" ac="186"> Police</s><s p="1" t="510" ac="216"> Service</s><s t="1080" ac="245"> the</s><s t="1920" ac="236"> University</s></p>
+<p t="370130" d="1630" w="1" a="1">
+</p>
+<p t="370140" d="3570" w="1"><s p="1" ac="218">continues</s><s t="210" ac="236"> to</s><s p="1" t="510" ac="206"> emphasize</s><s p="1" t="750" ac="207"> to</s><s p="1" t="1260" ac="252"> its</s><s p="1" t="1410" ac="252"> community</s></p>
+<p t="371750" d="1960" w="1" a="1">
+</p>
+<p t="371760" d="4110" w="1"><s p="2" ac="188">members</s><s t="570" ac="252"> the</s><s t="690" ac="252"> obligation</s><s t="1320" ac="252"> to</s><s p="2" t="1350" ac="144"> engage</s><s p="2" t="1770" ac="158"> in</s></p>
+<p t="373700" d="2170" w="1" a="1">
+</p>
+<p t="373710" d="4230" w="1"><s ac="252">civil</s><s p="1" t="390" ac="200"> nonviolent</s><s t="1320" ac="252"> interactions</s><s t="1920" ac="252"> at</s><s t="2040" ac="252"> all</s></p>
+<p t="375860" d="2080" w="1" a="1">
+</p>
+<p t="375870" d="4400" w="1"><s ac="252">times</s><s p="2" t="300" ac="160"> including</s><s t="1110" ac="252"> when</s><s t="1260" ac="252"> difficult</s><s t="1710" ac="252"> topics</s></p>
+<p t="377930" d="2340" w="1" a="1">
+</p>
+<p t="377940" d="5160" w="1"><s ac="252">are</s><s t="150" ac="252"> discussed</s><s t="180" ac="252"> on</s><s t="690" ac="252"> campus</s><s p="1" t="1140" ac="205"> yours</s><s p="1" t="1740" ac="201"> sincerely</s></p>
+<p t="380260" d="2840" w="1" a="1">
+</p>
+<p t="380270" d="5500" w="1" p="1"><s ac="202">David</s><s t="1000" ac="217"> Cameron</s><s t="1450" ac="235"> Dean</s><s t="1780" ac="252"> Faculty</s><s t="2170" ac="252"> of</s><s t="2440" ac="252"> Arts</s><s t="2650" ac="242"> and</s></p>
+<p t="383090" d="2680" w="1" a="1">
+</p>
+<p t="383100" d="5100" w="1"><s p="2" ac="187">Science</s><s p="2" t="90" ac="0"> Co</s><s p="1" t="1080" ac="218"> Ben</s><s t="1320" ac="238"> Nelson</s><s t="1560" ac="235"> vice</s><s t="2100" ac="243"> provost</s></p>
+<p t="385760" d="2440" w="1" a="1">
+</p>
+<p t="385770" d="4980" w="1"><s ac="248">faculty</s><s t="540" ac="252"> and</s><s p="2" t="660" ac="139"> academic</s><s t="1110" ac="252"> life</s><s p="1" t="1320" ac="200"> copied</s><s p="1" t="2250" ac="217"> to</s></p>
+<p t="388190" d="2560" w="1" a="1">
+</p>
+<p t="388200" d="9420" w="1"><s p="2" ac="128">professor</s><s p="2" t="600" ac="88"> Suzanne</s><s p="2" t="960" ac="239"> Ferber</s><s p="2" t="1410" ac="237"> chair</s><s p="1" t="2070" ac="206"> of</s><s t="2370" ac="231"> the</s></p>
+<p t="390740" d="6880" w="1" a="1">
+</p>
+<p t="390750" d="12140" w="1" p="1"><s ac="200">department</s><s t="480" ac="216"> of</s><s t="630" ac="200"> psychology</s><s t="1700" ac="201"> so</s><s t="5540" ac="239"> I&#39;m</s><s t="6540" ac="233"> being</s></p>
+<p t="397610" d="5280" w="1" a="1">
+</p>
+<p t="397620" d="5270" w="1"><s ac="237">urged</s><s p="1" t="1190" ac="203"> to</s><s t="2190" ac="252"> stop</s><s t="2460" ac="242"> saying</s><s t="2850" ac="227"> what</s><s t="3090" ac="245"> I&#39;m</s><s t="3240" ac="239"> saying</s></p>
+<p t="403010" w="1" a="1">
+</p>
+<p t="403020" d="4840" w="1"><s ac="252">well</s><s t="1000" ac="252"> the</s><s t="1239" ac="252"> next</s><s t="1419" ac="220"> video</s><s t="1750" ac="236"> I&#39;ll</s><s t="1869" ac="252"> post</s><s t="2109" ac="247"> and</s></p>
+<p t="405450" d="2410" w="1" a="1">
+</p>
+<p t="405460" d="4519" w="1"><s ac="252">hopefully</s><s p="1" t="329" ac="208"> today</s><s t="600" ac="247"> will</s><s t="1440" ac="252"> be</s><s t="1590" ac="252"> my</s><s t="1739" ac="252"> response</s><s p="2" t="2160" ac="169"> to</s></p>
+<p t="407850" d="2129" w="1" a="1">
+</p>
+<p t="407860" d="2119" w="1"><s ac="227">that</s></p>
+<p t="416100" w="1" a="1">
+</p>
+<p t="416110" d="2060" w="1"><s ac="236">you</s></p>
+</body>
+</timedtext>

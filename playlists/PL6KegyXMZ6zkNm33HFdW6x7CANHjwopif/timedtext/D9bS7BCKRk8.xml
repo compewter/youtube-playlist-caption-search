@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#E5E5E5"/>
+<pen id="2" fc="#CCCCCC"/>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="60" d="7009" w="1"><s ac="252">about</s><s t="900" ac="252"> a</s><s t="929" ac="252"> month</s><s p="1" t="1110" ac="202"> ago</s><s t="1320" ac="252"> I</s><s t="1740" ac="252"> had</s><s p="2" t="2099" ac="120"> my</s><s t="2490" ac="252"> funding</s><s t="2970" ac="252"> for</s></p>
+<p t="3230" d="3839" w="1" a="1">
+</p>
+<p t="3240" d="6750" w="1"><s ac="252">my</s><s t="120" ac="252"> ongoing</s><s p="1" t="300" ac="201"> research</s><s t="840" ac="252"> projects</s><s p="1" t="1820" ac="208"> refused</s><s t="2820" ac="252"> by</s></p>
+<p t="7059" d="2931" w="1" a="1">
+</p>
+<p t="7069" d="5371" w="1"><s p="2" ac="145">the</s><s t="1000" ac="252"> federal</s><s t="1331" ac="252"> government</s><s p="2" t="1751" ac="119"> Social</s><s p="2" t="2561" ac="146"> Sciences</s></p>
+<p t="9980" d="2460" w="1" a="1">
+</p>
+<p t="9990" d="6539" w="1"><s p="1" ac="213">and</s><s t="149" ac="252"> Humanities</s><s t="600" ac="252"> Research</s><s p="2" t="630" ac="142"> Council</s><s t="1470" ac="252"> and</s></p>
+<p t="12430" d="4099" w="1" a="1">
+</p>
+<p t="12440" d="7599" w="1"><s p="2" ac="188">ezell</s><s p="2" t="1000" ac="0"> event</s><s p="1" t="1329" ac="208"> from</s><s t="2050" ac="255"> rebel</s><s t="2290" ac="224"> media</s><s t="3000" ac="224"> decided</s><s t="4000" ac="232"> to</s></p>
+<p t="16519" d="3520" w="1" a="1">
+</p>
+<p t="16529" d="6660" w="1"><s ac="252">host</s><s p="2" t="411" ac="105"> indiegogo</s><s t="1411" ac="252"> crowdfunding</s><s t="1670" ac="229"> campaign</s><s p="2" t="2670" ac="143"> to</s></p>
+<p t="20029" d="3160" w="1" a="1">
+</p>
+<p t="20039" d="5910" w="1"><s ac="252">replace</s><s t="271" ac="229"> it</s><s p="1" t="570" ac="202"> which</s><s t="990" ac="252"> was</s><s p="1" t="1171" ac="216"> very</s><s t="1441" ac="226"> good</s><s p="2" t="1711" ac="188"> of</s><s t="1830" ac="252"> him</s><s p="2" t="2150" ac="111"> so</s></p>
+<p t="23179" d="2770" w="1" a="1">
+</p>
+<p t="23189" d="4951" w="1"><s ac="248">thank</s><s p="1" t="391" ac="208"> you</s><s p="1" t="510" ac="214"> to</s><s p="1" t="541" ac="202"> era</s><s t="1080" ac="227"> and</s><s t="1381" ac="252"> also</s><s p="2" t="1711" ac="146"> to</s><s p="2" t="1891" ac="0"> i10</s><s p="2" t="2491" ac="61"> gill</s></p>
+<p t="25939" d="2201" w="1" a="1">
+</p>
+<p t="25949" d="4320" w="1"><s ac="235">board</s><s t="271" ac="252"> who</s><s t="570" ac="252"> helped</s><s t="900" ac="252"> out</s><s t="1051" ac="252"> a</s><s t="1080" ac="252"> lot</s><s t="1291" ac="226"> and</s><s t="1531" ac="230"> to</s><s p="2" t="1650" ac="126"> Hannah</s></p>
+<p t="28130" d="2139" w="1" a="1">
+</p>
+<p t="28140" d="5329" w="1"><s p="2" ac="72">van</s><s p="1" t="510" ac="203"> der</s><s p="2" t="660" ac="167"> coy</s><s t="870" ac="224"> for</s><s t="1379" ac="252"> managing</s><s t="1740" ac="230"> it</s><s t="1979" ac="252"> was</s></p>
+<p t="30259" d="3210" w="1" a="1">
+</p>
+<p t="30269" d="5700" w="1"><s ac="240">extraordinarily</s><s t="510" ac="252"> helpful</s><s p="2" t="1581" ac="86"> we</s><s t="2581" ac="252"> raised</s><s t="2821" ac="243"> about</s></p>
+<p t="33459" d="2510" w="1" a="1">
+</p>
+<p t="33469" d="4601" w="1"><s p="2" ac="125">$80,000</s><s t="1000" ac="252"> the</s><s p="1" t="1180" ac="205"> first</s><s t="1391" ac="252"> day</s><s p="1" t="1601" ac="218"> and</s><s p="1" t="1871" ac="202"> then</s><s p="1" t="1991" ac="233"> since</s></p>
+<p t="35959" d="2111" w="1" a="1">
+</p>
+<p t="35969" d="3301" w="1"><s ac="237">then</s><s p="1" t="241" ac="205"> we&#39;ve</s><s t="871" ac="252"> raised</s><s p="1" t="1261" ac="217"> about</s><s t="1621" ac="230"> a</s><s t="1680" ac="252"> hundred</s><s p="2" t="2011" ac="174"> and</s></p>
+<p t="38060" d="1210" w="1" a="1">
+</p>
+<p t="38070" d="3570" w="1"><s ac="252">eighty</s><s t="90" ac="236"> thousand</s><s p="2" t="540" ac="155"> dollars</s><s t="570" ac="230"> twenty-five</s></p>
+<p t="39260" d="2380" w="1" a="1">
+</p>
+<p t="39270" d="4710" w="1"><s ac="230">hundred</s><s t="30" ac="236"> backers</s><s t="750" ac="236"> the</s><s p="1" t="1100" ac="210"> original</s><s t="2100" ac="237"> grant</s></p>
+<p t="41630" d="2350" w="1" a="1">
+</p>
+<p t="41640" d="4110" w="1"><s ac="252">proposal</s><s t="540" ac="252"> was</s><s p="2" t="1230" ac="147"> for</s><s t="1470" ac="239"> three</s><s p="2" t="1680" ac="165"> hundred</s><s t="1980" ac="239"> thousand</s></p>
+<p t="43970" d="1780" w="1" a="1">
+</p>
+<p t="43980" d="3899" w="1"><s ac="239">dollars</s><s t="270" ac="252"> across</s><s p="1" t="599" ac="219"> five</s><s t="989" ac="252"> years</s><s t="1320" ac="252"> so</s><s t="1559" ac="252"> that&#39;s</s></p>
+<p t="45740" d="2139" w="1" a="1">
+</p>
+<p t="45750" d="4170" w="1"><s p="1" ac="208">basically</s><s t="660" ac="255"> three</s><s t="899" ac="252"> years</s><s t="1140" ac="252"> of</s><s p="1" t="1289" ac="203"> funding</s><s t="1649" ac="252"> so</s><s t="1829" ac="252"> I&#39;m</s></p>
+<p t="47869" d="2051" w="1" a="1">
+</p>
+<p t="47879" d="4430" w="1"><s ac="252">extraordinarily</s><s t="481" ac="252"> impressed</s><s t="1441" ac="252"> by</s><s p="2" t="1651" ac="156"> that</s><s t="1831" ac="252"> and</s></p>
+<p t="49910" d="2399" w="1" a="1">
+</p>
+<p t="49920" d="6510" w="1"><s ac="252">also</s><s p="1" t="150" ac="208"> very</s><s t="479" ac="252"> thankful</s><s p="1" t="690" ac="201"> so</s><s t="1229" ac="252"> for</s><s t="1590" ac="226"> all</s><s t="1709" ac="252"> of</s><s p="2" t="1740" ac="167"> you</s><s t="1979" ac="252"> who</s></p>
+<p t="52299" d="4131" w="1" a="1">
+</p>
+<p t="52309" d="5951" w="1"><s ac="252">donated</s><s t="1890" ac="236"> thank</s><s t="2890" ac="252"> you</s><s t="3011" ac="227"> very</s><s t="3131" ac="238"> much</s><s t="3340" ac="227"> I&#39;ve</s><s t="3611" ac="252"> put</s></p>
+<p t="56420" d="1840" w="1" a="1">
+</p>
+<p t="56430" d="4140" w="1"><s p="1" ac="200">together</s><s t="120" ac="243"> this</s><s p="1" t="390" ac="200"> video</s><s p="1" t="690" ac="206"> with</s><s p="1" t="1320" ac="245"> two</s><s p="1" t="1530" ac="226"> of</s><s p="2" t="1679" ac="174"> my</s></p>
+<p t="58250" d="2320" w="1" a="1">
+</p>
+<p t="58260" d="4080" w="1"><s ac="252">graduate</s><s t="420" ac="227"> students</s><s t="869" ac="252"> whose</s><s t="1200" ac="252"> academic</s><s t="1500" ac="252"> careers</s></p>
+<p t="60560" d="1780" w="1" a="1">
+</p>
+<p t="60570" d="4350" w="1"><s ac="252">will</s><s t="210" ac="252"> be</s><s t="360" ac="252"> supported</s><s t="840" ac="252"> as</s><s t="960" ac="252"> a</s><s t="989" ac="252"> consequence</s><s t="1530" ac="225"> of</s></p>
+<p t="62330" d="2590" w="1" a="1">
+</p>
+<p t="62340" d="4590" w="1"><s ac="252">this</s><s t="239" ac="236"> funding</s><s t="840" ac="249"> so</s><s p="1" t="1410" ac="210"> that</s><s t="1679" ac="255"> you</s><s t="2010" ac="239"> know</s><s t="2249" ac="252"> a</s><s t="2279" ac="252"> little</s></p>
+<p t="64910" d="2020" w="1" a="1">
+</p>
+<p t="64920" d="5120" w="1"><s p="2" ac="132">bit</s><s p="1" t="209" ac="207"> more</s><s t="360" ac="252"> about</s><s t="540" ac="239"> them</s><s t="809" ac="252"> and</s><s p="2" t="989" ac="167"> also</s><s t="1379" ac="242"> about</s><s p="2" t="1739" ac="186"> what</s></p>
+<p t="66920" d="3120" w="1" a="1">
+</p>
+<p t="66930" d="7110" w="1"><s ac="252">it</s><s p="1" t="119" ac="207"> is</s><s p="2" t="240" ac="166"> that</s><s t="509" ac="252"> you</s><s t="689" ac="252"> helped</s><s t="1380" ac="252"> out</s><s t="1830" ac="252"> with</s><s t="2160" ac="233"> the</s><s t="2670" ac="226"> third</s></p>
+<p t="70030" d="4010" w="1" a="1">
+</p>
+<p t="70040" d="5759" w="1"><s ac="224">Christine</s><s t="1000" ac="246"> Brophy</s><s p="1" t="1740" ac="214"> is</s><s p="1" t="2740" ac="217"> working</s><s p="1" t="3160" ac="252"> on</s><s p="1" t="3310" ac="206"> political</s></p>
+<p t="74030" d="1769" w="1" a="1">
+</p>
+<p t="74040" d="4020" w="1"><s ac="252">correctness</s><s p="2" t="149" ac="164"> and</s><s p="2" t="780" ac="166"> the</s><s p="2" t="869" ac="252"> relationship</s><s p="2" t="1439" ac="252"> between</s></p>
+<p t="75789" d="2271" w="1" a="1">
+</p>
+<p t="75799" d="5591" w="1"><s p="2" ac="162">personality</s><s t="1000" ac="252"> and</s><s t="1180" ac="252"> political</s><s t="1631" ac="224"> belief</s><s t="1841" ac="238"> as</s><s t="2081" ac="248"> well</s></p>
+<p t="78050" d="3340" w="1" a="1">
+</p>
+<p t="78060" d="5280" w="1"><s ac="252">as</s><s t="180" ac="252"> on</s><s t="390" ac="239"> on</s><s t="809" ac="252"> a</s><s p="1" t="1489" ac="217"> biological</s><s t="2489" ac="252"> basis</s><s t="2849" ac="223"> of</s><s t="3030" ac="252"> the</s><s p="1" t="3180" ac="201"> big</s></p>
+<p t="81380" d="1960" w="1" a="1">
+</p>
+<p t="81390" d="4830" w="1"><s p="1" ac="201">five</s><s t="240" ac="252"> personality</s><s p="1" t="320" ac="202"> traits</s></p>
+<p t="83330" d="2890" w="1" a="1">
+</p>
+<p t="83340" d="5220" w="1"><s ac="252">she</s><s t="779" ac="252"> couldn&#39;t</s><s t="1130" ac="225"> contribute</s><s t="2130" ac="252"> to</s><s t="2250" ac="252"> the</s><s t="2340" ac="252"> video</s><s t="2580" ac="230"> for</s></p>
+<p t="86210" d="2350" w="1" a="1">
+</p>
+<p t="86220" d="3870" w="1"><s ac="235">for</s><s t="960" ac="252"> various</s><s t="1320" ac="236"> reasons</s><s t="1680" ac="252"> this</s><s t="1890" ac="226"> time</s><s t="2130" ac="239"> around</s></p>
+<p t="88550" d="1540" w="1" a="1">
+</p>
+<p t="88560" d="4099" w="1"><s p="2" ac="144">although</s><s t="599" ac="252"> she</s><s t="720" ac="236"> did</s><s t="930" ac="252"> a</s><s t="960" ac="252"> lengthy</s><s t="1320" ac="252"> interview</s></p>
+<p t="90080" d="2579" w="1" a="1">
+</p>
+<p t="90090" d="6300" w="1" p="2"><s ac="167">with</s><s t="330" ac="122"> rebel</s><s t="930" ac="239"> media</s><s t="1260" ac="252"> that</s><s t="1470" ac="252"> you</s><s t="1620" ac="252"> can</s><s t="1800" ac="252"> catch</s><s t="2010" ac="252"> on</s></p>
+<p t="92649" d="3741" w="1" a="1">
+</p>
+<p t="92659" d="6881" w="1"><s ac="239">on</s><s t="1000" ac="227"> social</s><s p="2" t="1691" ac="161"> justice</s><s p="2" t="2140" ac="186"> issues</s><s p="2" t="2681" ac="252"> and</s><s p="2" t="2920" ac="252"> and</s><s p="2" t="3611" ac="252"> their</s></p>
+<p t="96380" d="3160" w="1" a="1">
+</p>
+<p t="96390" d="5790" w="1"><s ac="236">basis</s><s p="2" t="510" ac="124"> in</s><s t="689" ac="243"> personality</s><s p="2" t="1320" ac="194"> and</s><s t="1500" ac="252"> so</s><s t="2030" ac="239"> after</s><s t="3030" ac="252"> this</s></p>
+<p t="99530" d="2650" w="1" a="1">
+</p>
+<p t="99540" d="4770" w="1"><s ac="227">very</s><s t="300" ac="252"> brief</s><s t="539" ac="252"> introduction</s><s p="1" t="1219" ac="205"> I&#39;m</s><s t="2219" ac="252"> going</s><s p="2" t="2280" ac="142"> to</s><s t="2550" ac="241"> let</s></p>
+<p t="102170" d="2140" w="1" a="1">
+</p>
+<p t="102180" d="3719" w="1"><s ac="250">the</s><s t="149" ac="252"> students</s><s t="540" ac="231"> speak</s><s p="1" t="1140" ac="218"> for</s><s t="1469" ac="252"> each</s><s t="1560" ac="245"> for</s><s t="1950" ac="249"> five</s></p>
+<p t="104300" d="1599" w="1" a="1">
+</p>
+<p t="104310" d="2400" w="1"><s ac="252">minutes</s><s p="1" t="269" ac="205"> they&#39;ve</s><s t="540" ac="252"> prepared</s><s t="870" ac="228"> a</s><s t="989" ac="252"> video</s><s t="1080" ac="226"> telling</s></p>
+<p t="105889" d="821" w="1" a="1">
+</p>
+<p t="105899" d="4381" w="1"><s p="1" ac="215">you</s><s t="91" ac="252"> what</s><s t="301" ac="223"> they&#39;re</s><s t="481" ac="252"> up</s><s t="510" ac="252"> to</s></p>
+<p t="106700" d="3580" w="1" a="1">
+</p>
+<p t="106710" d="6240" w="1"><s ac="252">so</s><s t="920" ac="252"> anyways</s><s t="1920" ac="246"> thanks</s><s t="2369" ac="233"> very</s><s t="2549" ac="236"> much</s><s p="2" t="2880" ac="159"> we</s><s t="3180" ac="252"> have</s><s p="1" t="3210" ac="201"> one</s></p>
+<p t="110270" d="2680" w="1" a="1">
+</p>
+<p t="110280" d="5729" w="1"><s ac="252">day</s><s p="2" t="150" ac="132"> left</s><s t="390" ac="252"> of</s><s t="629" ac="252"> the</s><s t="750" ac="252"> funding</s><s t="1080" ac="252"> campaign</s><s t="1670" ac="242"> runs</s></p>
+<p t="112940" d="3069" w="1" a="1">
+</p>
+<p t="112950" d="7890" w="1"><s ac="247">for</s><s t="209" ac="243"> 24</s><s t="570" ac="252"> more</s><s t="750" ac="241"> hours</s><s p="1" t="809" ac="215"> so</s><s t="1320" ac="252"> this</s><s t="2250" ac="223"> is</s><s t="2430" ac="252"> the</s><s t="2550" ac="252"> final</s></p>
+<p t="115999" d="4841" w="1" a="1">
+</p>
+<p t="116009" d="6841" w="1"><s p="2" ac="159">update</s><s t="390" ac="252"> in</s><s t="601" ac="252"> all</s><s t="720" ac="250"> likely</s><s t="1051" ac="237"> living</s><s p="1" t="1261" ac="201"> my</s><s p="2" t="1921" ac="160"> life</s><s t="3831" ac="252"> hi</s></p>
+<p t="120830" d="2020" w="1" a="1">
+</p>
+<p t="120840" d="3930" w="1"><s ac="252">everyone</s><s t="270" ac="239"> my</s><s t="1080" ac="252"> name</s><s t="1260" ac="252"> is</s><s p="1" t="1290" ac="203"> John</s><s p="2" t="1559" ac="100"> Tennant</s></p>
+<p t="122840" d="1930" w="1" a="1">
+</p>
+<p t="122850" d="4409" w="1"><s ac="248">I&#39;m</s><s t="449" ac="252"> a</s><s t="510" ac="252"> first</s><s t="930" ac="252"> year</s><s p="1" t="1019" ac="204"> masters</s><s t="1260" ac="252"> student</s><s t="1530" ac="252"> in</s><s p="1" t="1860" ac="204"> dr.</s></p>
+<p t="124760" d="2499" w="1" a="1">
+</p>
+<p t="124770" d="4749" w="1"><s p="1" ac="207">Peterson&#39;s</s><s t="779" ac="245"> lab</s><s t="959" ac="238"> my</s><s t="1709" ac="243"> research</s><s t="2129" ac="227"> interests</s></p>
+<p t="127249" d="2270" w="1" a="1">
+</p>
+<p t="127259" d="4430" w="1"><s ac="252">include</s><s t="91" ac="243"> technology</s><s t="961" ac="246"> for</s><s p="2" t="1321" ac="138"> condom</s></p>
+<p t="129509" d="2180" w="1" a="1">
+</p>
+<p t="129519" d="4541" w="1"><s p="1" ac="201">personality</s><s t="1000" ac="252"> development</s><s p="1" t="1330" ac="202"> and</s><s t="1601" ac="246"> music</s></p>
+<p t="131679" d="2381" w="1" a="1">
+</p>
+<p t="131689" d="4741" w="1"><s p="2" ac="74">commission</s><s p="1" t="561" ac="205"> my</s><s t="1561" ac="252"> background</s><s t="1951" ac="252"> is</s><s t="2041" ac="252"> a</s><s p="2" t="2071" ac="124"> little</s><s t="2250" ac="252"> bit</s></p>
+<p t="134050" d="2380" w="1" a="1">
+</p>
+<p t="134060" d="4230" w="1"><s ac="252">different</s><s p="2" t="330" ac="105"> I</s><s t="509" ac="252"> did</s><s t="1349" ac="252"> my</s><s t="1500" ac="223"> bachelor&#39;s</s><s p="2" t="1950" ac="78"> degree</s><s p="1" t="2280" ac="206"> in</s></p>
+<p t="136420" d="1870" w="1" a="1">
+</p>
+<p t="136430" d="4169" w="1"><s p="2" ac="156">music</s><s t="270" ac="252"> theory</s><s p="2" t="449" ac="141"> and</s><s t="1229" ac="252"> my</s><s t="1500" ac="252"> undergraduate</s></p>
+<p t="138280" d="2319" w="1" a="1">
+</p>
+<p t="138290" d="4949" w="1"><s p="2" ac="198">research</s><s t="449" ac="252"> focused</s><s t="960" ac="252"> on</s><s t="1110" ac="226"> mathematical</s><s p="1" t="1949" ac="216"> models</s></p>
+<p t="140589" d="2650" w="1" a="1">
+</p>
+<p t="140599" d="3991" w="1"><s ac="252">of</s><s t="121" ac="220"> musical</s><s t="631" ac="252"> harmony</s><s p="1" t="750" ac="207"> and</s><s p="2" t="1200" ac="134"> Tambor</s><s t="1621" ac="228"> this</s><s t="2431" ac="252"> year</s></p>
+<p t="143229" d="1361" w="1" a="1">
+</p>
+<p t="143239" d="3060" w="1"><s ac="238">I&#39;ll</s><s t="121" ac="252"> be</s><s t="151" ac="242"> designing</s><s p="1" t="541" ac="209"> and</s><s t="840" ac="252"> testing</s><s t="991" ac="252"> a</s></p>
+<p t="144580" d="1719" w="1" a="1">
+</p>
+<p t="144590" d="4319" w="1"><s ac="252">biofeedback</s><s t="420" ac="221"> system</s><s t="1020" ac="252"> for</s><s t="1259" ac="252"> increasing</s></p>
+<p t="146289" d="2620" w="1" a="1">
+</p>
+<p t="146299" d="5910" w="1"><s ac="252">people&#39;s</s><s t="391" ac="252"> ability</s><s p="2" t="871" ac="167"> to</s><s t="991" ac="245"> flow</s><s t="1610" ac="243"> self-regulate</s></p>
+<p t="148899" d="3310" w="1" a="1">
+</p>
+<p t="148909" d="4951" w="1"><s p="1" ac="201">and</s><s p="1" t="121" ac="217"> get</s><s p="1" t="901" ac="252"> in</s><s p="1" t="991" ac="252"> tune</s><s p="1" t="1170" ac="204"> with</s><s t="1321" ac="252"> one</s><s t="1470" ac="252"> another</s><s p="1" t="2300" ac="200"> I&#39;m</s></p>
+<p t="152199" d="1661" w="1" a="1">
+</p>
+<p t="152209" d="4650" w="1"><s ac="252">using</s><s t="331" ac="226"> a</s><s t="481" ac="252"> variety</s><s p="1" t="601" ac="212"> of</s><s p="1" t="870" ac="201"> sensors</s><s p="1" t="1291" ac="252"> to</s><s p="2" t="1411" ac="163"> measure</s></p>
+<p t="153850" d="3009" w="1" a="1">
+</p>
+<p t="153860" d="5760" w="1"><s ac="252">things</s><s p="1" t="209" ac="212"> like</s><s t="390" ac="231"> heart</s><s t="780" ac="252"> rate</s><s p="1" t="810" ac="216"> breathing</s><s p="1" t="1999" ac="212"> arousal</s></p>
+<p t="156849" d="2771" w="1" a="1">
+</p>
+<p t="156859" d="5071" w="1"><s ac="229">and</s><s p="1" t="201" ac="212"> brainwaves</s><s p="1" t="1291" ac="208"> I&#39;ll</s><s p="1" t="2281" ac="204"> be</s><s p="1" t="2401" ac="204"> turning</s><s p="1" t="2550" ac="252"> these</s></p>
+<p t="159610" d="2320" w="1" a="1">
+</p>
+<p t="159620" d="4199" w="1"><s ac="248">signals</s><s t="420" ac="237"> into</s><s t="690" ac="250"> quasi</s><s t="1110" ac="249"> musical</s><s t="1589" ac="252"> stimuli</s><s p="2" t="2009" ac="166"> to</s></p>
+<p t="161920" d="1899" w="1" a="1">
+</p>
+<p t="161930" d="4380" w="1"><s p="2" ac="165">give</s><s t="270" ac="231"> people</s><s t="479" ac="252"> feedback</s><s t="750" ac="252"> about</s><s t="1199" ac="223"> their</s><s t="1470" ac="229"> body</s><s t="1710" ac="252"> in</s></p>
+<p t="163809" d="2501" w="1" a="1">
+</p>
+<p t="163819" d="3871" w="1"><s ac="252">mind</s><s t="211" ac="252"> in</s><s p="2" t="361" ac="126"> real-time</s><s p="1" t="831" ac="205"> this</s><s t="1831" ac="242"> should</s><s t="2040" ac="252"> be</s><s p="2" t="2161" ac="126"> able</s><s p="2" t="2401" ac="175"> to</s></p>
+<p t="166300" d="1390" w="1" a="1">
+</p>
+<p t="166310" d="3179" w="1"><s p="1" ac="200">help</s><s p="2" t="149" ac="195"> people</s><s p="1" t="299" ac="217"> better</s><s t="660" ac="245"> understand</s><s t="1230" ac="252"> themselves</s></p>
+<p t="167680" d="1809" w="1" a="1">
+</p>
+<p t="167690" d="4290" w="1"><s ac="232">and</s><s p="1" t="480" ac="217"> regulate</s><s t="840" ac="225"> their</s><s t="1019" ac="252"> stress</s><s p="2" t="1230" ac="127"> and</s><s t="1409" ac="252"> emotions</s></p>
+<p t="169479" d="2501" w="1" a="1">
+</p>
+<p t="169489" d="4261" w="1"><s p="1" ac="216">if</s><s t="991" ac="241"> used</s><s t="1231" ac="252"> in</s><s t="1381" ac="252"> pairs</s><s t="1681" ac="247"> it</s><s t="1981" ac="252"> might</s><s p="1" t="2101" ac="202"> even</s><s t="2280" ac="249"> be</s><s t="2400" ac="248"> able</s></p>
+<p t="171970" d="1780" w="1" a="1">
+</p>
+<p t="171980" d="4500" w="1"><s p="1" ac="203">to</s><s t="119" ac="224"> help</s><s p="1" t="240" ac="206"> people</s><s t="420" ac="232"> sync</s><s t="1020" ac="237"> up</s><s t="1170" ac="252"> with</s><s t="1259" ac="226"> one</s><s t="1440" ac="252"> another</s></p>
+<p t="173740" d="2740" w="1" a="1">
+</p>
+<p t="173750" d="4319" w="1"><s ac="252">perhaps</s><s t="780" ac="235"> fostering</s><s t="1349" ac="236"> empathy</s><s t="1799" ac="236"> and</s><s t="2040" ac="234"> helping</s></p>
+<p t="176470" d="1599" w="1" a="1">
+</p>
+<p t="176480" d="4289" w="1"><s ac="239">them</s><s p="1" t="149" ac="210"> get</s><s p="1" t="330" ac="210"> into</s><s p="1" t="599" ac="252"> a</s><s p="1" t="629" ac="252"> kind</s><s p="1" t="869" ac="210"> of</s><s t="1050" ac="238"> interpersonal</s></p>
+<p t="178059" d="2710" w="1" a="1">
+</p>
+<p t="178069" d="5101" w="1"><s ac="252">flow</s><s p="2" t="390" ac="179"> State</s><s p="2" t="661" ac="126"> I</s><s p="2" t="980" ac="252"> have</s><s p="2" t="1980" ac="252"> a</s><s p="2" t="2040" ac="252"> huge</s><s p="2" t="2250" ac="252"> personal</s></p>
+<p t="180759" d="2411" w="1" a="1">
+</p>
+<p t="180769" d="4741" w="1"><s ac="247">interest</s><s t="421" ac="252"> in</s><s t="631" ac="252"> combining</s><s p="1" t="1080" ac="207"> music</s><s p="2" t="1411" ac="144"> psychology</s></p>
+<p t="183160" d="2350" w="1" a="1">
+</p>
+<p t="183170" d="4620" w="1"><s ac="244">and</s><s p="1" t="330" ac="203"> technology</s><s p="2" t="560" ac="186"> in</s><s t="1560" ac="252"> my</s><s t="1770" ac="252"> undergraduate</s><s t="2189" ac="252"> work</s></p>
+<p t="185500" d="2290" w="1" a="1">
+</p>
+<p t="185510" d="3899" w="1"><s ac="252">with</s><s t="300" ac="244"> dr.</s><s p="2" t="539" ac="190"> Peterson</s><s p="1" t="960" ac="208"> I</s><s t="1140" ac="237"> tackled</s><s t="1740" ac="227"> theoretical</s></p>
+<p t="187780" d="1629" w="1" a="1">
+</p>
+<p t="187790" d="4020" w="1"><s ac="252">issues</s><s t="300" ac="252"> surrounding</s><s p="1" t="619" ac="217"> visual</s></p>
+<p t="189399" d="2411" w="1" a="1">
+</p>
+<p t="189409" d="4260" w="1"><s ac="252">representations</s><s p="1" t="720" ac="207"> of</s><s t="841" ac="245"> music</s><s p="1" t="1220" ac="213"> while</s><s p="1" t="2220" ac="218"> working</s></p>
+<p t="191800" d="1869" w="1" a="1">
+</p>
+<p t="191810" d="3780" w="1"><s p="1" ac="218">on</s><s t="120" ac="226"> that</s><s t="299" ac="252"> project</s><s p="2" t="509" ac="170"> I</s><s p="1" t="989" ac="202"> developed</s><s t="1349" ac="252"> a</s><s t="1410" ac="252"> method</s><s p="1" t="1679" ac="216"> for</s></p>
+<p t="193659" d="1931" w="1" a="1">
+</p>
+<p t="193669" d="5130" w="1"><s ac="252">making</s><s t="121" ac="227"> important</s><s t="690" ac="252"> musical</s><s t="1021" ac="252"> parameters</s><s t="1591" ac="252"> such</s></p>
+<p t="195580" d="3219" w="1" a="1">
+</p>
+<p t="195590" d="5359" w="1"><s ac="252">as</s><s p="1" t="30" ac="208"> harmony</s><s p="2" t="810" ac="198"> pitch</s><s p="1" t="1350" ac="212"> rhythm</s><s t="2280" ac="244"> and</s><s p="2" t="2549" ac="164"> Tambor</s></p>
+<p t="198789" d="2160" w="1" a="1">
+</p>
+<p t="198799" d="4440" w="1"><s ac="226">accessible</s><s t="961" ac="252"> to</s><s p="2" t="1080" ac="152"> our</s><s t="1171" ac="252"> visual</s><s p="1" t="1351" ac="216"> system</s><s p="2" t="1770" ac="65"> I</s></p>
+<p t="200939" d="2300" w="1" a="1">
+</p>
+<p t="200949" d="3581" w="1"><s ac="241">created</s><s t="1000" ac="235"> two</s><s t="1150" ac="252"> software</s><s p="2" t="1540" ac="144"> music</s><s p="1" t="1930" ac="215"> visualizer</s></p>
+<p t="203229" d="1301" w="1" a="1">
+</p>
+<p t="203239" d="3810" w="1"><s p="2" ac="125">based</s><s t="421" ac="252"> on</s><s t="571" ac="252"> these</s><s t="691" ac="236"> principles</s></p>
+<p t="204520" d="2529" w="1" a="1">
+</p>
+<p t="204530" d="4789" w="1"><s ac="252">I</s><s t="120" ac="252"> found</s><s t="1019" ac="252"> these</s><s t="1109" ac="243"> techniques</s><s p="1" t="1530" ac="203"> also</s><s t="2099" ac="252"> translate</s></p>
+<p t="207039" d="2280" w="1" a="1">
+</p>
+<p t="207049" d="6481" w="1"><s ac="252">well</s><s t="211" ac="246"> to</s><s p="2" t="511" ac="144"> other</s><s p="2" t="840" ac="143"> applications</s><s p="2" t="1500" ac="252"> such</s><s p="1" t="1590" ac="200"> as</s><s p="1" t="1741" ac="206"> the</s></p>
+<p t="209309" d="4221" w="1" a="1">
+</p>
+<p t="209319" d="5771" w="1"><s p="2" ac="142">visualization</s><s t="1000" ac="252"> of</s><s t="1091" ac="246"> biological</s><s t="2021" ac="252"> data</s><s t="3211" ac="224"> if</s></p>
+<p t="213520" d="1570" w="1" a="1">
+</p>
+<p t="213530" d="3450" w="1"><s ac="252">you&#39;d</s><s t="179" ac="252"> like</s><s p="1" t="269" ac="218"> to</s><s t="419" ac="252"> see</s><s t="569" ac="252"> the</s><s t="690" ac="251"> music</s><s p="2" t="929" ac="153"> visualizes</s><s t="1470" ac="236"> I</s></p>
+<p t="215080" d="1900" w="1" a="1">
+</p>
+<p t="215090" d="3750" w="1"><s ac="252">developed</s><s t="450" ac="239"> or</s><s t="660" ac="252"> read</s><s p="2" t="1229" ac="136"> about</s><s p="1" t="1410" ac="207"> the</s><s t="1500" ac="245"> principle</s></p>
+<p t="216970" d="1870" w="1" a="1">
+</p>
+<p t="216980" d="4560" w="1"><s p="1" ac="201">behind</s><s t="240" ac="248"> them</s><s p="1" t="479" ac="201"> you</s><s t="1080" ac="252"> can</s><s t="1229" ac="252"> check</s><s t="1469" ac="252"> out</s><s t="1589" ac="252"> my</s><s p="1" t="1680" ac="216"> website</s></p>
+<p t="218830" d="2710" w="1" a="1">
+</p>
+<p t="218840" d="4500" w="1"><s p="1" ac="201">at</s><s t="450" ac="235"> John</s><s t="840" ac="244"> Matthew</s><s t="1170" ac="228"> Tennant</s><s p="1" t="1470" ac="207"> comm</s><s t="1859" ac="234"> there</s><s t="2519" ac="252"> you</s></p>
+<p t="221530" d="1810" w="1" a="1">
+</p>
+<p t="221540" d="4559" w="1"><s ac="223">can</s><s t="150" ac="241"> also</s><s t="270" ac="223"> find</s><s t="509" ac="237"> my</s><s t="690" ac="251"> undergraduate</s><s t="1140" ac="252"> paper</s><s t="1470" ac="232"> on</s></p>
+<p t="223330" d="2769" w="1" a="1">
+</p>
+<p t="223340" d="4950" w="1"><s ac="228">math</s><s p="2" t="450" ac="155"> and</s><s t="750" ac="252"> musical</s><s t="1079" ac="252"> harmony</s><s p="1" t="1640" ac="202"> in</s><s t="2640" ac="252"> my</s></p>
+<p t="226089" d="2201" w="1" a="1">
+</p>
+<p t="226099" d="4890" w="1"><s ac="252">personality</s><s p="1" t="450" ac="203"> research</s><s t="961" ac="252"> this</s><s p="2" t="1170" ac="173"> year</s><s p="2" t="1470" ac="134"> I</s><s p="2" t="1621" ac="252"> looked</s></p>
+<p t="228280" d="2709" w="1" a="1">
+</p>
+<p t="228290" d="5129" w="1"><s ac="252">at</s><s t="150" ac="239"> female</s><s p="2" t="599" ac="186"> made</s><s p="2" t="809" ac="131"> perfect</s><s p="2" t="1229" ac="227"> in</s><s p="2" t="1470" ac="78"> an</s><s p="2" t="2370" ac="169"> online</s></p>
+<p t="230979" d="2440" w="1" a="1">
+</p>
+<p t="230989" d="4741" w="1"><s ac="252">study</s><s p="1" t="241" ac="200"> women</s><s t="960" ac="252"> read</s><s t="1140" ac="252"> the</s><s p="1" t="1351" ac="217"> profile</s><s t="1860" ac="238"> a</s><s t="2011" ac="237"> fictional</s></p>
+<p t="233409" d="2321" w="1" a="1">
+</p>
+<p t="233419" d="4171" w="1"><s ac="233">man</s><s t="121" ac="240"> and</s><s p="2" t="391" ac="146"> size</s><s t="540" ac="229"> picture</s><s t="1021" ac="248"> women</s><s p="1" t="1891" ac="216"> then</s><s p="2" t="2011" ac="148"> rated</s></p>
+<p t="235720" d="1870" w="1" a="1">
+</p>
+<p t="235730" d="4110" w="1"><s p="2" ac="142">demands</s><s t="300" ac="248"> attractiveness</s><s p="1" t="810" ac="213"> and</s><s t="1200" ac="252"> personality</s></p>
+<p t="237580" d="2260" w="1" a="1">
+</p>
+<p t="237590" d="5119" w="1"><s ac="250">they</s><s t="810" ac="252"> also</s><s t="959" ac="252"> answered</s><s p="2" t="1259" ac="146"> questions</s><s t="1739" ac="252"> about</s><s p="1" t="1829" ac="202"> their</s></p>
+<p t="239830" d="2879" w="1" a="1">
+</p>
+<p t="239840" d="4849" w="1"><s p="1" ac="208">own</s><s t="119" ac="252"> personality</s><s p="1" t="750" ac="208"> and</s><s t="989" ac="226"> complete</s><s t="1440" ac="226"> an</s><s t="1560" ac="252"> IQ</s><s t="1829" ac="236"> test</s></p>
+<p t="242699" d="1990" w="1" a="1">
+</p>
+<p t="242709" d="4021" w="1"><s ac="252">from</s><s t="601" ac="252"> this</s><s t="721" ac="227"> data</s><s p="2" t="931" ac="155"> we</s><s t="1321" ac="252"> were</s><s p="1" t="1411" ac="219"> able</s><s p="1" t="1530" ac="205"> to</s><s p="1" t="1681" ac="203"> build</s><s t="1890" ac="252"> a</s></p>
+<p t="244679" d="2051" w="1" a="1">
+</p>
+<p t="244689" d="4591" w="1"><s ac="252">model</s><s t="330" ac="252"> of</s><s t="420" ac="222"> what</s><s t="601" ac="252"> kinds</s><s t="901" ac="252"> of</s><s t="961" ac="227"> personalities</s><s t="1651" ac="241"> are</s></p>
+<p t="246720" d="2560" w="1" a="1">
+</p>
+<p t="246730" d="3780" w="1"><s p="2" ac="123">attractive</s><s t="420" ac="235"> to</s><s p="1" t="450" ac="201"> who</s><s t="660" ac="226"> on</s><s t="1440" ac="252"> average</s><s p="1" t="1649" ac="208"> women</s></p>
+<p t="249270" d="1240" w="1" a="1">
+</p>
+<p t="249280" d="3950" w="1"><s ac="252">tended</s><s p="1" t="239" ac="217"> to</s><s t="360" ac="252"> prefer</s><s t="480" ac="252"> men</s><s t="870" ac="252"> who</s><s p="2" t="900" ac="91"> were</s></p>
+<p t="250500" d="2730" w="1" a="1">
+</p>
+<p t="250510" d="5130" w="1"><s ac="242">conscientious</s><s t="890" ac="224"> extroverted</s><s p="1" t="1890" ac="202"> agreeable</s></p>
+<p t="253220" d="2420" w="1" a="1">
+</p>
+<p t="253230" d="5439" w="1"><s ac="248">emotionally</s><s t="1000" ac="252"> stable</s><s p="2" t="1209" ac="147"> and</s><s t="1629" ac="252"> open</s><s t="2289" ac="252"> to</s></p>
+<p t="255630" d="3039" w="1" a="1">
+</p>
+<p t="255640" d="5069" w="1"><s ac="252">experience</s><s t="980" ac="234"> higher</s><s t="1980" ac="252"> IQ</s><s t="2430" ac="252"> participants</s></p>
+<p t="258659" d="2050" w="1" a="1">
+</p>
+<p t="258669" d="4500" w="1"><s p="1" ac="216">however</s><s p="1" t="720" ac="208"> where</s><s p="2" t="1141" ac="152"> the</s><s t="1350" ac="241"> men</s><s t="1500" ac="249"> is</s><s t="1620" ac="252"> much</s><s t="1831" ac="252"> less</s></p>
+<p t="260699" d="2470" w="1" a="1">
+</p>
+<p t="260709" d="4020" w="1"><s p="2" ac="162">attractive</s><s t="451" ac="252"> on</s><s t="541" ac="252"> average</s><s t="870" ac="249"> and</s><s t="1191" ac="252"> they</s><s t="2191" ac="252"> were</s><s t="2251" ac="252"> less</s></p>
+<p t="263159" d="1570" w="1" a="1">
+</p>
+<p t="263169" d="3590" w="1"><s ac="252">moved</s><s t="331" ac="252"> by</s><s p="1" t="511" ac="207"> those</s><s t="720" ac="252"> traditionally</s><s t="1321" ac="252"> attractive</s></p>
+<p t="264719" d="2040" w="1" a="1">
+</p>
+<p t="264729" d="3841" w="1" p="1"><s ac="212">characteristics</s><s t="571" ac="200"> like</s><s t="1081" ac="230"> extraversion</s></p>
+<p t="266749" d="1821" w="1" a="1">
+</p>
+<p t="266759" d="5051" w="1"><s ac="227">conscientiousness</s><s t="1000" ac="252"> and</s><s t="1271" ac="227"> emotional</s></p>
+<p t="268560" d="3250" w="1" a="1">
+</p>
+<p t="268570" d="4439" w="1"><s ac="252">stability</s><s t="710" ac="221"> for</s><s t="1710" ac="250"> more</s><s t="1860" ac="252"> intelligent</s><s t="2310" ac="252"> women</s><s p="1" t="2610" ac="217"> the</s></p>
+<p t="271800" d="1209" w="1" a="1">
+</p>
+<p t="271810" d="3570" w="1"><s p="1" ac="204">only</s><s t="240" ac="252"> things</s><s t="419" ac="251"> that</s><s t="540" ac="225"> made</s><s t="720" ac="252"> a</s><s t="750" ac="252"> significant</s></p>
+<p t="272999" d="2381" w="1" a="1">
+</p>
+<p t="273009" d="3961" w="1"><s ac="252">difference</s><s t="121" ac="252"> were</s><s t="541" ac="247"> creativity</s><s t="1321" ac="238"> employment</s><s t="1801" ac="229"> or</s></p>
+<p t="275370" d="1600" w="1" a="1">
+</p>
+<p t="275380" d="4409" w="1" p="2"><s ac="0">Jerris</s><s t="270" ac="122"> of</s><s t="420" ac="242"> aspects</s><s t="840" ac="225"> of</s><s t="960" ac="237"> openness</s><s p="1" t="1319" ac="216"> and</s></p>
+<p t="276960" d="2829" w="1" a="1">
+</p>
+<p t="276970" d="4319" w="1"><s ac="252">agreeableness</s><s p="1" t="770" ac="205"> we</s><s t="1770" ac="239"> think</s><s t="1979" ac="244"> creativity</s><s t="2430" ac="252"> might</s></p>
+<p t="279779" d="1510" w="1" a="1">
+</p>
+<p t="279789" d="3750" w="1"><s ac="252">be</s><s p="2" t="121" ac="143"> especially</s><s t="571" ac="252"> attractive</s><s p="2" t="1051" ac="148"> because</s><s p="2" t="1380" ac="164"> it</s></p>
+<p t="281279" d="2260" w="1" a="1">
+</p>
+<p t="281289" d="4861" w="1"><s ac="252">indicates</s><s p="1" t="271" ac="205"> competence</s><s t="1051" ac="255"> in</s><s t="1621" ac="244"> unfamiliar</s></p>
+<p t="283529" d="2621" w="1" a="1">
+</p>
+<p t="283539" d="4350" w="1"><s ac="236">situations</s><s t="1011" ac="233"> the</s><s t="2011" ac="230"> attraction</s><s p="2" t="2491" ac="166"> to</s></p>
+<p t="286140" d="1749" w="1" a="1">
+</p>
+<p t="286150" d="3510" w="1"><s ac="252">agreeableness</s><s t="480" ac="251"> might</s><s t="840" ac="252"> be</s><s t="989" ac="252"> due</s><s p="2" t="1170" ac="85"> to</s><s t="1350" ac="252"> a</s><s t="1380" ac="252"> desire</s></p>
+<p t="287879" d="1781" w="1" a="1">
+</p>
+<p t="287889" d="6000" w="1"><s ac="236">for</s><s t="271" ac="220"> a</s><s t="331" ac="252"> partner</s><s t="721" ac="252"> who</s><s p="1" t="900" ac="207"> will</s><s t="1051" ac="252"> share</s><s t="1291" ac="252"> resources</s></p>
+<p t="289650" d="4239" w="1" a="1">
+</p>
+<p t="289660" d="5819" w="1"><s p="2" ac="167">and</s><s t="479" ac="252"> care</s><s t="660" ac="226"> for</s><s t="840" ac="252"> children</s><s p="2" t="2689" ac="133"> in</s><s t="3689" ac="252"> my</s><s p="2" t="3780" ac="146"> upcoming</s></p>
+<p t="293879" d="1600" w="1" a="1">
+</p>
+<p t="293889" d="3090" w="1"><s ac="252">personality</s><s t="541" ac="252"> research</s><s t="870" ac="236"> I&#39;m</s><s t="1081" ac="252"> developing</s><s t="1321" ac="249"> a</s></p>
+<p t="295469" d="1510" w="1" a="1">
+</p>
+<p t="295479" d="4051" w="1"><s ac="252">new</s><s p="2" t="30" ac="194"> method</s><s p="2" t="571" ac="65"> for</s><s p="2" t="780" ac="252"> investigating</s><s p="2" t="1410" ac="194"> the</s></p>
+<p t="296969" d="2561" w="1" a="1">
+</p>
+<p t="296979" d="4410" w="1"><s p="1" ac="208">structure</s><s p="2" t="361" ac="140"> of</s><s t="451" ac="252"> personality</s><s p="1" t="1101" ac="204"> in</s><s t="2101" ac="252"> traditional</s></p>
+<p t="299520" d="1869" w="1" a="1">
+</p>
+<p t="299530" d="4500" w="1"><s ac="236">personality</s><s t="389" ac="249"> studies</s><s t="960" ac="241"> participants</s><s t="1710" ac="252"> rate</s></p>
+<p t="301379" d="2651" w="1" a="1">
+</p>
+<p t="301389" d="4021" w="1"><s ac="252">themselves</s><s t="181" ac="252"> on</s><s t="511" ac="225"> every</s><s t="870" ac="252"> item</s><s t="1101" ac="227"> this</s><s t="2101" ac="252"> limits</s><s t="2460" ac="252"> the</s></p>
+<p t="304020" d="1390" w="1" a="1">
+</p>
+<p t="304030" d="4440" w="1"><s ac="252">number</s><s p="1" t="120" ac="202"> of</s><s t="330" ac="252"> items</s><s p="2" t="479" ac="168"> that</s><s t="750" ac="223"> can</s><s p="2" t="870" ac="124"> be</s><s t="990" ac="239"> analyzed</s></p>
+<p t="305400" d="3070" w="1" a="1">
+</p>
+<p t="305410" d="4770" w="1"><s p="2" ac="115">simultaneously</s><s t="780" ac="242"> instead</s><s p="1" t="1819" ac="206"> we&#39;re</s><s t="2819" ac="241"> going</s><s p="1" t="2999" ac="206"> to</s></p>
+<p t="308460" d="1720" w="1" a="1">
+</p>
+<p t="308470" d="4740" w="1"><s p="1" ac="208">use</s><s t="150" ac="249"> collaborative</s><s t="689" ac="252"> ratings</s><s t="1140" ac="252"> of</s><s t="1319" ac="226"> fictional</s></p>
+<p t="310170" d="3040" w="1" a="1">
+</p>
+<p t="310180" d="4320" w="1"><s p="2" ac="146">characters</s><s p="1" t="359" ac="218"> and</s><s t="570" ac="227"> public</s><s p="1" t="1200" ac="204"> figures</s><s t="2030" ac="244"> multiple</s></p>
+<p t="313200" d="1300" w="1" a="1">
+</p>
+<p t="313210" d="3480" w="1"><s ac="237">people</s><s t="239" ac="250"> will</s><s t="329" ac="252"> provide</s><s t="600" ac="238"> ratings</s><s p="1" t="870" ac="205"> of</s><s t="1199" ac="252"> the</s></p>
+<p t="314490" d="2200" w="1" a="1">
+</p>
+<p t="314500" d="3840" w="1"><s p="1" ac="213">targets</s><s t="330" ac="252"> personality</s><s p="2" t="900" ac="186"> and</s><s t="1110" ac="252"> we</s><s t="1710" ac="252"> can</s><s p="1" t="1889" ac="204"> build</s><s t="2070" ac="252"> up</s></p>
+<p t="316680" d="1660" w="1" a="1">
+</p>
+<p t="316690" d="5159" w="1"><s ac="252">a</s><s t="90" ac="252"> complete</s><s t="449" ac="252"> description</s><s p="1" t="750" ac="201"> from</s><s t="1170" ac="227"> the</s><s t="1229" ac="228"> multiple</s></p>
+<p t="318330" d="3519" w="1" a="1">
+</p>
+<p t="318340" d="5130" w="1"><s p="1" ac="216">raters</s><s t="1280" ac="223"> this</s><s t="2280" ac="252"> will</s><s t="2430" ac="252"> allow</s><s p="2" t="2609" ac="187"> us</s><s t="2819" ac="252"> to</s><s p="2" t="2850" ac="187"> investigate</s></p>
+<p t="321839" d="1631" w="1" a="1">
+</p>
+<p t="321849" d="4320" w="1"><s ac="252">the</s><s t="121" ac="252"> personality</s><s t="721" ac="252"> data</s><s t="901" ac="242"> contained</s><s t="1500" ac="252"> inside</s></p>
+<p t="323460" d="2709" w="1" a="1">
+</p>
+<p t="323470" d="4860" w="1"><s ac="245">larger</s><s t="540" ac="237"> sets</s><s t="750" ac="230"> of</s><s t="870" ac="248"> descriptors</s><s p="1" t="1580" ac="202"> this</s><s t="2580" ac="252"> will</s></p>
+<p t="326159" d="2171" w="1" a="1">
+</p>
+<p t="326169" d="3451" w="1"><s p="1" ac="210">help</s><s p="1" t="151" ac="216"> us</s><s p="1" t="271" ac="252"> rapidly</s><s p="1" t="571" ac="203"> expand</s><s t="1231" ac="252"> the</s><s t="1411" ac="252"> vocabulary</s><s p="2" t="1530" ac="158"> of</s></p>
+<p t="328320" d="1300" w="1" a="1">
+</p>
+<p t="328330" d="3269" w="1"><s p="2" ac="132">words</s><s t="300" ac="252"> we</s><s t="420" ac="252"> can</s><s t="600" ac="252"> use</s><s p="1" t="630" ac="201"> to</s><s p="1" t="869" ac="205"> measure</s><s p="1" t="1019" ac="252"> personality</s></p>
+<p t="329610" d="1989" w="1" a="1">
+</p>
+<p t="329620" d="4169" w="1"><s p="2" ac="128">which</s><s t="870" ac="252"> should</s><s t="1079" ac="227"> increase</s><s p="2" t="1320" ac="135"> the</s><s t="1500" ac="252"> precision</s><s p="1" t="1769" ac="217"> of</s></p>
+<p t="331589" d="2200" w="1" a="1">
+</p>
+<p t="331599" d="3391" w="1"><s p="1" ac="217">our</s><s t="91" ac="238"> models</s><s t="481" ac="236"> the</s><s t="1290" ac="252"> first</s><s p="2" t="1320" ac="145"> study</s><s t="1711" ac="252"> to</s><s p="1" t="1771" ac="207"> use</s><s t="2011" ac="252"> this</s></p>
+<p t="333779" d="1211" w="1" a="1">
+</p>
+<p t="333789" d="3720" w="1"><s ac="233">method</s><s p="2" t="241" ac="129"> will</s><s t="571" ac="252"> attempt</s><s t="901" ac="252"> to</s><s p="1" t="961" ac="208"> integrate</s></p>
+<p t="334980" d="2529" w="1" a="1">
+</p>
+<p t="334990" d="4200" w="1"><s ac="230">positive</s><s t="810" ac="243"> and</s><s t="1019" ac="242"> negative</s><s t="1410" ac="252"> person</s><s t="2070" ac="252"> descriptors</s></p>
+<p t="337499" d="1691" w="1" a="1">
+</p>
+<p t="337509" d="3301" w="1"><s ac="252">with</s><s t="211" ac="252"> our</s><s t="361" ac="252"> existing</s><s t="780" ac="252"> personality</s><s t="1351" ac="252"> models</s></p>
+<p t="339180" d="1630" w="1" a="1">
+</p>
+<p t="339190" d="3930" w="1"><s ac="240">this</s><s p="1" t="509" ac="212"> is</s><s p="1" t="569" ac="202"> important</s><s p="2" t="1080" ac="135"> because</s><s t="1170" ac="252"> when</s><s p="2" t="1500" ac="168"> the</s></p>
+<p t="340800" d="2320" w="1" a="1">
+</p>
+<p t="340810" d="4400" w="1"><s ac="252">original</s><s t="210" ac="252"> scales</s><s t="750" ac="252"> were</s><s t="930" ac="252"> devised</s><s t="1310" ac="227"> researchers</s></p>
+<p t="343110" d="2100" w="1" a="1">
+</p>
+<p t="343120" d="6180" w="1"><s ac="248">purposely</s><s t="660" ac="252"> omitted</s><s p="1" t="780" ac="200"> words</s><s t="1350" ac="252"> like</s><s t="1530" ac="246"> evil</s></p>
+<p t="345200" d="4100" w="1" a="1">
+</p>
+<p t="345210" d="5500" w="1"><s ac="247">untrustworthy</s><s t="1000" ac="242"> wise</s><s t="1600" ac="247"> and</s><s t="2079" ac="248"> admirable</s><s t="3090" ac="227"> by</s></p>
+<p t="349290" d="1420" w="1" a="1">
+</p>
+<p t="349300" d="3149" w="1"><s ac="245">adding</s><s t="299" ac="252"> these</s><s t="390" ac="239"> words</s><s t="660" ac="252"> to</s><s t="869" ac="252"> our</s><s t="989" ac="252"> models</s><s t="1320" ac="252"> of</s></p>
+<p t="350700" d="1749" w="1" a="1">
+</p>
+<p t="350710" d="3929" w="1"><s ac="236">personality</s><s p="1" t="600" ac="206"> we&#39;ll</s><s t="1110" ac="252"> be</s><s t="1230" ac="252"> able</s><s p="1" t="1290" ac="217"> to</s><s t="1380" ac="223"> further</s></p>
+<p t="352439" d="2200" w="1" a="1">
+</p>
+<p t="352449" d="4500" w="1"><s ac="234">explore</s><s p="1" t="571" ac="215"> the</s><s t="750" ac="255"> virtues</s><s p="1" t="1111" ac="200"> and</s><s t="1201" ac="252"> vices</s><s t="1351" ac="252"> associated</s></p>
+<p t="354629" d="2320" w="1" a="1">
+</p>
+<p t="354639" d="4171" w="1"><s ac="252">with</s><s t="120" ac="252"> personality</s><s p="2" t="361" ac="158"> dimensions</s><s p="1" t="1131" ac="207"> we</s><s t="2131" ac="252"> might</s></p>
+<p t="356939" d="1871" w="1" a="1">
+</p>
+<p t="356949" d="3960" w="1"><s ac="252">also</s><s t="181" ac="252"> be</s><s p="2" t="331" ac="152"> able</s><s p="2" t="451" ac="161"> to</s><s p="1" t="661" ac="206"> pick</s><s p="1" t="840" ac="204"> up</s><s p="1" t="991" ac="217"> on</s><s t="1171" ac="255"> new</s><s t="1411" ac="236"> effects</s></p>
+<p t="358800" d="2109" w="1" a="1">
+</p>
+<p t="358810" d="3900" w="1"><s ac="237">and</s><s t="210" ac="244"> correlations</s><s p="1" t="889" ac="204"> this</s><s p="1" t="1889" ac="213"> could</s><s p="1" t="2039" ac="252"> be</s></p>
+<p t="360899" d="1811" w="1" a="1">
+</p>
+<p t="360909" d="3241" w="1"><s p="2" ac="139">especially</s><s t="271" ac="252"> useful</s><s t="510" ac="234"> in</s><s t="931" ac="252"> the</s><s t="1081" ac="233"> labs</s><s t="1260" ac="252"> ongoing</s></p>
+<p t="362700" d="1450" w="1" a="1">
+</p>
+<p t="362710" d="4110" w="1"><s ac="252">research</s><s p="2" t="269" ac="199"> into</s><s t="660" ac="252"> the</s><s t="780" ac="252"> personality</s></p>
+<p t="364140" d="2680" w="1" a="1">
+</p>
+<p t="364150" d="3780" w="1"><s ac="252">underpinnings</s><s t="509" ac="252"> of</s><s t="570" ac="236"> political</s><s t="989" ac="255"> beliefs</s><s p="2" t="1670" ac="0"> I&#39;d</s></p>
+<p t="366810" d="1120" w="1" a="1">
+</p>
+<p t="366820" d="3300" w="1" p="1"><s ac="204">like</s><s t="120" ac="200"> to</s><s t="180" ac="250"> thank</s><s t="300" ac="227"> everyone</s><s t="629" ac="252"> for</s><s t="779" ac="200"> supporting</s></p>
+<p t="367920" d="2200" w="1" a="1">
+</p>
+<p t="367930" d="4510" w="1"><s p="1" ac="217">our</s><s t="329" ac="252"> research</s><s p="1" t="660" ac="207"> it</s><s t="1350" ac="252"> makes</s><s t="1530" ac="252"> a</s><s t="1680" ac="252"> really</s><s p="1" t="2070" ac="213"> big</s></p>
+<p t="370110" d="2330" w="1" a="1">
+</p>
+<p t="370120" d="4120" w="1" p="2"><s ac="133">difference</s><s t="150" ac="162"> especially</s><s t="870" ac="252"> to</s><s t="990" ac="252"> us</s></p>
+<p t="372430" d="1810" w="1" a="1">
+</p>
+<p t="372440" d="4320" w="1"><s ac="252">if</s><s t="810" ac="249"> you&#39;re</s><s t="960" ac="247"> interested</s><s p="2" t="1350" ac="135"> and</s><s t="1440" ac="229"> you</s><s t="1500" ac="252"> might</s><s t="1650" ac="252"> work</s></p>
+<p t="374230" d="2530" w="1" a="1">
+</p>
+<p t="374240" d="4470" w="1"><s p="2" ac="146">I&#39;d</s><s t="420" ac="226"> love</s><s p="1" t="720" ac="215"> to</s><s t="840" ac="252"> hear</s><s p="2" t="930" ac="175"> from</s><s t="1080" ac="252"> you</s><s p="1" t="1260" ac="200"> you</s><s t="2220" ac="252"> can</s><s p="2" t="2280" ac="154"> also</s></p>
+<p t="376750" d="1960" w="1" a="1">
+</p>
+<p t="376760" d="4350" w="1"><s ac="252">check</s><s p="1" t="240" ac="202"> out</s><s p="1" t="390" ac="203"> my</s><s p="1" t="510" ac="252"> site</s><s p="2" t="720" ac="128"> at</s><s t="1050" ac="243"> John</s><s t="1379" ac="228"> Matthew</s><s p="1" t="1680" ac="201"> tenon</s></p>
+<p t="378700" d="2410" w="1" a="1">
+</p>
+<p t="378710" d="5310" w="1"><s p="1" ac="211">com</s><s p="2" t="390" ac="145"> I</s><s t="660" ac="252"> have</s><s t="1050" ac="252"> demos</s><s p="1" t="1290" ac="208"> and</s><s p="1" t="1560" ac="217"> papers</s><s p="1" t="1890" ac="236"> posted</s><s p="1" t="2250" ac="252"> there</s></p>
+<p t="381100" d="2920" w="1" a="1">
+</p>
+<p t="381110" d="5309" w="1"><s p="1" ac="216">thanks</s><s t="990" ac="226"> for</s><s p="1" t="1080" ac="205"> watching</s><s t="1400" ac="236"> my</s><s t="2400" ac="252"> name</s><s p="1" t="2580" ac="202"> is</s><s p="1" t="2670" ac="202"> Victor</s></p>
+<p t="384010" d="2409" w="1" a="1">
+</p>
+<p t="384020" d="5850" w="1"><s p="1" ac="202">Swift</s><s p="2" t="270" ac="193"> and</s><s t="720" ac="224"> I</s><s t="810" ac="221"> am</s><s t="869" ac="252"> a</s><s t="990" ac="250"> PhD</s><s p="2" t="1230" ac="188"> student</s><s t="1590" ac="235"> in</s><s t="2070" ac="236"> Jordan</s></p>
+<p t="386409" d="3461" w="1" a="1">
+</p>
+<p t="386419" d="5371" w="1"><s ac="255">Peterson&#39;s</s><s t="421" ac="255"> lab</s><s p="1" t="601" ac="207"> I</s><s t="1041" ac="252"> joined</s><s t="2041" ac="252"> the</s><s t="2161" ac="252"> lab</s><s t="2311" ac="252"> in</s><s t="2521" ac="252"> 2013</s></p>
+<p t="389860" d="1930" w="1" a="1">
+</p>
+<p t="389870" d="4200" w="1"><s ac="252">as</s><s t="240" ac="252"> a</s><s t="269" ac="230"> master</s><s t="690" ac="240"> student</s><s p="1" t="920" ac="204"> primarily</s></p>
+<p t="391780" d="2290" w="1" a="1">
+</p>
+<p t="391790" d="3930" w="1"><s ac="252">researching</s><s t="570" ac="252"> how</s><s t="780" ac="252"> mental</s><s t="1170" ac="252"> health</s><s t="1379" ac="232"> is</s><s t="1590" ac="252"> shaped</s></p>
+<p t="394060" d="1660" w="1" a="1">
+</p>
+<p t="394070" d="3950" w="1"><s ac="252">by</s><s t="120" ac="252"> the</s><s p="1" t="270" ac="218"> ways</s><s t="569" ac="252"> in</s><s p="2" t="750" ac="131"> which</s><s p="1" t="870" ac="207"> people</s><s t="1110" ac="223"> relate</s><s t="1620" ac="252"> to</s></p>
+<p t="395710" d="2310" w="1" a="1">
+</p>
+<p t="395720" d="5160" w="1"><s p="2" ac="144">their</s><s t="360" ac="252"> own</s><s t="390" ac="252"> descriptions</s><s t="1199" ac="252"> of</s><s t="1410" ac="252"> the</s><s t="1500" ac="252"> world</s></p>
+<p t="398010" d="2870" w="1" a="1">
+</p>
+<p t="398020" d="4300" w="1"><s p="2" ac="198">today</s><s t="1000" ac="252"> my</s><s t="1210" ac="252"> overall</s><s t="1570" ac="252"> research</s><s t="1899" ac="235"> investigates</s></p>
+<p t="400870" d="1450" w="1" a="1">
+</p>
+<p t="400880" d="5130" w="1"><s ac="252">the</s><s t="210" ac="252"> nature</s><s p="2" t="360" ac="129"> of</s><s p="1" t="570" ac="201"> the</s><s p="1" t="1020" ac="205"> big</s><s p="1" t="1170" ac="205"> five</s><s t="1410" ac="252"> personality</s></p>
+<p t="402310" d="3700" w="1" a="1">
+</p>
+<p t="402320" d="6480" w="1"><s p="1" ac="206">traits</s><s t="1160" ac="227"> the</s><s t="2160" ac="236"> big</s><s t="2310" ac="223"> five</s><s t="2550" ac="252"> represent</s><s t="3120" ac="239"> distinct</s></p>
+<p t="406000" d="2800" w="1" a="1">
+</p>
+<p t="406010" d="6510" w="1"><s ac="252">patterns</s><s t="420" ac="233"> of</s><s t="630" ac="252"> feeling</s><s t="1290" ac="230"> thinking</s><s p="2" t="1920" ac="186"> and</s><s t="2220" ac="252"> acting</s></p>
+<p t="408790" d="3730" w="1" a="1">
+</p>
+<p t="408800" d="6450" w="1"><s p="2" ac="165">that</s><s t="960" ac="252"> are</s><s t="1050" ac="252"> shared</s><s t="1320" ac="252"> by</s><s t="1530" ac="252"> all</s><s p="2" t="1800" ac="144"> of</s><s t="1920" ac="252"> us</s><s t="2540" ac="240"> humans</s><s p="1" t="3540" ac="207"> and</s></p>
+<p t="412510" d="2740" w="1" a="1">
+</p>
+<p t="412520" d="6170" w="1"><s ac="252">higher</s><s t="660" ac="252"> primates</s><s t="1230" ac="231"> seem</s><s t="1950" ac="228"> to</s><s t="2070" ac="252"> possess</s><s t="2190" ac="252"> five</s></p>
+<p t="415240" d="3450" w="1" a="1">
+</p>
+<p t="415250" d="6750" w="1"><s ac="252">distinct</s><s t="690" ac="249"> dispositions</s><s p="2" t="1470" ac="195"> hence</s><s t="2220" ac="252"> the</s><s t="2430" ac="252"> name</s></p>
+<p t="418680" d="3320" w="1" a="1">
+</p>
+<p t="418690" d="5500" w="1"><s ac="224">openness</s><s p="2" t="1000" ac="188"> a</s><s t="1260" ac="252"> tendency</s><s t="2260" ac="252"> to</s><s t="2380" ac="252"> seek</s><s t="2560" ac="252"> novel</s><s t="2979" ac="252"> ideas</s></p>
+<p t="421990" d="2200" w="1" a="1">
+</p>
+<p t="422000" d="4110" w="1"><s ac="252">and</s><s t="150" ac="252"> experiences</s><s t="919" ac="232"> neuroticism</s></p>
+<p t="424180" d="1930" w="1" a="1">
+</p>
+<p t="424190" d="4160" w="1"><s ac="252">a</s><s t="30" ac="252"> tendency</s><s t="930" ac="252"> to</s><s t="1050" ac="252"> seek</s><s t="1229" ac="246"> certainty</s><s p="1" t="1740" ac="213"> and</s></p>
+<p t="426100" d="2250" w="1" a="1">
+</p>
+<p t="426110" d="4800" w="1"><s ac="241">experience</s><s t="960" ac="252"> negative</s><s p="2" t="1200" ac="167"> emotions</s></p>
+<p t="428340" d="2570" w="1" a="1">
+</p>
+<p t="428350" d="4600" w="1"><s ac="226">extraversion</s><s p="1" t="1000" ac="201"> the</s><s t="1840" ac="236"> tendency</s><s p="1" t="2260" ac="200"> to</s><s t="2379" ac="252"> seek</s></p>
+<p t="430900" d="2050" w="1" a="1">
+</p>
+<p t="430910" d="3020" w="1"><s p="2" ac="131">attention</s><s t="540" ac="237"> and</s><s t="1080" ac="248"> experience</s><s t="1590" ac="252"> positive</s></p>
+<p t="432940" d="990" w="1" a="1">
+</p>
+<p t="432950" d="4170" w="1"><s ac="252">emotions</s></p>
+<p t="433920" d="3200" w="1" a="1">
+</p>
+<p t="433930" d="4960" w="1"><s ac="252">agreeableness</s><s p="2" t="1000" ac="163"> a</s><s t="1360" ac="252"> tendency</s><s t="2260" ac="252"> to</s><s t="2350" ac="252"> seek</s><s p="1" t="2530" ac="208"> social</s></p>
+<p t="437110" d="1780" w="1" a="1">
+</p>
+<p t="437120" d="4650" w="1"><s ac="252">harmony</s><s t="270" ac="231"> through</s><s t="930" ac="248"> politeness</s><s t="1440" ac="252"> and</s></p>
+<p t="438880" d="2890" w="1" a="1">
+</p>
+<p t="438890" d="5550" w="1"><s ac="236">compassion</s><s p="1" t="540" ac="214"> and</s><s t="770" ac="255"> finally</s><s t="1880" ac="246"> conscientiousness</s></p>
+<p t="441760" d="2680" w="1" a="1">
+</p>
+<p t="441770" d="4920" w="1"><s p="2" ac="146">a</s><s t="420" ac="252"> tendency</s><s t="1380" ac="252"> to</s><s t="1530" ac="252"> adhere</s><s t="1860" ac="252"> to</s><s p="1" t="1890" ac="201"> standards</s><s t="2250" ac="252"> and</s></p>
+<p t="444430" d="2260" w="1" a="1">
+</p>
+<p t="444440" d="5400" w="1"><s ac="231">goals</s><s p="1" t="240" ac="217"> by</s><s t="930" ac="252"> working</s><s p="1" t="960" ac="206"> hard</s><s p="1" t="1500" ac="205"> and</s><s p="1" t="1740" ac="252"> staying</s></p>
+<p t="446680" d="3160" w="1" a="1">
+</p>
+<p t="446690" d="5400" w="1"><s ac="236">organized</s><s t="800" ac="226"> this</s><s t="1800" ac="252"> final</s><s t="2190" ac="225"> trait</s><s t="2430" ac="239"> has</s><s p="1" t="2820" ac="208"> been</s><s t="3060" ac="252"> the</s></p>
+<p t="449830" d="2260" w="1" a="1">
+</p>
+<p t="449840" d="4310" w="1"><s ac="252">focus</s><s t="329" ac="252"> of</s><s t="420" ac="252"> my</s><s t="540" ac="252"> research</s><s p="1" t="570" ac="200"> for</s><s p="2" t="1139" ac="165"> reasons</s><s p="1" t="2100" ac="200"> that</s><s t="2190" ac="237"> I</s></p>
+<p t="452080" d="2070" w="1" a="1">
+</p>
+<p t="452090" d="4710" w="1" p="1"><s ac="217">will</s><s t="90" ac="217"> explain</s><s t="510" ac="252"> shortly</s></p>
+<p t="454140" d="2660" w="1" a="1">
+</p>
+<p t="454150" d="4810" w="1"><s ac="252">every</s><s t="1000" ac="252"> person</s><s t="1360" ac="252"> has</s><s t="1480" ac="252"> these</s><s t="1660" ac="252"> five</s><s t="1900" ac="226"> traits</s><s t="2260" ac="221"> to</s></p>
+<p t="456790" d="2170" w="1" a="1">
+</p>
+<p t="456800" d="4429" w="1"><s ac="252">some</s><s t="179" ac="234"> degree</s><s t="480" ac="250"> and</s><s t="690" ac="250"> these</s><s t="1530" ac="252"> traits</s><s p="1" t="1800" ac="216"> remain</s></p>
+<p t="458950" d="2279" w="1" a="1">
+</p>
+<p t="458960" d="5370" w="1"><s ac="252">relatively</s><s p="2" t="570" ac="138"> stable</s><s t="959" ac="228"> throughout</s><s p="1" t="1500" ac="219"> adulthood</s></p>
+<p t="461219" d="3111" w="1" a="1">
+</p>
+<p t="461229" d="5940" w="1"><s p="1" ac="208">as</s><s t="1000" ac="252"> such</s><s t="1361" ac="245"> the</s><s t="2081" ac="252"> big</s><s t="2231" ac="252"> five</s><s t="2440" ac="252"> traits</s><s t="2471" ac="240"> are</s></p>
+<p t="464320" d="2849" w="1" a="1">
+</p>
+<p t="464330" d="5490" w="1"><s ac="252">important</s><s t="570" ac="252"> to</s><s p="1" t="1020" ac="207"> both</s><s t="1170" ac="252"> industry</s><s t="1740" ac="252"> and</s><s t="1770" ac="252"> academia</s></p>
+<p t="467159" d="2661" w="1" a="1">
+</p>
+<p t="467169" d="7000" w="1"><s p="1" ac="201">because</s><s p="2" t="1000" ac="145"> they</s><s t="1271" ac="252"> can</s><s t="1391" ac="226"> be</s><s t="1511" ac="252"> used</s><s p="2" t="1541" ac="133"> to</s><s t="2081" ac="252"> reliably</s></p>
+<p t="469810" d="4359" w="1" a="1">
+</p>
+<p t="469820" d="6090" w="1"><s ac="252">capture</s><s t="599" ac="244"> who</s><s t="1080" ac="252"> a</s><s t="1110" ac="252"> person</s><s t="1409" ac="252"> is</s><s t="2240" ac="235"> now</s><s t="3240" ac="226"> we</s><s p="1" t="4230" ac="216"> are</s></p>
+<p t="474159" d="1751" w="1" a="1">
+</p>
+<p t="474169" d="3981" w="1"><s ac="252">confident</s><s t="631" ac="231"> that</s><s t="721" ac="252"> the</s><s p="1" t="931" ac="202"> Big</s><s p="1" t="1111" ac="202"> Five</s><s p="1" t="1321" ac="252"> model</s></p>
+<p t="475900" d="2250" w="1" a="1">
+</p>
+<p t="475910" d="4830" w="1"><s ac="245">represents</s><s t="569" ac="242"> a</s><s t="690" ac="252"> real</s><s t="1110" ac="252"> and</s><s p="2" t="1410" ac="145"> meaningful</s></p>
+<p t="478140" d="2600" w="1" a="1">
+</p>
+<p t="478150" d="4120" w="1"><s p="1" ac="215">psychological</s><s t="1000" ac="252"> construct</s><s p="1" t="1540" ac="204"> because</s><s p="2" t="2200" ac="155"> it</s><s t="2470" ac="252"> has</s></p>
+<p t="480730" d="1540" w="1" a="1">
+</p>
+<p t="480740" d="5280" w="1"><s ac="244">been</s><s t="150" ac="252"> arrived</s><s t="480" ac="252"> at</s><s p="1" t="690" ac="214"> through</s><s t="1200" ac="252"> several</s></p>
+<p t="482260" d="3760" w="1" a="1">
+</p>
+<p t="482270" d="5580" w="1"><s p="1" ac="216">independent</s><s t="500" ac="232"> methodologies</s><s t="1850" ac="234"> however</s><s p="1" t="2850" ac="201"> we</s><s t="3630" ac="252"> do</s></p>
+<p t="486010" d="1840" w="1" a="1">
+</p>
+<p t="486020" d="5010" w="1"><s ac="252">not</s><s p="1" t="120" ac="214"> yet</s><s p="2" t="330" ac="102"> know</s><s t="540" ac="252"> why</s><s t="840" ac="252"> human</s><s t="1290" ac="252"> dispositions</s></p>
+<p t="487840" d="3190" w="1" a="1">
+</p>
+<p t="487850" d="4939" w="1"><s p="1" ac="219">cluster</s><s p="2" t="600" ac="189"> into</s><s t="810" ac="252"> these</s><s t="1110" ac="238"> five</s><s t="1470" ac="252"> traits</s><s p="1" t="1939" ac="204"> nor</s><s t="2939" ac="252"> do</s><s t="3120" ac="252"> we</s></p>
+<p t="491020" d="1769" w="1" a="1">
+</p>
+<p t="491030" d="4199" w="1"><s ac="226">know</s><s p="1" t="60" ac="200"> how</s><s t="480" ac="252"> to</s><s t="540" ac="252"> ascertain</s><s t="1199" ac="236"> big</s><s t="1500" ac="252"> five</s><s t="1710" ac="252"> traits</s></p>
+<p t="492779" d="2450" w="1" a="1">
+</p>
+<p t="492789" d="5351" w="1"><s p="2" ac="186">without</s><s t="1000" ac="252"> directly</s><s t="1451" ac="229"> asking</s><s t="1961" ac="252"> people</s><s t="2141" ac="244"> to</s></p>
+<p t="495219" d="2921" w="1" a="1">
+</p>
+<p t="495229" d="4910" w="1"><s p="2" ac="198">introspect</s><s t="871" ac="252"> about</s><s t="1081" ac="252"> themselves</s><s p="1" t="1821" ac="203"> this</s><s t="2821" ac="236"> is</s></p>
+<p t="498130" d="2009" w="1" a="1">
+</p>
+<p t="498140" d="4649" w="1"><s ac="245">where</s><s t="180" ac="252"> my</s><s t="330" ac="252"> research</s><s t="480" ac="226"> comes</s><s p="1" t="690" ac="205"> in</s></p>
+<p t="500129" d="2660" w="1" a="1">
+</p>
+<p t="500139" d="4300" w="1"><s ac="252">for</s><s t="1000" ac="252"> the</s><s t="1060" ac="252"> past</s><s p="1" t="1240" ac="207"> three</s><s t="1540" ac="252"> years</s><s p="2" t="1570" ac="152"> I&#39;ve</s><s p="1" t="2410" ac="207"> been</s></p>
+<p t="502779" d="1660" w="1" a="1">
+</p>
+<p t="502789" d="5940" w="1"><s p="2" ac="151">investigating</s><s t="720" ac="252"> how</s><s t="960" ac="252"> the</s><s t="1020" ac="252"> big</s><s t="1410" ac="252"> five</s><s t="1620" ac="252"> traits</s></p>
+<p t="504429" d="4300" w="1" a="1">
+</p>
+<p t="504439" d="6750" w="1"><s ac="226">can</s><s p="2" t="840" ac="167"> be</s><s t="990" ac="252"> detected</s><s p="1" t="1320" ac="205"> without</s><s p="1" t="2030" ac="203"> self-report</s><s p="1" t="3290" ac="226"> this</s></p>
+<p t="508719" d="2470" w="1" a="1">
+</p>
+<p t="508729" d="4470" w="1"><s p="1" ac="214">effort</s><s t="390" ac="252"> has</s><s p="1" t="420" ac="201"> taken</s><s p="2" t="660" ac="152"> many</s><s t="960" ac="252"> forms</s><s p="1" t="1190" ac="202"> which</s><s p="1" t="2190" ac="217"> I</s><s p="1" t="2310" ac="250"> will</s></p>
+<p t="511179" d="2020" w="1" a="1">
+</p>
+<p t="511189" d="5040" w="1"><s p="2" ac="166">continue</s><s p="1" t="450" ac="201"> to</s><s t="540" ac="252"> pursue</s><s p="1" t="750" ac="217"> throughout</s><s t="1650" ac="252"> the</s><s t="1770" ac="243"> course</s></p>
+<p t="513189" d="3040" w="1" a="1">
+</p>
+<p t="513199" d="4680" w="1"><s p="1" ac="207">of</s><s p="2" t="150" ac="165"> my</s><s t="270" ac="244"> PhD</s><s p="2" t="801" ac="181"> for</s><s t="1801" ac="252"> instance</s><s t="2130" ac="227"> I&#39;ve</s><s t="2731" ac="252"> been</s></p>
+<p t="516219" d="1660" w="1" a="1">
+</p>
+<p t="516229" d="4131" w="1"><s ac="235">investigating</s><s p="1" t="451" ac="200"> whether</s><s p="1" t="1021" ac="205"> the</s><s p="1" t="1230" ac="252"> big</s><s p="1" t="1440" ac="252"> five</s></p>
+<p t="517869" d="2491" w="1" a="1">
+</p>
+<p t="517879" d="5100" w="1"><s ac="252">traits</s><s p="1" t="30" ac="200"> map</s><s p="2" t="931" ac="167"> onto</s><s t="1290" ac="252"> the</s><s t="1410" ac="246"> differences</s><s t="1950" ac="233"> in</s></p>
+<p t="520350" d="2629" w="1" a="1">
+</p>
+<p t="520360" d="6099" w="1"><s ac="249">fundamental</s><s t="1000" ac="252"> cognitive</s><s t="1419" ac="252"> processes</s><s t="1989" ac="252"> such</s><s t="2589" ac="252"> as</s></p>
+<p t="522969" d="3490" w="1" a="1">
+</p>
+<p t="522979" d="5191" w="1"><s p="1" ac="207">attention</s><s p="1" t="920" ac="216"> thus</s><s p="1" t="1920" ac="236"> far</s><s p="1" t="2191" ac="207"> I</s><s t="2400" ac="242"> have</s><s t="3061" ac="252"> found</s><s p="1" t="3090" ac="206"> support</s></p>
+<p t="526449" d="1721" w="1" a="1">
+</p>
+<p t="526459" d="4651" w="1"><s p="1" ac="201">for</s><s t="480" ac="252"> the</s><s t="570" ac="252"> idea</s><s p="2" t="661" ac="143"> that</s><s t="870" ac="252"> conscientious</s><s t="1560" ac="252"> people</s></p>
+<p t="528160" d="2950" w="1" a="1">
+</p>
+<p t="528170" d="5250" w="1"><s p="1" ac="208">are</s><s t="390" ac="252"> remarkably</s><s t="1200" ac="252"> better</s><s t="1409" ac="232"> at</s><s t="1940" ac="247"> deliberately</s></p>
+<p t="531100" d="2320" w="1" a="1">
+</p>
+<p t="531110" d="5219" w="1" p="1"><s ac="205">attending</s><s t="810" ac="212"> to</s><s t="899" ac="252"> specific</s><s t="1409" ac="252"> features</s><s t="1740" ac="244"> under</s></p>
+<p t="533410" d="2919" w="1" a="1">
+</p>
+<p t="533420" d="5669" w="1"><s ac="252">distractions</s><s t="890" ac="231"> while</s><s t="1890" ac="227"> people</s><s p="1" t="2159" ac="214"> who</s><s t="2399" ac="226"> score</s><s t="2700" ac="252"> high</s></p>
+<p t="536319" d="2770" w="1" a="1">
+</p>
+<p t="536329" d="4921" w="1" p="1"><s ac="217">on</s><s t="211" ac="217"> openness</s><s t="810" ac="226"> are</s><s t="1050" ac="252"> notably</s><s t="1921" ac="252"> flexible</s><s t="2610" ac="216"> as</s></p>
+<p t="539079" d="2171" w="1" a="1">
+</p>
+<p t="539089" d="6240" w="1"><s ac="248">attending</s><s p="1" t="451" ac="200"> to</s><s t="750" ac="252"> changing</s><s t="1651" ac="252"> attentional</s></p>
+<p t="541240" d="4089" w="1" a="1">
+</p>
+<p t="541250" d="6269" w="1"><s ac="252">demands</s><s t="1430" ac="227"> this</s><s t="2430" ac="252"> research</s><s t="2819" ac="252"> suggests</s><s p="2" t="3060" ac="141"> that</s><s p="2" t="3569" ac="179"> the</s></p>
+<p t="545319" d="2200" w="1" a="1">
+</p>
+<p t="545329" d="5341" w="1"><s ac="252">big</s><s t="151" ac="221"> five</s><s t="360" ac="252"> traits</s><s p="1" t="391" ac="214"> may</s><s t="1320" ac="252"> have</s><s t="1560" ac="252"> a</s><s t="1591" ac="252"> basis</s><s p="1" t="2010" ac="219"> in</s></p>
+<p t="547509" d="3161" w="1" a="1">
+</p>
+<p t="547519" d="4680" w="1"><s ac="248">fundamental</s><s t="690" ac="242"> cognitive</s><s t="1260" ac="252"> processes</s><s t="1920" ac="236"> and</s><s t="2151" ac="247"> this</s></p>
+<p t="550660" d="1539" w="1" a="1">
+</p>
+<p t="550670" d="3599" w="1"><s p="1" ac="215">may</s><s t="209" ac="252"> lead</s><s p="2" t="240" ac="113"> to</s><s p="2" t="630" ac="69"> the</s><s p="2" t="750" ac="188"> development</s><s p="1" t="899" ac="204"> of</s></p>
+<p t="552189" d="2080" w="1" a="1">
+</p>
+<p t="552199" d="6591" w="1"><s ac="252">personality</s><s t="510" ac="252"> screening</s><s t="1111" ac="252"> measures</s><s t="1380" ac="252"> that</s><s p="2" t="1411" ac="146"> have</s></p>
+<p t="554259" d="4531" w="1" a="1">
+</p>
+<p t="554269" d="7201" w="1"><s ac="252">a</s><s t="31" ac="252"> basis</s><s t="810" ac="223"> in</s><s t="990" ac="252"> part</s><s t="1651" ac="245"> on</s><s t="1971" ac="226"> cognitive</s><s t="2971" ac="252"> performance</s></p>
+<p t="558780" d="2690" w="1" a="1">
+</p>
+<p t="558790" d="5010" w="1"><s ac="227">I&#39;ve</s><s t="1000" ac="252"> also</s><s t="1270" ac="252"> been</s><s t="1510" ac="252"> investigating</s><s t="2169" ac="252"> whether</s><s p="1" t="2440" ac="201"> the</s></p>
+<p t="561460" d="2340" w="1" a="1">
+</p>
+<p t="561470" d="4650" w="1"><s ac="252">big</s><s t="150" ac="252"> five</s><s t="359" ac="252"> traits</s><s p="1" t="390" ac="203"> reveal</s><s t="1289" ac="252"> themselves</s><s p="2" t="1500" ac="166"> in</s></p>
+<p t="563790" d="2330" w="1" a="1">
+</p>
+<p t="563800" d="5370" w="1"><s ac="252">motivational</s><s t="1000" ac="252"> reactions</s><s t="1479" ac="239"> to</s><s t="1719" ac="237"> positive</s><s t="2170" ac="249"> and</s></p>
+<p t="566110" d="3060" w="1" a="1">
+</p>
+<p t="566120" d="6600" w="1"><s p="2" ac="180">negative</s><s t="449" ac="252"> feedback</s><s p="2" t="480" ac="155"> on</s><s t="1079" ac="252"> a</s><s t="1139" ac="252"> variety</s><s p="2" t="1800" ac="165"> of</s><s t="2100" ac="252"> tasks</s></p>
+<p t="569160" d="3560" w="1" a="1">
+</p>
+<p t="569170" d="5380" w="1"><s ac="227">so</s><s t="1000" ac="252"> far</s><s t="1240" ac="226"> this</s><s t="2050" ac="252"> line</s><s t="2229" ac="252"> of</s><s t="2349" ac="252"> research</s><s p="1" t="2550" ac="217"> has</s></p>
+<p t="572710" d="1840" w="1" a="1">
+</p>
+<p t="572720" d="5010" w="1"><s p="1" ac="204">revealed</s><s t="359" ac="252"> that</s><s t="510" ac="252"> conscientious</s><s t="1229" ac="241"> and</s><s t="1349" ac="238"> neurotic</s></p>
+<p t="574540" d="3190" w="1" a="1">
+</p>
+<p t="574550" d="6209" w="1"><s ac="252">people</s><s t="120" ac="232"> can</s><s t="930" ac="252"> be</s><s t="1050" ac="252"> provoked</s><s p="2" t="1560" ac="162"> to</s><s t="1860" ac="252"> work</s><s t="2130" ac="252"> harder</s><s p="1" t="2579" ac="206"> by</s></p>
+<p t="577720" d="3039" w="1" a="1">
+</p>
+<p t="577730" d="5070" w="1"><s ac="252">using</s><s t="299" ac="239"> negative</s><s p="1" t="599" ac="201"> feedback</s><s p="2" t="1459" ac="167"> however</s><s t="2459" ac="252"> this</s></p>
+<p t="580749" d="2051" w="1" a="1">
+</p>
+<p t="580759" d="4531" w="1"><s ac="235">effect</s><s p="1" t="180" ac="209"> only</s><s p="1" t="541" ac="204"> emerges</s><s p="1" t="1231" ac="252"> when</s><s p="1" t="1411" ac="224"> the</s><s p="1" t="1560" ac="250"> task</s><s p="1" t="1800" ac="228"> is</s></p>
+<p t="582790" d="2500" w="1" a="1">
+</p>
+<p t="582800" d="6240" w="1"><s ac="252">somewhat</s><s p="2" t="450" ac="152"> enjoyable</s><s t="1229" ac="231"> and</s><s p="1" t="1409" ac="202"> the</s><s p="2" t="1469" ac="129"> effect</s><s t="2370" ac="252"> is</s></p>
+<p t="585280" d="3760" w="1" a="1">
+</p>
+<p t="585290" d="5820" w="1"><s ac="252">prefers</s><s p="2" t="479" ac="177"> the</s><s t="1109" ac="243"> task</s><s t="1349" ac="252"> is</s><s t="1529" ac="252"> frustrating</s><s p="1" t="2750" ac="218"> this</s></p>
+<p t="589030" d="2080" w="1" a="1">
+</p>
+<p t="589040" d="4049" w="1"><s p="1" ac="207">line</s><s t="239" ac="252"> of</s><s t="359" ac="252"> research</s><s t="649" ac="244"> suggests</s><s p="2" t="1649" ac="165"> that</s><s t="1769" ac="252"> the</s><s p="2" t="1890" ac="185"> Big</s></p>
+<p t="591100" d="1989" w="1" a="1">
+</p>
+<p t="591110" d="4349" w="1"><s p="2" ac="185">Five</s><s t="209" ac="242"> may</s><s p="2" t="570" ac="93"> have</s><s p="2" t="930" ac="112"> a</s><s p="2" t="1079" ac="252"> basis</s><s p="2" t="1500" ac="223"> in</s><s p="2" t="1709" ac="252"> more</s></p>
+<p t="593079" d="2380" w="1" a="1">
+</p>
+<p t="593089" d="4711" w="1"><s ac="252">fundamental</s><s t="930" ac="255"> motivational</s><s t="1620" ac="249"> tendencies</s><s p="1" t="2161" ac="218"> and</s></p>
+<p t="595449" d="2351" w="1" a="1">
+</p>
+<p t="595459" d="4170" w="1"><s ac="236">this</s><s t="781" ac="252"> may</s><s t="930" ac="252"> lead</s><s p="2" t="961" ac="126"> to</s><s t="1170" ac="240"> the</s><s p="1" t="1291" ac="217"> development</s><s p="2" t="1380" ac="168"> of</s><s t="2041" ac="252"> a</s></p>
+<p t="597790" d="1839" w="1" a="1">
+</p>
+<p t="597800" d="3719" w="1"><s ac="252">motivational</s><s t="659" ac="239"> intervention</s><s t="1440" ac="228"> that&#39;s</s></p>
+<p t="599619" d="1900" w="1" a="1">
+</p>
+<p t="599629" d="5460" w="1"><s ac="239">tailored</s><s t="570" ac="252"> to</s><s p="2" t="601" ac="163"> specific</s><s t="960" ac="252"> personality</s></p>
+<p t="601509" d="3580" w="1" a="1">
+</p>
+<p t="601519" d="6000" w="1"><s p="1" ac="206">profiles</s><s t="1880" ac="227"> one</s><s t="2880" ac="252"> of</s><s t="3000" ac="252"> my</s><s t="3060" ac="234"> most</s><s t="3211" ac="249"> promising</s></p>
+<p t="605079" d="2440" w="1" a="1">
+</p>
+<p t="605089" d="5610" w="1" p="1"><s ac="201">research</s><s t="360" ac="202"> projects</s><s t="1141" ac="225"> concerns</s><s t="1920" ac="252"> the</s><s t="2100" ac="252"> detection</s></p>
+<p t="607509" d="3190" w="1" a="1">
+</p>
+<p t="607519" d="4471" w="1"><s ac="252">of</s><s t="300" ac="249"> personality</s><s t="1021" ac="237"> through</s><s t="1440" ac="247"> language</s><s p="1" t="1620" ac="201"> use</s><s t="2180" ac="242"> this</s></p>
+<p t="610689" d="1301" w="1" a="1">
+</p>
+<p t="610699" d="3450" w="1"><s ac="235">research</s><s t="390" ac="225"> is</s><s t="630" ac="252"> founded</s><s p="1" t="1051" ac="207"> on</s><s p="1" t="1171" ac="203"> the</s></p>
+<p t="611980" d="2169" w="1" a="1">
+</p>
+<p t="611990" d="3449" w="1"><s ac="252">presupposition</s><s p="2" t="420" ac="165"> that</s><s p="1" t="930" ac="203"> character</s><s p="2" t="1860" ac="150"> can</s><s p="2" t="2039" ac="79"> be</s></p>
+<p t="614139" d="1300" w="1" a="1">
+</p>
+<p t="614149" d="4471" w="1"><s ac="252">revealed</s><s p="2" t="300" ac="187"> through</s><s p="2" t="571" ac="128"> the</s><s p="2" t="810" ac="241"> words</s><s p="1" t="1050" ac="216"> that</s></p>
+<p t="615429" d="3191" w="1" a="1">
+</p>
+<p t="615439" d="6120" w="1"><s ac="252">individuals</s><s t="601" ac="240"> tend</s><s t="1020" ac="233"> to</s><s t="1531" ac="252"> use</s><s p="1" t="1971" ac="211"> these</s><s t="2971" ac="236"> ideas</s></p>
+<p t="618610" d="2949" w="1" a="1">
+</p>
+<p t="618620" d="4769" w="1"><s p="2" ac="166">intuitive</s><s p="1" t="930" ac="208"> we</s><s t="1800" ac="230"> think</s><s t="2040" ac="252"> about</s><s p="2" t="2370" ac="185"> simple</s></p>
+<p t="621549" d="1840" w="1" a="1">
+</p>
+<p t="621559" d="5070" w="1"><s ac="252">dispositions</s><s p="1" t="570" ac="208"> such</s><s t="1020" ac="252"> as</s><s t="1200" ac="236"> pessimism</s><s t="1650" ac="252"> and</s></p>
+<p t="623379" d="3250" w="1" a="1">
+</p>
+<p t="623389" d="5430" w="1"><s ac="252">optimism</s><s p="2" t="651" ac="165"> for</s><s t="1651" ac="252"> example</s><s t="2010" ac="241"> we</s><s t="2640" ac="252"> would</s><s t="2731" ac="222"> expect</s><s t="3031" ac="238"> an</s></p>
+<p t="626619" d="2200" w="1" a="1">
+</p>
+<p t="626629" d="3991" w="1"><s ac="252">optimist</s><s p="1" t="570" ac="216"> to</s><s t="1080" ac="252"> use</s><s t="1200" ac="252"> a</s><s t="1231" ac="252"> disproportionate</s></p>
+<p t="628809" d="1811" w="1" a="1">
+</p>
+<p t="628819" d="4591" w="1"><s p="2" ac="174">amount</s><s t="390" ac="252"> of</s><s t="481" ac="226"> positive</s><s p="1" t="901" ac="208"> words</s></p>
+<p t="630610" d="2800" w="1" a="1">
+</p>
+<p t="630620" d="4440" w="1"><s ac="252">however</s><s t="990" ac="255"> it</s><s t="1530" ac="252"> was</s><s t="1680" ac="231"> unclear</s><s t="2250" ac="252"> as</s><s t="2460" ac="252"> to</s><s t="2490" ac="252"> whether</s></p>
+<p t="633400" d="1660" w="1" a="1">
+</p>
+<p t="633410" d="3990" w="1"><s ac="226">this</s><s p="1" t="240" ac="217"> would</s><s p="1" t="450" ac="201"> extend</s><s p="1" t="780" ac="236"> to</s><s p="1" t="1110" ac="252"> complex</s></p>
+<p t="635050" d="2350" w="1" a="1">
+</p>
+<p t="635060" d="5040" w="1"><s ac="249">dispositions</s><s p="1" t="660" ac="200"> such</s><s t="1260" ac="252"> as</s><s t="1440" ac="240"> conscientiousness</s></p>
+<p t="637390" d="2710" w="1" a="1">
+</p>
+<p t="637400" d="6300" w="1"><s p="1" ac="217">which</s><s t="720" ac="235"> again</s><s p="1" t="960" ac="214"> represents</s><s t="1950" ac="252"> a</s><s t="2010" ac="252"> tendency</s><s t="2520" ac="252"> to</s></p>
+<p t="640090" d="3610" w="1" a="1">
+</p>
+<p t="640100" d="6030" w="1"><s p="1" ac="216">work</s><s t="240" ac="252"> hard</s><s t="540" ac="252"> and</s><s t="720" ac="236"> stay</s><s t="1500" ac="249"> organized</s><s p="1" t="2600" ac="208"> this</s></p>
+<p t="643690" d="2440" w="1" a="1">
+</p>
+<p t="643700" d="6090" w="1"><s ac="252">disposition</s><s p="2" t="330" ac="142"> does</s><s t="930" ac="227"> not</s><s t="1050" ac="252"> clearly</s><s t="1680" ac="252"> map</s><s p="1" t="2070" ac="210"> on</s><s p="1" t="2250" ac="206"> to</s></p>
+<p t="646120" d="3670" w="1" a="1">
+</p>
+<p t="646130" d="5430" w="1"><s ac="252">word</s><s t="210" ac="252"> choice</s><s p="2" t="560" ac="196"> so</s><s p="1" t="1560" ac="205"> to</s><s p="2" t="1890" ac="96"> test</s><s t="2400" ac="255"> our</s><s t="2520" ac="247"> hypothesis</s><s t="3120" ac="244"> we</s></p>
+<p t="649780" d="1780" w="1" a="1">
+</p>
+<p t="649790" d="3420" w="1"><s ac="252">generated</s><s t="510" ac="252"> a</s><s t="630" ac="252"> list</s><s t="810" ac="225"> of</s><s p="1" t="1020" ac="208"> more</s><s p="1" t="1170" ac="201"> than</s><s p="1" t="1290" ac="230"> a</s><s p="1" t="1380" ac="245"> thousand</s></p>
+<p t="651550" d="1660" w="1" a="1">
+</p>
+<p t="651560" d="4650" w="1"><s ac="255">adjectives</s><s t="450" ac="236"> that</s><s p="1" t="630" ac="202"> are</s><s p="2" t="1020" ac="166"> theoretically</s></p>
+<p t="653200" d="3010" w="1" a="1">
+</p>
+<p t="653210" d="5510" w="1"><s ac="252">relevant</s><s p="2" t="300" ac="192"> to</s><s t="900" ac="252"> conscientious</s><s p="2" t="1380" ac="167"> people</s><s t="2000" ac="237"> these</s></p>
+<p t="656200" d="2520" w="1" a="1">
+</p>
+<p t="656210" d="6420" w="1"><s ac="220">words</s><s t="300" ac="252"> included</s><s t="810" ac="242"> things</s><s p="2" t="1140" ac="187"> such</s><s t="1320" ac="252"> as</s><s t="1350" ac="234"> methodical</s></p>
+<p t="658710" d="3920" w="1" a="1">
+</p>
+<p t="658720" d="5890" w="1"><s p="2" ac="195">persistent</s><s t="1000" ac="221"> and</s><s p="1" t="1120" ac="203"> resourceful</s><s t="2730" ac="226"> we</s><s t="3730" ac="252"> then</s></p>
+<p t="662620" d="1990" w="1" a="1">
+</p>
+<p t="662630" d="4380" w="1"><s ac="252">acquired</s><s t="330" ac="252"> a</s><s t="450" ac="252"> variety</s><s t="690" ac="222"> of</s><s t="990" ac="252"> writing</s><s p="1" t="1440" ac="216"> samples</s></p>
+<p t="664600" d="2410" w="1" a="1">
+</p>
+<p t="664610" d="4320" w="1"><s ac="252">from</s><s t="300" ac="252"> different</s><s p="2" t="480" ac="124"> groups</s><s t="840" ac="252"> of</s><s p="1" t="960" ac="216"> people</s><s p="2" t="1400" ac="177"> these</s></p>
+<p t="667000" d="1930" w="1" a="1">
+</p>
+<p t="667010" d="4080" w="1"><s ac="240">writing</s><s t="300" ac="252"> examples</s><s t="510" ac="243"> included</s><s t="1080" ac="249"> recollections</s></p>
+<p t="668920" d="2170" w="1" a="1">
+</p>
+<p t="668930" d="4950" w="1"><s p="1" ac="201">of</s><s t="90" ac="252"> positive</s><s t="510" ac="252"> memories</s><s t="900" ac="229"> negative</s><s t="1770" ac="252"> memories</s></p>
+<p t="671080" d="2800" w="1" a="1">
+</p>
+<p t="671090" d="4470" w="1"><s ac="248">ordinary</s><s t="870" ac="252"> experiences</s><s t="1590" ac="223"> as</s><s t="1770" ac="252"> well</s><s t="2190" ac="252"> as</s><s t="2250" ac="224"> stream</s></p>
+<p t="673870" d="1690" w="1" a="1">
+</p>
+<p t="673880" d="5790" w="1"><s ac="223">of</s><s t="150" ac="252"> thought</s><s t="300" ac="242"> essays</s><s t="660" ac="243"> and</s><s t="840" ac="236"> even</s><s p="1" t="1470" ac="208"> Facebook</s></p>
+<p t="675550" d="4120" w="1" a="1">
+</p>
+<p t="675560" d="6240" w="1"><s p="1" ac="200">statuses</s><s p="1" t="980" ac="204"> across</s><s p="1" t="1980" ac="226"> all</s><s p="1" t="2280" ac="216"> of</s><s t="2760" ac="252"> these</s><s p="2" t="2940" ac="166"> samples</s><s t="3450" ac="252"> we</s></p>
+<p t="679660" d="2140" w="1" a="1">
+</p>
+<p t="679670" d="3900" w="1"><s ac="252">found</s><s p="1" t="30" ac="209"> highly</s><s t="660" ac="252"> conscientious</s><s t="1140" ac="252"> people</s><s p="1" t="1380" ac="216"> to</s><s t="1980" ac="252"> use</s></p>
+<p t="681790" d="1780" w="1" a="1">
+</p>
+<p t="681800" d="4800" w="1"><s ac="252">a</s><s t="170" ac="252"> disproportionate</s><s t="1170" ac="252"> amount</s><s p="2" t="1350" ac="149"> of</s></p>
+<p t="683560" d="3040" w="1" a="1">
+</p>
+<p t="683570" d="5100" w="1"><s ac="252">conscientious</s><s t="720" ac="234"> related</s><s t="1290" ac="236"> adjectives</s><s p="1" t="2030" ac="216"> not</s></p>
+<p t="686590" d="2080" w="1" a="1">
+</p>
+<p t="686600" d="4050" w="1"><s p="2" ac="198">only</s><s t="210" ac="238"> that</s><s p="1" t="420" ac="214"> but</s><s t="870" ac="240"> we</s><s t="1020" ac="252"> also</s><s p="2" t="1050" ac="181"> found</s><s t="1620" ac="252"> that</s><s p="1" t="1740" ac="216"> the</s><s t="1890" ac="252"> use</s></p>
+<p t="688660" d="1990" w="1" a="1">
+</p>
+<p t="688670" d="4160" w="1"><s ac="252">of</s><s p="2" t="30" ac="186"> these</s><s t="330" ac="242"> adjectives</s><s t="810" ac="223"> predicts</s><s t="1530" ac="252"> the</s><s t="1740" ac="252"> same</s></p>
+<p t="690640" d="2190" w="1" a="1">
+</p>
+<p t="690650" d="5040" w="1"><s ac="251">outcomes</s><s p="1" t="540" ac="203"> at</s><s t="780" ac="255"> conscientiousness</s><s p="2" t="1500" ac="197"> itself</s></p>
+<p t="692820" d="2870" w="1" a="1">
+</p>
+<p t="692830" d="5830" w="1"><s ac="235">including</s><s t="1000" ac="252"> increased</s><s t="1450" ac="220"> income</s><s p="1" t="1630" ac="203"> and</s><s t="2020" ac="252"> increased</s></p>
+<p t="695680" d="2980" w="1" a="1">
+</p>
+<p t="695690" d="4800" w="1"><s ac="252">passion</s><s t="450" ac="255"> for</s><s t="660" ac="249"> work</s><s t="1730" ac="234"> thus</s><s t="2730" ac="252"> we</s><s t="2880" ac="227"> have</s></p>
+<p t="698650" d="1840" w="1" a="1">
+</p>
+<p t="698660" d="4590" w="1"><s p="2" ac="146">demonstrated</s><s p="1" t="510" ac="201"> that</s><s t="960" ac="252"> it</s><s p="2" t="1110" ac="160"> is</s><s p="2" t="1200" ac="168"> possible</s><s p="2" t="1770" ac="230"> to</s></p>
+<p t="700480" d="2770" w="1" a="1">
+</p>
+<p t="700490" d="4890" w="1"><s p="2" ac="142">identify</s><s t="320" ac="243"> complex</s><s t="1320" ac="252"> personality</s><s t="1920" ac="252"> traits</s><s t="2190" ac="235"> from</s></p>
+<p t="703240" d="2140" w="1" a="1">
+</p>
+<p t="703250" d="4800" w="1"><s ac="252">many</s><s t="300" ac="252"> different</s><s t="540" ac="252"> language</s><s t="1050" ac="252"> samples</s><s t="1410" ac="225"> easily</s></p>
+<p t="705370" d="2680" w="1" a="1">
+</p>
+<p t="705380" d="4410" w="1"><s ac="237">and</s><s t="180" ac="252"> reliably</s><s p="2" t="1220" ac="185"> we</s><s p="1" t="2220" ac="219"> started</s><s t="2580" ac="252"> with</s></p>
+<p t="708040" d="1750" w="1" a="1">
+</p>
+<p t="708050" d="5370" w="1"><s ac="252">conscientiousness</s><s t="570" ac="252"> alone</s><s p="1" t="960" ac="205"> because</s><s t="1500" ac="226"> of</s><s t="1620" ac="249"> its</s></p>
+<p t="709780" d="3640" w="1" a="1">
+</p>
+<p t="709790" d="6300" w="1"><s ac="245">clear</s><s p="1" t="300" ac="206"> real</s><s p="1" t="690" ac="217"> world</s><s p="1" t="930" ac="252"> applications</s><s p="1" t="2510" ac="234"> many</s><s p="1" t="3510" ac="252"> of</s></p>
+<p t="713410" d="2680" w="1" a="1">
+</p>
+<p t="713420" d="4830" w="1"><s ac="234">our</s><s t="120" ac="226"> most</s><s t="300" ac="248"> valued</s><s t="870" ac="236"> social</s><s t="1670" ac="227"> organizational</s></p>
+<p t="716080" d="2170" w="1" a="1">
+</p>
+<p t="716090" d="4380" w="1"><s ac="237">and</s><s t="210" ac="252"> individual</s><s t="750" ac="252"> outcomes</s><s t="1200" ac="242"> are</s><s t="1470" ac="252"> determined</s></p>
+<p t="718240" d="2230" w="1" a="1">
+</p>
+<p t="718250" d="4410" w="1"><s ac="252">by</s><s t="90" ac="252"> conscientiousness</s><s p="1" t="890" ac="202"> people</s><s t="1890" ac="252"> who</s><s t="2010" ac="252"> possess</s></p>
+<p t="720460" d="2200" w="1" a="1">
+</p>
+<p t="720470" d="4170" w="1"><s p="1" ac="201">this</s><s t="330" ac="252"> trait</s><s t="600" ac="236"> enrich</s><s t="1230" ac="246"> our</s><s t="1380" ac="252"> communities</s><s t="1980" ac="252"> by</s></p>
+<p t="722650" d="1990" w="1" a="1">
+</p>
+<p t="722660" d="5010" w="1"><s ac="252">exercising</s><s t="480" ac="249"> social</s><s t="1020" ac="240"> responsibility</s><s p="1" t="1830" ac="202"> and</s></p>
+<p t="724630" d="3040" w="1" a="1">
+</p>
+<p t="724640" d="4680" w="1"><s ac="252">relational</s><s t="750" ac="252"> fidelity</s><s p="1" t="1260" ac="215"> as</s><s t="2130" ac="252"> top</s><s t="2400" ac="252"> performers</s><s t="2910" ac="252"> at</s></p>
+<p t="727660" d="1660" w="1" a="1">
+</p>
+<p t="727670" d="3240" w="1"><s ac="252">work</s><s t="180" ac="251"> in</s><s t="360" ac="245"> school</s><s p="1" t="600" ac="206"> conscientious</s><s t="1560" ac="252"> people</s></p>
+<p t="729310" d="1600" w="1" a="1">
+</p>
+<p t="729320" d="3420" w="1"><s p="1" ac="211">drive</s><s p="2" t="450" ac="137"> up</s><s t="660" ac="252"> the</s><s t="780" ac="252"> productivity</s><s p="2" t="1080" ac="143"> of</s><s p="1" t="1410" ac="202"> our</s></p>
+<p t="730900" d="1840" w="1" a="1">
+</p>
+<p t="730910" d="4170" w="1" p="1"><s ac="217">organizations</s><s t="810" ac="201"> and</s><s t="930" ac="252"> the</s><s t="1350" ac="252"> grades</s><s t="1590" ac="255"> in</s><s t="1710" ac="204"> our</s></p>
+<p t="732730" d="2350" w="1" a="1">
+</p>
+<p t="732740" d="3960" w="1"><s ac="252">classrooms</s><s t="650" ac="245"> by</s><s p="1" t="1650" ac="218"> demonstrating</s><s p="1" t="2220" ac="213"> that</s></p>
+<p t="735070" d="1630" w="1" a="1">
+</p>
+<p t="735080" d="4020" w="1"><s ac="236">conscientiousness</s><s t="720" ac="252"> can</s><s t="1080" ac="252"> be</s><s t="1200" ac="252"> detected</s></p>
+<p t="736690" d="2410" w="1" a="1">
+</p>
+<p t="736700" d="4260" w="1"><s p="2" ac="160">through</s><s t="240" ac="232"> natural</s><s p="1" t="1170" ac="201"> language</s><s p="1" t="1560" ac="201"> use</s><s p="1" t="1740" ac="227"> we</s><s p="1" t="2370" ac="252"> have</s></p>
+<p t="739090" d="1870" w="1" a="1">
+</p>
+<p t="739100" d="4470" w="1"><s p="1" ac="207">opened</s><s p="1" t="420" ac="212"> the</s><s p="1" t="480" ac="252"> door</s><s p="1" t="660" ac="252"> to</s><s p="2" t="690" ac="78"> a</s><s t="960" ac="252"> new</s><s p="1" t="1080" ac="203"> approach</s><s t="1590" ac="242"> for</s></p>
+<p t="740950" d="2620" w="1" a="1">
+</p>
+<p t="740960" d="5550" w="1"><s p="1" ac="218">detecting</s><s t="690" ac="252"> a</s><s t="810" ac="252"> highly</s><s t="1320" ac="252"> desirable</s><s t="1710" ac="242"> personality</s></p>
+<p t="743560" d="2950" w="1" a="1">
+</p>
+<p t="743570" d="6000" w="1"><s ac="236">trait</s><s t="290" ac="244"> the</s><s t="1290" ac="251"> trait</s><s p="1" t="1530" ac="203"> that</s><s t="2250" ac="252"> many</s><s p="1" t="2490" ac="217"> people</s><s p="1" t="2700" ac="202"> lie</s></p>
+<p t="746500" d="3070" w="1" a="1">
+</p>
+<p t="746510" d="4600" w="1"><s p="2" ac="149">about</s><s t="710" ac="255"> precisely</s><s p="1" t="1710" ac="204"> due</s><s p="1" t="2280" ac="201"> to</s><s p="1" t="2490" ac="244"> its</s><s p="1" t="2640" ac="248"> societal</s></p>
+<p t="749560" d="1550" w="1" a="1">
+</p>
+<p t="749570" d="3670" w="1"><s ac="252">value</s></p>
+<p t="751100" d="2140" w="1" a="1">
+</p>
+<p t="751110" d="4200" w="1"><s ac="252">in</s><s t="510" ac="252"> my</s><s t="690" ac="252"> coming</s><s t="990" ac="252"> years</s><s t="1230" ac="226"> in</s><s t="1530" ac="252"> the</s><s p="2" t="1650" ac="106"> Petersons</s><s t="2010" ac="229"> lab</s></p>
+<p t="753230" d="2080" w="1" a="1">
+</p>
+<p t="753240" d="4080" w="1"><s p="2" ac="198">I</s><s t="270" ac="252"> plan</s><s p="2" t="990" ac="147"> to</s><s t="1080" ac="252"> develop</s><s t="1290" ac="229"> a</s><s t="1650" ac="252"> personality</s></p>
+<p t="755300" d="2020" w="1" a="1">
+</p>
+<p t="755310" d="4440" w="1"><s ac="252">measurement</s><s t="600" ac="252"> battery</s><s t="870" ac="236"> based</s><s t="1590" ac="231"> on</s><s t="1890" ac="252"> these</s></p>
+<p t="757310" d="2440" w="1" a="1">
+</p>
+<p t="757320" d="3960" w="1"><s ac="238">natural</s><s p="1" t="270" ac="208"> language</s><s t="780" ac="255"> findings</s><s t="1430" ac="220"> the</s></p>
+<p t="759740" d="1540" w="1" a="1">
+</p>
+<p t="759750" d="3360" w="1"><s ac="252">development</s><s t="480" ac="236"> of</s><s p="1" t="570" ac="208"> this</s><s t="660" ac="252"> battery</s><s p="1" t="990" ac="203"> will</s><s t="1200" ac="252"> require</s></p>
+<p t="761270" d="1840" w="1" a="1">
+</p>
+<p t="761280" d="3840" w="1"><s ac="252">more</s><s t="390" ac="228"> research</s><s t="840" ac="252"> into</s><s p="2" t="1170" ac="172"> the</s><s t="1500" ac="252"> language</s></p>
+<p t="763100" d="2020" w="1" a="1">
+</p>
+<p t="763110" d="4080" w="1"><s ac="252">production</s><s t="210" ac="248"> tendencies</s><s t="920" ac="226"> associated</s><s p="1" t="1920" ac="200"> with</s></p>
+<p t="765110" d="2080" w="1" a="1">
+</p>
+<p t="765120" d="3930" w="1"><s ac="252">conscientiousness</s><s p="2" t="630" ac="163"> as</s><s t="930" ac="252"> well</s><s t="1800" ac="252"> as</s><s t="1980" ac="252"> an</s></p>
+<p t="767180" d="1870" w="1" a="1">
+</p>
+<p t="767190" d="4650" w="1"><s ac="252">extension</s><s t="330" ac="252"> of</s><s p="1" t="510" ac="202"> this</s><s t="660" ac="252"> methodology</s><s p="1" t="1020" ac="200"> to</s><s t="1650" ac="252"> other</s></p>
+<p t="769040" d="2800" w="1" a="1">
+</p>
+<p t="769050" d="4620" w="1" p="2"><s ac="142">Big</s><s t="300" ac="142"> Five</s><s p="1" t="480" ac="201"> personality</s><s p="1" t="540" ac="200"> traits</s><s p="1" t="1790" ac="206"> taken</s></p>
+<p t="771830" d="1840" w="1" a="1">
+</p>
+<p t="771840" d="3930" w="1"><s p="2" ac="125">together</s><s p="1" t="300" ac="215"> with</s><s t="630" ac="252"> my</s><s t="780" ac="225"> research</s><s t="1110" ac="231"> in</s><s t="1320" ac="226"> attention</s></p>
+<p t="773660" d="2110" w="1" a="1">
+</p>
+<p t="773670" d="4380" w="1"><s p="1" ac="207">and</s><s t="180" ac="252"> motivation</s><s p="1" t="750" ac="210"> this</s><s t="1470" ac="231"> work</s><s t="1770" ac="249"> will</s><s t="1980" ac="252"> help</s></p>
+<p t="775760" d="2290" w="1" a="1">
+</p>
+<p t="775770" d="4620" w="1"><s ac="252">solidify</s><s p="1" t="330" ac="207"> what</s><s t="1050" ac="230"> the</s><s p="2" t="1350" ac="77"> Big</s><s p="2" t="1500" ac="71"> Five</s><s p="2" t="1680" ac="225"> represents</s></p>
+<p t="778040" d="2350" w="1" a="1">
+</p>
+<p t="778050" d="4920" w="1"><s ac="237">and</s><s t="150" ac="250"> will</s><s p="1" t="930" ac="218"> afford</s><s t="1260" ac="252"> the</s><s t="1380" ac="252"> development</s><s t="1920" ac="252"> of</s><s t="2040" ac="252"> new</s></p>
+<p t="780380" d="2590" w="1" a="1">
+</p>
+<p t="780390" d="5300" w="1"><s ac="221">tools</s><s t="270" ac="243"> for</s><s p="1" t="600" ac="200"> measuring</s><s p="2" t="1170" ac="174"> and</s><s t="1580" ac="252"> accommodating</s></p>
+<p t="782960" d="2730" w="1" a="1">
+</p>
+<p t="782970" d="2720" w="1"><s ac="232">personality</s></p>
+</body>
+</timedtext>
