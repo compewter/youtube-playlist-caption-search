@@ -2,7 +2,7 @@
 <body>
 <p t="0" d="3100">Minä, Russel Brand, olen täällä tohtori, professori, tohtori, tohtori,</p>
 <p t="3100" d="1960">professori, professori Jordan Peterson!</p>
-<p t="5060" d="3180">Sinun on pakko liittyä meidän seuraan katsomalla ja kuuntelemalla &quot;Under The Skin&quot;</p>
+<p t="5060" d="3180">Sinun on pakko liittyä meidän seuraan katsomalla ja kuuntelemalla ";Under The Skin";</p>
 <p t="8340" d="1480">Mistä me puhuimme?</p>
 <p t="9860" d="2060">Herra Jumala! Puhuimme kaikesta mahdollisesta.</p>
 <p t="11920" d="1060">Kyllä, kyllä...</p>
@@ -27,7 +27,7 @@
 <p t="39880" d="920">Kyllä, kyllä</p>
 <p t="40800" d="1120">Me molemmat ollaan uupuneita</p>
 <p t="41960" d="1880">Tämä olisi luultavasti se paikka missä me sanoisimme jotain tyhmää joten...</p>
-<p t="43840" d="3120">Olkaa kilttejä ja menkää kuuntelemaan &quot;Under The Skin&quot; ja...</p>
+<p t="43840" d="3120">Olkaa kilttejä ja menkää kuuntelemaan ";Under The Skin"; ja...</p>
 <p t="46960" d="2760">Tai mene tekemään mitä itse haluat tehdä elämälläsi</p>
 <p t="49720" d="1320">Se on yksi asia mitä voisit tehdä</p>
 <p t="51040" d="1440">Sinä voit tehdä sitä</p>
@@ -35,6 +35,6 @@
 <p t="53840" d="1240">Kyllä, kyllä</p>
 <p t="55240" d="800">Kiitos, kiitos</p>
 <p t="56320" d="600">Kiitos todella paljon</p>
-<p t="57360" d="680">&quot;Under The Skin&quot;</p>
+<p t="57360" d="680">";Under The Skin";</p>
 </body>
 </timedtext>
