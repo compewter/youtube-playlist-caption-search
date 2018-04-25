@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:40.190" end="00:00:44.219" style="s2"><span style="s3">that</span> ocean<span style="s3"> is</span> composed of the waters</p>
+<p begin="00:00:42.780" end="00:00:48.510" style="s2">that<span style="s3"> were</span> there before<span style="s3"> anything</span> was</p>
+<p begin="00:00:44.219" end="00:00:52.230" style="s2">there<span style="s3"> timeouts</span> a feminine figure because</p>
+<p begin="00:00:48.510" end="00:00:54.449" style="s2">she's the wife of absolute but she's</p>
+<p begin="00:00:52.230" end="00:00:57.140" style="s2">also a dragon<span style="s4"> and</span> it is the case<span style="s4"> in</span></p>
+<p begin="00:00:54.449" end="00:00:58.680" style="s2"><span style="s3">mythology</span><span style="s4"> that</span> the figure of the</p>
+<p begin="00:00:57.140" end="00:01:01.170" style="s2">terrible mother</p>
+<p begin="00:00:58.680" end="00:01:02.730" style="s2">the mother in general is often</p>
+<p begin="00:01:01.170" end="00:01:10.979" style="s2">contaminated with<span style="s4"> the figure of</span> the</p>
+<p begin="00:01:02.730" end="00:01:13.350" style="s2"><span style="s3">dragon I don't exactly know why it is</span></p>
+<p begin="00:01:10.979" end="00:01:15.330" style="s2">that<span style="s4"> mythological</span> I mean most</p>
+<p begin="00:01:13.350" end="00:01:17.070" style="s2"><span style="s3">mythological</span> stories<span style="s4"> describe</span> this</p>
+<p begin="00:01:15.330" end="00:01:18.930" style="s2"><span style="s4">creation of the world out of one</span> of<span style="s3"> two</span></p>
+<p begin="00:01:17.070" end="00:01:21.180" style="s2"><span style="s4">things</span> either<span style="s4"> the body of the giant</span></p>
+<p begin="00:01:18.930" end="00:01:22.920" style="s2"><span style="s3">works the body of</span> a serpent<span style="s3"> I</span> don't</p>
+<p begin="00:01:21.180" end="00:01:24.659" style="s2">exactly know<span style="s3"> why</span> it's the body of a</p>
+<p begin="00:01:22.920" end="00:01:29.369" style="s2">serpent or<span style="s3"> a</span> wall or a<span style="s4"> giant</span> for that</p>
+<p begin="00:01:24.659" end="00:01:32.400" style="s2">matter it's difficult to tell it's in</p>
+<p begin="00:01:29.369" end="00:01:34.110" style="s2">part because<span style="s4"> the</span><span style="s3"> serpent</span> is under the</p>
+<p begin="00:01:32.400" end="00:01:35.850" style="s2">serpent that eats its own tail that's</p>
+<p begin="00:01:34.110" end="00:01:37.680" style="s2">the<span style="s4"> era</span><span style="s3"> Burroughs</span> as you've<span style="s3"> been</span> reading</p>
+<p begin="00:01:35.850" end="00:01:40.470" style="s2"><span style="s3">about</span><span style="s4"> and</span> it's a symbol of the union of</p>
+<p begin="00:01:37.680" end="00:01:42.240" style="s2">opposites<span style="s4"> and</span> from the<span style="s3"> mythological</span></p>
+<p begin="00:01:40.470" end="00:01:44.130" style="s2">perspective<span style="s3"> whatever</span> it<span style="s4"> was</span> that the</p>
+<p begin="00:01:42.240" end="00:01:46.649" style="s2">universe was made<span style="s3"> out of before it was</span></p>
+<p begin="00:01:44.130" end="00:01:48.329" style="s2">discriminable objects<span style="s4"> was</span> everything</p>
+<p begin="00:01:46.649" end="00:01:50.790" style="s2">that's now discriminable combined into</p>
+<p begin="00:01:48.329" end="00:01:54.030" style="s2">one thing in the symbols<span style="s3"> that</span> myth uses</p>
+<p begin="00:01:50.790" end="00:01:55.649" style="s2"><span style="s3">too</span> and this the symbols<span style="s3"> that</span> myth uses</p>
+<p begin="00:01:54.030" end="00:01:59.549" style="s2">to represent<span style="s3"> that</span> state which by</p>
+<p begin="00:01:55.649" end="00:02:03.060" style="s2">definition can<span style="s3"> be</span> represented circulate</p>
+<p begin="00:01:59.549" end="00:02:06.590" style="s2">around<span style="s4"> attempt</span> to to represent<span style="s3"> the</span><span style="s4"> union</span></p>
+<p begin="00:02:03.060" end="00:02:06.590" style="s2">of paradoxical opposites</p>
+<p begin="00:02:09.149" end="00:02:13.270" style="s2">Applefest for example the<span style="s3"> egyptian</span></p>
+<p begin="00:02:11.530" end="00:02:15.670" style="s2">serpent<span style="s4"> that's</span> the serpent that<span style="s4"> eats the</span></p>
+<p begin="00:02:13.270" end="00:02:17.950" style="s2"><span style="s3">sun</span> every night it's the serpent that</p>
+<p begin="00:02:15.670" end="00:02:21.400" style="s2"><span style="s3">Rhea</span> who's the Sun God<span style="s4"> kills</span> every</p>
+<p begin="00:02:17.950" end="00:02:23.170" style="s2">morning when he<span style="s4"> rises</span> again<span style="s3"> ray</span><span style="s4"> is</span> the</p>
+<p begin="00:02:21.400" end="00:02:26.140" style="s2"><span style="s3">god that the Egyptian pharaoh is</span></p>
+<p begin="00:02:23.170" end="00:02:28.750" style="s2"><span style="s3">assimilated</span> to<span style="s3"> Applefest for the</span></p>
+<p begin="00:02:26.140" end="00:02:31.450" style="s2">Egyptians was the<span style="s4"> God</span> that<span style="s3"> was</span> there at</p>
+<p begin="00:02:28.750" end="00:02:34.090" style="s2">before time began and the same God<span style="s3"> that</span></p>
+<p begin="00:02:31.450" end="00:02:35.380" style="s2">will be there<span style="s3"> after</span> time<span style="s3"> ends not at the</span></p>
+<p begin="00:02:34.090" end="00:02:36.850" style="s2">beginning<span style="s4"> of</span> time<span style="s4"> or</span> at the<span style="s4"> end</span> of time</p>
+<p begin="00:02:35.380" end="00:02:38.680" style="s2"><span style="s3">but</span> I would sign a time entirely</p>
+<p begin="00:02:36.850" end="00:02:39.990" style="s2"><span style="s4">something</span> that surrounds time and that's</p>
+<p begin="00:02:38.680" end="00:02:42.780" style="s2">what<span style="s4"> these figures are attempting to</span></p>
+<p begin="00:02:39.990" end="00:02:45.100" style="s2">well these figures here<span style="s3"> are getting to</span></p>
+<p begin="00:02:42.780" end="00:02:47.709" style="s2">represent the same sort<span style="s4"> of idea this is</span></p>
+<p begin="00:02:45.100" end="00:02:50.080" style="s2"><span style="s4">from</span> Benin in Nigeria there's a certain</p>
+<p begin="00:02:47.709" end="00:02:52.810" style="s2">design here the<span style="s3"> Serpent's</span> enclosing the</p>
+<p begin="00:02:50.080" end="00:02:57.239" style="s2">world<span style="s4"> on</span> a brass shield<span style="s4"> this is</span><span style="s3"> a</span></p>
+<p begin="00:02:52.810" end="00:02:59.770" style="s2"><span style="s3">Mexican Kellner stone with an encircling</span></p>
+<p begin="00:02:57.239" end="00:03:00.340" style="s2"><span style="s4">Serpent's</span> head up there<span style="s4"> that's the</span><span style="s3"> world</span></p>
+<p begin="00:02:59.770" end="00:03:02.260" style="s2">again</p>
+<p begin="00:03:00.340" end="00:03:05.200" style="s2">the world is the reason the serpent is</p>
+<p begin="00:03:02.260" end="00:03:08.470" style="s2">around<span style="s3"> here</span><span style="s4"> because</span> the year is<span style="s4"> also</span> the</p>
+<p begin="00:03:05.200" end="00:03:12.489" style="s2">world mythological language tends to mix</p>
+<p begin="00:03:08.470" end="00:03:15.340" style="s2"><span style="s4">things</span> up again<span style="s3"> it's</span> it's very<span style="s4"> it's</span> very</p>
+<p begin="00:03:12.489" end="00:03:17.769" style="s2"><span style="s4">frequent</span> for cultures to regard the</p>
+<p begin="00:03:15.340" end="00:03:20.410" style="s2">creation<span style="s4"> of</span> the new year as equivalent</p>
+<p begin="00:03:17.769" end="00:03:22.390" style="s2"><span style="s4">to the creation of the new world</span><span style="s3"> that's</span></p>
+<p begin="00:03:20.410" end="00:03:26.310" style="s2">why again<span style="s4"> as</span> in<span style="s4"> Sumeria that's been</span></p>
+<p begin="00:03:22.390" end="00:03:30.970" style="s2">extraordinarily widespread<span style="s3"> a</span> ritual that</p>
+<p begin="00:03:26.310" end="00:03:35.920" style="s2"><span style="s4">the</span> day<span style="s4"> that</span> the dragon<span style="s4"> is</span> dispatched</p>
+<p begin="00:03:30.970" end="00:03:38.320" style="s2">and her parts pulled apart to<span style="s4"> make the</span></p>
+<p begin="00:03:35.920" end="00:03:41.530" style="s2">world<span style="s3"> is</span><span style="s4"> also New Year's Day and the day</span></p>
+<p begin="00:03:38.320" end="00:03:43.209" style="s2">that<span style="s3"> the</span> state is renewed the state is</p>
+<p begin="00:03:41.530" end="00:03:45.070" style="s2">equivalent to the world from the</p>
+<p begin="00:03:43.209" end="00:03:47.110" style="s2"><span style="s3">mythological</span> perspective<span style="s3"> the</span> state is</p>
+<p begin="00:03:45.070" end="00:03:50.019" style="s2">where order rules as opposed to chaos</p>
+<p begin="00:03:47.110" end="00:03:52.090" style="s2">chaos has two symbols<span style="s4"> one</span> being the</p>
+<p begin="00:03:50.019" end="00:03:53.890" style="s2"><span style="s4">serpent and the other being the</span><span style="s3"> Great</span></p>
+<p begin="00:03:52.090" end="00:03:56.230" style="s2"><span style="s3">Mother the serpent is the most</span></p>
+<p begin="00:03:53.890" end="00:03:58.780" style="s2"><span style="s4">primordial</span> form of chaos it's the<span style="s4"> chaos</span></p>
+<p begin="00:03:56.230" end="00:04:02.049" style="s2">from<span style="s4"> which</span> everything else is engendered</p>
+<p begin="00:03:58.780" end="00:04:04.930" style="s2"><span style="s3">so</span> you could say there's two types of</p>
+<p begin="00:04:02.049" end="00:04:08.920" style="s2">chaos<span style="s3"> there's</span> the chaos that preceded</p>
+<p begin="00:04:04.930" end="00:04:10.840" style="s2">the division of order and disorder<span style="s4"> and</span></p>
+<p begin="00:04:08.920" end="00:04:14.739" style="s2">there's the chaos<span style="s4"> that</span> stands for</p>
+<p begin="00:04:10.840" end="00:04:18.199" style="s2">disorder<span style="s4"> as</span> opposed to order</p>
+<p begin="00:04:14.739" end="00:04:20.810" style="s2">in<span style="s3"> the Sumerian the</span><span style="s4"> early sumerian</span></p>
+<p begin="00:04:18.199" end="00:04:22.729" style="s2">creation mythology for example the world</p>
+<p begin="00:04:20.810" end="00:04:26.419" style="s2"><span style="s4">parents</span> arise from the body of<span style="s4"> the</span></p>
+<p begin="00:04:22.729" end="00:04:28.310" style="s2">serpent world parents are the sky and</p>
+<p begin="00:04:26.419" end="00:04:31.250" style="s2">the earth the earth is<span style="s4"> assimilated</span> to</p>
+<p begin="00:04:28.310" end="00:04:34.520" style="s2"><span style="s4">the</span> female female<span style="s3"> stands</span> for chaos<span style="s4"> but</span></p>
+<p begin="00:04:31.250" end="00:04:37.540" style="s2">you have to understand<span style="s3"> that</span> once you've</p>
+<p begin="00:04:34.520" end="00:04:40.040" style="s2">circumscribed an area<span style="s4"> say</span> like a state</p>
+<p begin="00:04:37.540" end="00:04:42.080" style="s2">the area<span style="s3"> outside of that state is</span></p>
+<p begin="00:04:40.040" end="00:04:44.930" style="s2">conceived of as<span style="s4"> chaotic</span></p>
+<p begin="00:04:42.080" end="00:04:47.180" style="s2">it's where anomaly rules it's where</p>
+<p begin="00:04:44.930" end="00:04:49.130" style="s2">novelty rules<span style="s4"> it's</span> a slightly different</p>
+<p begin="00:04:47.180" end="00:04:50.690" style="s2"><span style="s4">form</span> of chaos<span style="s4"> that in the kind</span><span style="s3"> of</span> chaos</p>
+<p begin="00:04:49.130" end="00:04:52.760" style="s2"><span style="s4">that</span> preceded the establishment of<span style="s4"> any</span></p>
+<p begin="00:04:50.690" end="00:04:55.580" style="s2">order whatsoever<span style="s3"> you</span> can see that's<span style="s4"> kind</span></p>
+<p begin="00:04:52.760" end="00:04:57.080" style="s2"><span style="s3">of</span> a subtle distinction and<span style="s4"> I</span> think</p>
+<p begin="00:04:55.580" end="00:04:58.610" style="s2">that's part of the reason why the figure</p>
+<p begin="00:04:57.080" end="00:05:00.530" style="s2">of the<span style="s3"> serpent</span><span style="s4"> and</span> the figure<span style="s3"> of</span> the</p>
+<p begin="00:04:58.610" end="00:05:03.740" style="s2"><span style="s4">Great Mother get contaminated</span><span style="s3"> so</span> easily</p>
+<p begin="00:05:00.530" end="00:05:05.690" style="s2"><span style="s4">because</span> the great mother is novelty<span style="s4"> from</span></p>
+<p begin="00:05:03.740" end="00:05:07.520" style="s2">the standpoint of order<span style="s3"> the</span> serpent is</p>
+<p begin="00:05:05.690" end="00:05:12.199" style="s2">novelty before there was any division</p>
+<p begin="00:05:07.520" end="00:05:13.870" style="s2">between<span style="s4"> order</span> and chaos<span style="s3"> okay</span> so see if</p>
+<p begin="00:05:12.199" end="00:05:20.830" style="s2">we can take<span style="s4"> a</span> look at some</p>
+<p begin="00:05:13.870" end="00:05:20.830" style="s2">representations here here's two more</p>
+<p begin="00:05:21.039" end="00:05:26.979" style="s2">this<span style="s4"> is</span> from<span style="s3"> babylon</span><span style="s4"> that's</span> the ocean</p>
+<p begin="00:05:24.800" end="00:05:29.630" style="s2"><span style="s3">reigning</span> world you can't see much<span style="s3"> of</span><span style="s4"> it</span></p>
+<p begin="00:05:26.979" end="00:05:31.250" style="s2"><span style="s4">the</span> worlds in<span style="s4"> the</span> middle<span style="s4"> the</span> oceans<span style="s4"> are</span></p>
+<p begin="00:05:29.630" end="00:05:33.620" style="s2">on the other<span style="s3"> side and there's just you</span></p>
+<p begin="00:05:31.250" end="00:05:36.169" style="s2">can<span style="s3"> just</span> see the edges<span style="s4"> of</span> a<span style="s4"> surface</span><span style="s3"> so</span></p>
+<p begin="00:05:33.620" end="00:05:38.030" style="s2">much left there's much left<span style="s4"> at</span> the</p>
+<p begin="00:05:36.169" end="00:05:40.400" style="s2"><span style="s4">tablet and then this</span> is<span style="s4"> from Italy in</span></p>
+<p begin="00:05:38.030" end="00:05:42.770" style="s2"><span style="s3">the</span> 17th century<span style="s4"> is</span> the four corners of</p>
+<p begin="00:05:40.400" end="00:05:44.750" style="s2"><span style="s3">the world the world by the</span><span style="s4"> way</span> is<span style="s4"> often</span></p>
+<p begin="00:05:42.770" end="00:05:46.669" style="s2">and this is also<span style="s4"> very</span><span style="s3"> difficult to</span></p>
+<p begin="00:05:44.750" end="00:05:48.440" style="s2">understand<span style="s4"> the</span> world of order is</p>
+<p begin="00:05:46.669" end="00:05:50.300" style="s2">generally<span style="s4"> represented</span> by a symbol<span style="s3"> that</span></p>
+<p begin="00:05:48.440" end="00:05:51.830" style="s2"><span style="s4">looks like that that's the world it's a</span></p>
+<p begin="00:05:50.300" end="00:05:53.330" style="s2">mandala<span style="s4"> it's</span> a circle that's divided</p>
+<p begin="00:05:51.830" end="00:05:55.520" style="s2">into four<span style="s3"> parts</span> like<span style="s4"> paradise</span> that</p>
+<p begin="00:05:53.330" end="00:05:57.440" style="s2">paramedicine<span style="s3"> genesis</span><span style="s4"> has</span> exactly that</p>
+<p begin="00:05:55.520" end="00:05:59.090" style="s2"><span style="s4">structure there's no fountain from</span> which</p>
+<p begin="00:05:57.440" end="00:06:00.740" style="s2"><span style="s4">four rivers flow the</span><span style="s3"> fountains</span> right<span style="s3"> in</span></p>
+<p begin="00:05:59.090" end="00:06:02.630" style="s2">the center that<span style="s4"> the</span> four rivers divided</p>
+<p begin="00:06:00.740" end="00:06:04.190" style="s2">up into four parts<span style="s3"> it's</span> a circle and</p>
+<p begin="00:06:02.630" end="00:06:06.110" style="s2"><span style="s4">that's</span> a model<span style="s4"> for</span> Jerusalem and</p>
+<p begin="00:06:04.190" end="00:06:07.750" style="s2">Jerusalem is<span style="s3"> in</span> the heavenly City and</p>
+<p begin="00:06:06.110" end="00:06:10.910" style="s2">the heavenly<span style="s3"> city</span> of<span style="s3"> Jerusalem</span> is the</p>
+<p begin="00:06:07.750" end="00:06:13.639" style="s2"><span style="s4">archetypal log so to speak upon</span> which</p>
+<p begin="00:06:10.910" end="00:06:14.330" style="s2">all actual cities are<span style="s4"> predicated</span> so</p>
+<p begin="00:06:13.639" end="00:06:17.840" style="s2"><span style="s3">they're always</span></p>
+<p begin="00:06:14.330" end="00:06:20.990" style="s2">to imitate<span style="s3"> that</span> having<span style="s3"> a</span> city<span style="s4"> and</span> that's</p>
+<p begin="00:06:17.840" end="00:06:23.240" style="s2"><span style="s3">common</span> model for for city construction</p>
+<p begin="00:06:20.990" end="00:06:25.729" style="s2"><span style="s4">again it seems to be more or</span> less</p>
+<p begin="00:06:23.240" end="00:06:27.409" style="s2"><span style="s4">distributed</span> all around<span style="s3"> the</span> world<span style="s3"> now a</span></p>
+<p begin="00:06:25.729" end="00:06:29.900" style="s2">funny<span style="s4"> thing</span> is my daughter started</p>
+<p begin="00:06:27.409" end="00:06:32.750" style="s2"><span style="s4">drawing</span> the world<span style="s3"> gear bone</span><span style="s4"> about three</span></p>
+<p begin="00:06:29.900" end="00:06:42.310" style="s2"><span style="s4">weeks</span> ago<span style="s4"> and she drew a finger</span><span style="s3"> exactly</span></p>
+<p begin="00:06:32.750" end="00:06:46.360" style="s2">like this I just wanted to<span style="s4"> ask</span> why<span style="s4"> a</span></p>
+<p begin="00:06:42.310" end="00:06:50.449" style="s2">representation of chaos<span style="s4"> before</span><span style="s3"> we splint</span></p>
+<p begin="00:06:46.360" end="00:06:52.190" style="s2"><span style="s4">is</span> so important<span style="s4"> and</span> why there's such</p>
+<p begin="00:06:50.449" end="00:06:54.259" style="s2">direct<span style="s4"> representative</span> since<span style="s4"> from the</span></p>
+<p begin="00:06:52.190" end="00:06:55.340" style="s2">time when any representation was</p>
+<p begin="00:06:54.259" end="00:06:56.900" style="s2">possible the world would already have</p>
+<p begin="00:06:55.340" end="00:06:58.930" style="s2"><span style="s4">been</span> divided<span style="s3"> into</span> the known<span style="s3"> and the</span></p>
+<p begin="00:06:56.900" end="00:06:58.930" style="s2">unknown</p>
+<p begin="00:06:59.860" end="00:07:05.750" style="s2">well again I<span style="s3"> think</span><span style="s4"> the</span> reason is is</p>
+<p begin="00:07:02.569" end="00:07:07.279" style="s2"><span style="s3">because</span> look the argument that<span style="s4"> I'm</span></p>
+<p begin="00:07:05.750" end="00:07:09.919" style="s2">trying<span style="s4"> to</span> put forth in the next few</p>
+<p begin="00:07:07.279" end="00:07:11.930" style="s2"><span style="s3">chapters</span> in this<span style="s4"> book is that the</span> thing</p>
+<p begin="00:07:09.919" end="00:07:13.849" style="s2">you need<span style="s3"> to</span> know most<span style="s4"> of</span> all if you</p>
+<p begin="00:07:11.930" end="00:07:16.400" style="s2"><span style="s3">think</span> of a<span style="s4"> story</span> as a map of meaning</p>
+<p begin="00:07:13.849" end="00:07:17.990" style="s2">it's a it's a description<span style="s4"> of behavioral</span></p>
+<p begin="00:07:16.400" end="00:07:22.969" style="s2">patterns that are designed to help<span style="s3"> you</span></p>
+<p begin="00:07:17.990" end="00:07:26.300" style="s2">make order<span style="s3"> out</span> of<span style="s4"> chaos</span><span style="s3"> okay</span> in<span style="s4"> order</span> to</p>
+<p begin="00:07:22.969" end="00:07:28.849" style="s2">to<span style="s4"> generate</span> a story that has<span style="s3"> generalized</span></p>
+<p begin="00:07:26.300" end="00:07:32.180" style="s2">validity<span style="s4"> instead</span> of one that's<span style="s3"> just</span></p>
+<p begin="00:07:28.849" end="00:07:34.699" style="s2">relevant for a given occasion<span style="s3"> like</span> you</p>
+<p begin="00:07:32.180" end="00:07:37.099" style="s2">may know how to do one<span style="s4"> thing</span> and<span style="s3"> you</span> can</p>
+<p begin="00:07:34.699" end="00:07:39.589" style="s2">teach<span style="s3"> someone</span> how to do that thing<span style="s4"> but</span></p>
+<p begin="00:07:37.099" end="00:07:41.569" style="s2"><span style="s4">knowing</span> how<span style="s3"> to</span> do one<span style="s4"> thing</span> is nowhere</p>
+<p begin="00:07:39.589" end="00:07:43.849" style="s2">near as useful as knowing<span style="s3"> how</span><span style="s4"> to</span></p>
+<p begin="00:07:41.569" end="00:07:47.060" style="s2">generate<span style="s4"> patterns</span> of knowing things<span style="s4"> and</span></p>
+<p begin="00:07:43.849" end="00:07:49.699" style="s2">I<span style="s4"> think</span> part of the drive to represent</p>
+<p begin="00:07:47.060" end="00:07:52.009" style="s2">the unknown per<span style="s4"> se</span> it's part of the</p>
+<p begin="00:07:49.699" end="00:07:55.460" style="s2">overall<span style="s4"> attempt</span> to come to a</p>
+<p begin="00:07:52.009" end="00:07:59.569" style="s2"><span style="s4">representation of the domain so to speak</span></p>
+<p begin="00:07:55.460" end="00:08:04.879" style="s2">of the always<span style="s4"> present</span><span style="s3"> unknown</span> now<span style="s4"> your</span></p>
+<p begin="00:07:59.569" end="00:08:06.740" style="s2"><span style="s4">question is why I</span> suppose why is it</p>
+<p begin="00:08:04.879" end="00:08:08.009" style="s2"><span style="s4">necessary to generate an image say like</span></p>
+<p begin="00:08:06.740" end="00:08:09.539" style="s2">the serpent</p>
+<p begin="00:08:08.009" end="00:08:11.699" style="s2">image of<span style="s4"> the great mother</span> which is<span style="s4"> just</span></p>
+<p begin="00:08:09.539" end="00:08:15.599" style="s2">normally<span style="s4"> I don't know exactly</span> the<span style="s3"> answer</span></p>
+<p begin="00:08:11.699" end="00:08:17.490" style="s2">to that<span style="s3"> I</span><span style="s4"> mean</span> I<span style="s4"> don't even know</span><span style="s3"> all</span><span style="s4"> I</span></p>
+<p begin="00:08:15.599" end="00:08:19.619" style="s2">all I can say is that as<span style="s4"> far</span><span style="s3"> as</span><span style="s4"> I've</span></p>
+<p begin="00:08:17.490" end="00:08:22.169" style="s2"><span style="s3">been</span><span style="s4"> able</span> to determine<span style="s4"> what</span> people<span style="s4"> have</span></p>
+<p begin="00:08:19.619" end="00:08:25.439" style="s2">done is attempt<span style="s3"> to</span> represent<span style="s4"> the</span> source</p>
+<p begin="00:08:22.169" end="00:08:30.449" style="s2">of things and I mean we still do<span style="s4"> that</span></p>
+<p begin="00:08:25.439" end="00:08:32.760" style="s2"><span style="s4">obviously</span><span style="s3"> scientifically</span> the origin<span style="s4"> of</span></p>
+<p begin="00:08:30.449" end="00:08:34.649" style="s2">things<span style="s4"> previous</span> to<span style="s4"> the</span><span style="s3"> evening</span> the</p>
+<p begin="00:08:32.760" end="00:08:36.599" style="s2">potential establishment of anybody who</p>
+<p begin="00:08:34.649" end="00:08:41.279" style="s2"><span style="s3">could've</span> experienced it<span style="s4"> and it seems to</span></p>
+<p begin="00:08:36.599" end="00:08:43.529" style="s2">me well<span style="s4"> it</span> seems to<span style="s4"> be</span><span style="s3"> distant</span> a side</p>
+<p begin="00:08:41.279" end="00:08:59.130" style="s2"><span style="s3">effect</span> or<span style="s4"> a</span> direct effect of our general</p>
+<p begin="00:08:43.529" end="00:09:02.220" style="s2">curiosity<span style="s3"> about</span> everything I would say</p>
+<p begin="00:08:59.130" end="00:09:04.110" style="s2">you know<span style="s3"> it</span> also may be like I<span style="s3"> don't</span> I</p>
+<p begin="00:09:02.220" end="00:09:07.920" style="s2">don't know about this like I find this</p>
+<p begin="00:09:04.110" end="00:09:10.500" style="s2"><span style="s4">stuff</span><span style="s3"> very</span> compelling obviously it seems</p>
+<p begin="00:09:07.920" end="00:09:13.019" style="s2">to me that these aren't<span style="s3"> necessarily</span> just</p>
+<p begin="00:09:10.500" end="00:09:19.860" style="s2">attempts to describe<span style="s4"> them</span> knowing<span style="s3"> their</span></p>
+<p begin="00:09:13.019" end="00:09:22.079" style="s2"><span style="s3">rip they're the representations to</span><span style="s4"> me</span></p>
+<p begin="00:09:19.860" end="00:09:23.699" style="s2">seem to be accurate<span style="s4"> I</span> don't know where</p>
+<p begin="00:09:22.079" end="00:09:25.500" style="s2">they came from or<span style="s4"> how</span> they developed</p>
+<p begin="00:09:23.699" end="00:09:27.389" style="s2"><span style="s3">their</span><span style="s4"> approximations</span> that<span style="s4"> have</span> taken</p>
+<p begin="00:09:25.500" end="00:09:29.370" style="s2"><span style="s4">place</span> over thousands<span style="s4"> and</span> thousands of</p>
+<p begin="00:09:27.389" end="00:09:31.740" style="s2">years<span style="s3"> I</span> don't<span style="s4"> exactly</span> know<span style="s4"> why</span> that</p>
+<p begin="00:09:29.370" end="00:09:33.930" style="s2">unknown as such as represented as a</p>
+<p begin="00:09:31.740" end="00:09:36.300" style="s2"><span style="s4">serpent</span> it has something<span style="s4"> to</span> do with<span style="s3"> the</span></p>
+<p begin="00:09:33.930" end="00:09:38.370" style="s2">conjunction<span style="s3"> of offices a serpent is</span></p>
+<p begin="00:09:36.300" end="00:09:40.920" style="s2">something that's wind and it's something</p>
+<p begin="00:09:38.370" end="00:09:42.569" style="s2"><span style="s4">that's</span> on the<span style="s3"> ground</span><span style="s4"> so</span> it's an it's an</p>
+<p begin="00:09:40.920" end="00:09:44.639" style="s2">image of the union of whatever it is</p>
+<p begin="00:09:42.569" end="00:09:46.380" style="s2">that's represented by spirit<span style="s4"> which</span> is</p>
+<p begin="00:09:44.639" end="00:09:47.430" style="s2"><span style="s4">usually</span> something like<span style="s3"> consciousness</span> or</p>
+<p begin="00:09:46.380" end="00:09:49.589" style="s2"><span style="s3">the</span> domain<span style="s3"> that</span> consciousness</p>
+<p begin="00:09:47.430" end="00:09:53.100" style="s2">established<span style="s4"> that's the masculine domain</span></p>
+<p begin="00:09:49.589" end="00:09:54.690" style="s2">at least<span style="s3"> made</span> logically<span style="s4"> speaking</span> the</p>
+<p begin="00:09:53.100" end="00:09:56.310" style="s2">fact<span style="s4"> that</span> the serpent curls on the</p>
+<p begin="00:09:54.690" end="00:09:58.350" style="s2">ground gives it the feminine<span style="s3"> aspect</span></p>
+<p begin="00:09:56.310" end="00:10:00.959" style="s2">because<span style="s4"> it's</span> tied<span style="s3"> to</span> matter it can<span style="s3"> also</span></p>
+<p begin="00:09:58.350" end="00:10:02.639" style="s2">shed its skin so it can transform<span style="s4"> so</span> the</p>
+<p begin="00:10:00.959" end="00:10:03.990" style="s2">mythological symbol is trying to say</p>
+<p begin="00:10:02.639" end="00:10:05.940" style="s2">they've<span style="s3"> done</span> knowing that as such was</p>
+<p begin="00:10:03.990" end="00:10:08.010" style="s2">something that<span style="s3"> combine</span> opposites that</p>
+<p begin="00:10:05.940" end="00:10:10.170" style="s2">are generally<span style="s3"> being</span><span style="s4"> inseparable</span><span style="s3"> and</span> they</p>
+<p begin="00:10:08.010" end="00:10:12.600" style="s2">can transform<span style="s4"> itself he can't say</span></p>
+<p begin="00:10:10.170" end="00:10:15.089" style="s2">anything about<span style="s4"> it</span> like it's a weird</p>
+<p begin="00:10:12.600" end="00:10:18.420" style="s2">category because</p>
+<p begin="00:10:15.089" end="00:10:19.709" style="s2"><span style="s4">loves</span> he attempted to to describe it in</p>
+<p begin="00:10:18.420" end="00:10:21.360" style="s2"><span style="s4">this</span> poem<span style="s4"> there</span> was something formless</p>
+<p begin="00:10:19.709" end="00:10:23.370" style="s2"><span style="s3">yet</span> complete that existed before heaven</p>
+<p begin="00:10:21.360" end="00:10:25.379" style="s2"><span style="s3">earth</span> without<span style="s4"> sound</span><span style="s3"> without</span><span style="s4"> substance</span></p>
+<p begin="00:10:23.370" end="00:10:26.670" style="s2">depend on nothing unchanging<span style="s4"> one</span> may</p>
+<p begin="00:10:25.379" end="00:10:27.300" style="s2">think<span style="s3"> of</span> it<span style="s4"> as</span> the mother<span style="s4"> of</span> all<span style="s4"> things</span></p>
+<p begin="00:10:26.670" end="00:10:30.540" style="s2">under heaven</p>
+<p begin="00:10:27.300" end="00:10:32.100" style="s2">that's doubt actually and it's the it's</p>
+<p begin="00:10:30.540" end="00:10:34.339" style="s2"><span style="s4">the</span> source<span style="s4"> of</span> everything from<span style="s4"> the</span></p>
+<p begin="00:10:32.100" end="00:10:36.600" style="s2">perspective<span style="s3"> of</span> Chinese mythology<span style="s4"> and</span></p>
+<p begin="00:10:34.339" end="00:10:38.009" style="s2">lots of points up as<span style="s4"> soon</span><span style="s3"> as</span><span style="s4"> you</span> talk</p>
+<p begin="00:10:36.600" end="00:10:40.019" style="s2">about<span style="s4"> it</span> you're<span style="s3"> not</span> talking<span style="s3"> about</span></p>
+<p begin="00:10:38.009" end="00:10:43.459" style="s2"><span style="s4">because</span> as soon as you categorize it</p>
+<p begin="00:10:40.019" end="00:10:46.290" style="s2"><span style="s4">it's</span> not<span style="s4"> an</span> attempt<span style="s3"> to</span> be like</p>
+<p begin="00:10:43.459" end="00:10:48.949" style="s2"><span style="s4">purposefully</span> obscure the point that is</p>
+<p begin="00:10:46.290" end="00:10:51.029" style="s2">being made<span style="s4"> by</span> Lao Zi for example is that</p>
+<p begin="00:10:48.949" end="00:10:52.709" style="s2">as<span style="s3"> soon</span><span style="s4"> as</span> you try<span style="s4"> to talk about</span></p>
+<p begin="00:10:51.029" end="00:10:53.999" style="s2"><span style="s4">something</span> that's uncatted<span style="s3"> ERISA believed</span></p>
+<p begin="00:10:52.709" end="00:10:56.149" style="s2">already categorized<span style="s3"> it</span> you've already</p>
+<p begin="00:10:53.999" end="00:10:58.620" style="s2">gone away<span style="s4"> from</span> it<span style="s3"> so</span> we're<span style="s3"> in</span> a</p>
+<p begin="00:10:56.149" end="00:11:00.180" style="s2">problematic<span style="s4"> position</span> here<span style="s4"> because</span> we're</p>
+<p begin="00:10:58.620" end="00:11:01.980" style="s2"><span style="s4">trying</span> to come up<span style="s3"> with</span> a representation</p>
+<p begin="00:11:00.180" end="00:11:04.709" style="s2"><span style="s4">of something that existed before</span><span style="s3"> any</span></p>
+<p begin="00:11:01.980" end="00:11:06.540" style="s2">representations were even possible<span style="s4"> so</span></p>
+<p begin="00:11:04.709" end="00:11:09.509" style="s2"><span style="s4">all</span> I can<span style="s3"> tell</span> you about<span style="s4"> it</span> is<span style="s3"> because</span></p>
+<p begin="00:11:06.540" end="00:11:11.879" style="s2">what the representations are now I think</p>
+<p begin="00:11:09.509" end="00:11:13.829" style="s2"><span style="s4">the</span> purpose of them was because we've</p>
+<p begin="00:11:11.879" end="00:11:16.230" style="s2"><span style="s4">been</span> attempting<span style="s3"> to</span> generate<span style="s4"> a</span><span style="s3"> meta</span><span style="s4"> story</span></p>
+<p begin="00:11:13.829" end="00:11:17.910" style="s2"><span style="s4">as</span> a species in the bed story is how to</p>
+<p begin="00:11:16.230" end="00:11:20.309" style="s2">adapt<span style="s4"> to the fact that there</span> is unknown</p>
+<p begin="00:11:17.910" end="00:11:22.019" style="s2"><span style="s4">territory</span> remember the<span style="s4"> dragon</span> has other</p>
+<p begin="00:11:20.309" end="00:11:24.449" style="s2">attributes<span style="s3"> - I read a book called</span></p>
+<p begin="00:11:22.019" end="00:11:28.379" style="s2">Grendel which was a normal public in the</p>
+<p begin="00:11:24.449" end="00:11:33.029" style="s2">70s basically the debt or<span style="s4"> the</span> dragon in</p>
+<p begin="00:11:28.379" end="00:11:34.700" style="s2">there there's a mythological character</p>
+<p begin="00:11:33.029" end="00:11:39.140" style="s2"><span style="s3">named</span> Grendel</p>
+<p begin="00:11:34.700" end="00:11:42.800" style="s2">eats<span style="s4"> people</span> and he's constantly</p>
+<p begin="00:11:39.140" end="00:11:44.540" style="s2"><span style="s4">attacking</span> this one<span style="s4"> Kingdom</span> it's from the</p>
+<p begin="00:11:42.800" end="00:11:45.920" style="s2">old<span style="s3"> there's no Scandinavians</span> myth and</p>
+<p begin="00:11:44.540" end="00:11:47.480" style="s2">it's written<span style="s4"> from</span> the perspective of<span style="s4"> the</span></p>
+<p begin="00:11:45.920" end="00:11:50.300" style="s2">monster instead<span style="s4"> of</span> the perspective</p>
+<p begin="00:11:47.480" end="00:11:53.390" style="s2"><span style="s3">perspective of people anyways PRNDL is</span></p>
+<p begin="00:11:50.300" end="00:11:55.760" style="s2">this<span style="s4"> monster he eats he keeps attacking</span></p>
+<p begin="00:11:53.390" end="00:11:58.150" style="s2">this<span style="s3"> Kingdom</span><span style="s4"> and</span> eating people<span style="s3"> and he's</span></p>
+<p begin="00:11:55.760" end="00:12:01.010" style="s2">completely the<span style="s3"> Dragon</span> has made him</p>
+<p begin="00:11:58.150" end="00:12:02.690" style="s2"><span style="s4">invulnerable</span> he can't be defeated<span style="s4"> but</span></p>
+<p begin="00:12:01.010" end="00:12:04.640" style="s2">the consequences of his repeated attacks</p>
+<p begin="00:12:02.690" end="00:12:06.110" style="s2">on this<span style="s3"> Kingdom</span><span style="s4"> is</span> that the<span style="s3"> Kingdom</span></p>
+<p begin="00:12:04.640" end="00:12:07.640" style="s2">starts to fortify itself very very</p>
+<p begin="00:12:06.110" end="00:12:09.620" style="s2"><span style="s4">heavily because it's always being</span></p>
+<p begin="00:12:07.640" end="00:12:12.890" style="s2">attacked<span style="s3"> it</span> has a consequence<span style="s4"> spreads</span></p>
+<p begin="00:12:09.620" end="00:12:15.080" style="s2">its Dominion everywhere so it's a it's a</p>
+<p begin="00:12:12.890" end="00:12:17.360" style="s2"><span style="s4">morality play in the</span> sense it says that</p>
+<p begin="00:12:15.080" end="00:12:19.580" style="s2">one<span style="s4"> of</span> the<span style="s4"> functions</span> of constant death</p>
+<p begin="00:12:17.360" end="00:12:21.110" style="s2"><span style="s3">the</span> constant<span style="s4"> threat</span> of<span style="s4"> death</span> is to</p>
+<p begin="00:12:19.580" end="00:12:23.360" style="s2">produce a tremendous<span style="s3"> amount</span> of<span style="s4"> power</span> in</p>
+<p begin="00:12:21.110" end="00:12:24.650" style="s2">response to it anyways there's one point</p>
+<p begin="00:12:23.360" end="00:12:27.770" style="s2">the book<span style="s3"> what</span> grade levels and<span style="s4"> talks</span> to</p>
+<p begin="00:12:24.650" end="00:12:29.090" style="s2">the dragon and<span style="s3"> this</span> dragon can<span style="s4"> see</span> the</p>
+<p begin="00:12:27.770" end="00:12:31.940" style="s2">beginning<span style="s3"> in</span> the<span style="s4"> end of time</span></p>
+<p begin="00:12:29.090" end="00:12:32.600" style="s2">he's also enthroned invulnerable<span style="s4"> he</span> sits</p>
+<p begin="00:12:31.940" end="00:12:34.640" style="s2">on<span style="s3"> the</span> gold</p>
+<p begin="00:12:32.600" end="00:12:36.380" style="s2">that's another attribute of the<span style="s3"> dragon</span></p>
+<p begin="00:12:34.640" end="00:12:38.960" style="s2">say<span style="s4"> well I need classic</span><span style="s3"> hero</span> mythology</p>
+<p begin="00:12:36.380" end="00:12:40.730" style="s2"><span style="s4">the</span> hero goes<span style="s3"> on</span> to<span style="s3"> take over</span><span style="s4"> the dragon</span></p>
+<p begin="00:12:38.960" end="00:12:42.200" style="s2">right as soon<span style="s4"> as</span> he as soon as he faces</p>
+<p begin="00:12:40.730" end="00:12:44.060" style="s2"><span style="s3">the</span> dragon<span style="s3"> and</span> gets the gold that<span style="s4"> the</span></p>
+<p begin="00:12:42.200" end="00:12:46.070" style="s2">dragon<span style="s3"> has and that</span><span style="s4"> brings</span> me<span style="s3"> back</span> but</p>
+<p begin="00:12:44.060" end="00:12:48.260" style="s2">some<span style="s4"> others</span><span style="s3"> that's</span> another indication of</p>
+<p begin="00:12:46.070" end="00:12:49.580" style="s2">the juxtaposition of<span style="s3"> offices</span><span style="s4"> the</span> story</p>
+<p begin="00:12:48.260" end="00:12:50.960" style="s2">is<span style="s3"> basically</span><span style="s4"> telling</span> you</p>
+<p begin="00:12:49.580" end="00:12:53.510" style="s2">well the dragon is something that can</p>
+<p begin="00:12:50.960" end="00:12:55.430" style="s2">devour you<span style="s3"> breathes</span> fire<span style="s4"> after</span> all it's</p>
+<p begin="00:12:53.510" end="00:12:57.560" style="s2">a<span style="s3"> very</span> potent transformative<span style="s4"> agent</span> and</p>
+<p begin="00:12:55.430" end="00:12:58.520" style="s2">it's<span style="s4"> a to eternal if you face it</span> sits on</p>
+<p begin="00:12:57.560" end="00:13:01.940" style="s2">a treasure<span style="s3"> boat</span></p>
+<p begin="00:12:58.520" end="00:13:04.820" style="s2">it's very dangerous<span style="s3"> if</span> you if you face</p>
+<p begin="00:13:01.940" end="00:13:06.530" style="s2">the dragon voluntarily that's the story</p>
+<p begin="00:13:04.820" end="00:13:07.700" style="s2">of the myth if you face the dragon</p>
+<p begin="00:13:06.530" end="00:13:08.840" style="s2">voluntarily<span style="s4"> then you can get the</span></p>
+<p begin="00:13:07.700" end="00:13:10.520" style="s2">treasure<span style="s4"> when</span> you bring the<span style="s4"> treasure</span></p>
+<p begin="00:13:08.840" end="00:13:12.650" style="s2">back<span style="s3"> to</span> the community then it's changed</p>
+<p begin="00:13:10.520" end="00:13:14.000" style="s2"><span style="s3">that's</span> a story<span style="s3"> lone</span> adaptation that's</p>
+<p begin="00:13:12.650" end="00:13:16.490" style="s2">why there's<span style="s4"> Dragon</span> stories pop up a</p>
+<p begin="00:13:14.000" end="00:13:18.470" style="s2"><span style="s4">little</span><span style="s3"> so</span><span style="s4"> I'm</span> sitting on<span style="s3"> Treasure</span> so</p>
+<p begin="00:13:16.490" end="00:13:21.530" style="s2">it's another you can see there<span style="s3"> how</span> that</p>
+<p begin="00:13:18.470" end="00:13:23.060" style="s2">image sort of blends<span style="s4"> into</span> the<span style="s4"> image of</span></p>
+<p begin="00:13:21.530" end="00:13:25.370" style="s2">the<span style="s3"> great mother it's positive with one</span></p>
+<p begin="00:13:23.060" end="00:13:27.230" style="s2">hand and negative on the other<span style="s4"> I think</span></p>
+<p begin="00:13:25.370" end="00:13:31.150" style="s2">it's a story<span style="s4"> not</span> a<span style="s4"> perpetuation</span> but an</p>
+<p begin="00:13:27.230" end="00:13:34.370" style="s2">exploration generated<span style="s3"> adaptation</span> in many</p>
+<p begin="00:13:31.150" end="00:13:36.490" style="s2"><span style="s3">take</span><span style="s4"> another</span> very archaic notion that's</p>
+<p begin="00:13:34.370" end="00:13:36.490" style="s2">the</p>
+<p begin="00:13:37.060" end="00:13:40.880" style="s2"><span style="s4">before</span> if you dig down<span style="s4"> into</span> most</p>
+<p begin="00:13:39.320" end="00:13:42.020" style="s2">cultures if you get down<span style="s4"> to</span> a</p>
+<p begin="00:13:40.880" end="00:13:45.260" style="s2">sufficiently<span style="s4"> archaic</span></p>
+<p begin="00:13:42.020" end="00:13:47.090" style="s2">layer you can find<span style="s4"> stratum</span> in time</p>
+<p begin="00:13:45.260" end="00:13:48.140" style="s2">during which that culture practiced</p>
+<p begin="00:13:47.090" end="00:13:51.010" style="s2">human<span style="s4"> sacrifices</span></p>
+<p begin="00:13:48.140" end="00:13:54.170" style="s2">that's a sufficiently peculiar practice</p>
+<p begin="00:13:51.010" end="00:13:55.520" style="s2">so that<span style="s4"> Arthur</span> Kessler when he wrote he</p>
+<p begin="00:13:54.170" end="00:13:57.950" style="s2"><span style="s3">wrote</span> a book<span style="s3"> called the ghostly</span><span style="s4"> machine</span></p>
+<p begin="00:13:55.520" end="00:13:59.930" style="s2"><span style="s3">was</span><span style="s4"> quite</span> famous back in the early<span style="s4"> 70s</span></p>
+<p begin="00:13:57.950" end="00:14:01.700" style="s2">he said the fact that human beings</p>
+<p begin="00:13:59.930" end="00:14:04.760" style="s2"><span style="s3">practice</span> sacrifice at virtually all</p>
+<p begin="00:14:01.700" end="00:14:06.470" style="s2">levels<span style="s4"> of</span> culture<span style="s4"> or</span> in all cultures<span style="s3"> so</span></p>
+<p begin="00:14:04.760" end="00:14:07.610" style="s2">far<span style="s3"> identified</span> was<span style="s3"> the indication that</span></p>
+<p begin="00:14:06.470" end="00:14:09.650" style="s2"><span style="s4">there there was something</span> really</p>
+<p begin="00:14:07.610" end="00:14:12.680" style="s2">biologically wrong with<span style="s3"> us</span><span style="s4"> that</span> was such</p>
+<p begin="00:14:09.650" end="00:14:14.420" style="s2">an insane<span style="s3"> thing</span> to do<span style="s4"> but</span> what what</p>
+<p begin="00:14:12.680" end="00:14:16.190" style="s2">those cultures<span style="s3"> that</span> were practicing<span style="s3"> the</span></p>
+<p begin="00:14:14.420" end="00:14:17.840" style="s2"><span style="s4">ritualistic sacrifice as far as I can</span></p>
+<p begin="00:14:16.190" end="00:14:20.330" style="s2"><span style="s4">tell</span> what they<span style="s3"> were</span> doing was acting out</p>
+<p begin="00:14:17.840" end="00:14:24.230" style="s2">the idea that<span style="s3"> the</span> thing that<span style="s4"> was</span> valued</p>
+<p begin="00:14:20.330" end="00:14:26.780" style="s2">most<span style="s4"> had</span> to be sacrificed to<span style="s4"> the unknown</span></p>
+<p begin="00:14:24.230" end="00:14:29.330" style="s2"><span style="s3">in</span> order<span style="s4"> for</span> constant adaptation<span style="s3"> to</span></p>
+<p begin="00:14:26.780" end="00:14:31.610" style="s2">continue so it was either<span style="s4"> like</span> the</p>
+<p begin="00:14:29.330" end="00:14:33.080" style="s2"><span style="s4">sacrificial</span><span style="s3"> victim</span> was either you<span style="s3"> could</span></p>
+<p begin="00:14:31.610" end="00:14:34.850" style="s2"><span style="s4">view</span> him as a<span style="s4"> hero</span> because<span style="s4"> that</span> was</p>
+<p begin="00:14:33.080" end="00:14:36.170" style="s2">often<span style="s3"> the case so</span> he was a hero<span style="s4"> who</span><span style="s3"> who</span></p>
+<p begin="00:14:34.850" end="00:14:37.970" style="s2">would be<span style="s4"> killed</span> and<span style="s3"> that</span> his body<span style="s4"> would</span></p>
+<p begin="00:14:36.170" end="00:14:38.510" style="s2">be distributed among<span style="s4"> the</span> crowd<span style="s4"> they'd</span></p>
+<p begin="00:14:37.970" end="00:14:40.430" style="s2">eat it</p>
+<p begin="00:14:38.510" end="00:14:42.380" style="s2">that's one<span style="s4"> rich wallet it's</span> just like</p>
+<p begin="00:14:40.430" end="00:14:44.540" style="s2">the<span style="s4"> Christian</span><span style="s3"> mass</span> by the way<span style="s4"> it's</span></p>
+<p begin="00:14:42.380" end="00:14:47.330" style="s2">exactly the<span style="s4"> same idea and</span> the notion<span style="s3"> was</span></p>
+<p begin="00:14:44.540" end="00:14:50.660" style="s2">that<span style="s4"> to</span><span style="s3"> move</span><span style="s4"> towards</span> divinity it was</p>
+<p begin="00:14:47.330" end="00:14:53.630" style="s2">necessary to incorporate that's the most</p>
+<p begin="00:14:50.660" end="00:14:55.190" style="s2">concrete<span style="s4"> way</span> to<span style="s4"> incorporate</span><span style="s3"> the</span> body or</p>
+<p begin="00:14:53.630" end="00:14:56.750" style="s2"><span style="s3">the</span> essence of<span style="s4"> this</span> thing that's</p>
+<p begin="00:14:55.190" end="00:14:58.490" style="s2">constantly being<span style="s4"> offered</span> up<span style="s3"> to the</span></p>
+<p begin="00:14:56.750" end="00:15:00.200" style="s2">unknown<span style="s3"> that</span> was the only<span style="s4"> way</span><span style="s3"> that</span> we</p>
+<p begin="00:14:58.490" end="00:15:02.000" style="s2">could<span style="s3"> continue insuring that</span><span style="s4"> cost at</span></p>
+<p begin="00:15:00.200" end="00:15:04.430" style="s2">that<span style="s3"> patient</span> was<span style="s3"> going</span> to take<span style="s4"> place so</span></p>
+<p begin="00:15:02.000" end="00:15:06.080" style="s2">that's<span style="s4"> the</span> sacrificial aspect of the</p>
+<p begin="00:15:04.430" end="00:15:07.880" style="s2">hero<span style="s4"> and</span> then there's also the</p>
+<p begin="00:15:06.080" end="00:15:10.910" style="s2">sacrificial aspect of the<span style="s4"> king</span> and<span style="s3"> those</span></p>
+<p begin="00:15:07.880" end="00:15:13.550" style="s2">two things get confused as well<span style="s3"> Daniel</span></p>
+<p begin="00:15:10.910" end="00:15:16.040" style="s2"><span style="s4">the</span><span style="s3"> king</span> isn't<span style="s4"> the</span> hero<span style="s3"> the</span><span style="s4"> king is the</span></p>
+<p begin="00:15:13.550" end="00:15:17.630" style="s2"><span style="s4">father</span> of the hero<span style="s4"> or</span> he's<span style="s4"> the</span> thing the</p>
+<p begin="00:15:16.040" end="00:15:20.270" style="s2">hero generates you can look at it<span style="s4"> either</span></p>
+<p begin="00:15:17.630" end="00:15:22.070" style="s2">way the<span style="s4"> king</span> is<span style="s4"> also</span> something that has</p>
+<p begin="00:15:20.270" end="00:15:24.770" style="s2"><span style="s4">to be sacrificed the king is</span><span style="s3"> the</span></p>
+<p begin="00:15:22.070" end="00:15:26.660" style="s2">embodiment of behavioral patterns that</p>
+<p begin="00:15:24.770" end="00:15:28.730" style="s2"><span style="s3">have</span> adaptive significance in the past</p>
+<p begin="00:15:26.660" end="00:15:30.650" style="s2">also schemas<span style="s4"> of</span> representation<span style="s4"> and</span></p>
+<p begin="00:15:28.730" end="00:15:32.060" style="s2">they're<span style="s4"> useful</span> for<span style="s4"> guiding</span> adaptation</p>
+<p begin="00:15:30.650" end="00:15:33.500" style="s2">but it's the environment<span style="s3"> shifts</span> suddenly</p>
+<p begin="00:15:32.060" end="00:15:33.880" style="s2">then they have to<span style="s4"> be</span> changed<span style="s3"> and</span> the</p>
+<p begin="00:15:33.500" end="00:15:35.980" style="s2">only<span style="s3"> way</span></p>
+<p begin="00:15:33.880" end="00:15:37.450" style="s2">can you<span style="s4"> change</span><span style="s3"> the zip well from the</span></p>
+<p begin="00:15:35.980" end="00:15:39.280" style="s2">mythological<span style="s4"> perspective</span><span style="s3"> if</span> they're</p>
+<p begin="00:15:37.450" end="00:15:42.100" style="s2">sacrificing<span style="s3"> that's</span> what those<span style="s4"> rituals</span></p>
+<p begin="00:15:39.280" end="00:15:44.050" style="s2">were trying to act out no yes<span style="s4"> you</span> can</p>
+<p begin="00:15:42.100" end="00:15:45.880" style="s2">check<span style="s4"> around</span> in the literature<span style="s3"> to</span><span style="s4"> two</span></p>
+<p begin="00:15:44.050" end="00:15:48.580" style="s2"><span style="s4">year old two year old</span> to satisfy your</p>
+<p begin="00:15:45.880" end="00:15:50.290" style="s2"><span style="s4">own</span> curiosity<span style="s3"> as</span> far as I can tell<span style="s4"> I've</span></p>
+<p begin="00:15:48.580" end="00:15:52.510" style="s2"><span style="s4">never</span> been I've never<span style="s4"> found</span> an</p>
+<p begin="00:15:50.290" end="00:15:55.540" style="s2">explanation<span style="s4"> of</span> human sacrificial ritual</p>
+<p begin="00:15:52.510" end="00:15:58.750" style="s2">that was fun prehensile<span style="s4"> that</span> didn't make</p>
+<p begin="00:15:55.540" end="00:16:02.680" style="s2">that doesn't fit along that theoretical</p>
+<p begin="00:15:58.750" end="00:16:04.660" style="s2">line so you know if you can if you can</p>
+<p begin="00:16:02.680" end="00:16:08.430" style="s2"><span style="s4">accept</span> the argument<span style="s3"> that people acted</span></p>
+<p begin="00:16:04.660" end="00:16:08.430" style="s2">out ideas before<span style="s3"> they</span><span style="s4"> understood</span> them</p>
+<p begin="00:16:11.370" end="00:16:15.340" style="s2"><span style="s3">evolutionary</span> pressures select our</p>
+<p begin="00:16:13.390" end="00:16:17.410" style="s2"><span style="s4">behavioral</span> patterns we don't invent them</p>
+<p begin="00:16:15.340" end="00:16:19.630" style="s2">all if we experiment<span style="s3"> a</span> lot some</p>
+<p begin="00:16:17.410" end="00:16:22.270" style="s2"><span style="s4">behavioral</span> patterns lasted some don't so</p>
+<p begin="00:16:19.630" end="00:16:23.920" style="s2">I think<span style="s4"> we</span> get we<span style="s4"> behavioral</span> patterns</p>
+<p begin="00:16:22.270" end="00:16:25.300" style="s2">that are established<span style="s4"> as</span> a consequence<span style="s4"> of</span></p>
+<p begin="00:16:23.920" end="00:16:26.560" style="s2">evolutionary<span style="s4"> pressures that</span><span style="s3"> are</span></p>
+<p begin="00:16:25.300" end="00:16:28.630" style="s2">established<span style="s4"> long</span> before we can</p>
+<p begin="00:16:26.560" end="00:16:30.190" style="s2">understand<span style="s4"> so</span> we get the behavioral</p>
+<p begin="00:16:28.630" end="00:16:32.050" style="s2">pattern<span style="s4"> down</span> then we start watching<span style="s4"> what</span></p>
+<p begin="00:16:30.190" end="00:16:33.610" style="s2"><span style="s3">we're</span> doing<span style="s4"> and when we're watching</span> what</p>
+<p begin="00:16:32.050" end="00:16:37.240" style="s2">we're doing we tell<span style="s4"> stories</span> and<span style="s4"> the</span></p>
+<p begin="00:16:33.610" end="00:16:39.190" style="s2">stories reflect<span style="s3"> their</span> like first-order</p>
+<p begin="00:16:37.240" end="00:16:42.310" style="s2">representations of behavioral patterns</p>
+<p begin="00:16:39.190" end="00:16:45.130" style="s2">that that were so people<span style="s4"> peoples</span> that</p>
+<p begin="00:16:42.310" end="00:16:46.810" style="s2">survived were able<span style="s3"> to</span> give up the thing</p>
+<p begin="00:16:45.130" end="00:16:49.210" style="s2">that was most important to<span style="s4"> them when it</span></p>
+<p begin="00:16:46.810" end="00:16:51.250" style="s2"><span style="s3">was</span><span style="s4"> necessary and over the course of</span> I</p>
+<p begin="00:16:49.210" end="00:16:53.320" style="s2">would say hundreds of thousands of<span style="s4"> years</span></p>
+<p begin="00:16:51.250" end="00:16:55.990" style="s2"><span style="s4">we</span> gathered enough observations about</p>
+<p begin="00:16:53.320" end="00:16:58.630" style="s2">success to draw some general conclusions</p>
+<p begin="00:16:55.990" end="00:17:00.550" style="s2"><span style="s3">about</span> what it meant<span style="s4"> we</span> know already<span style="s4"> in</span></p>
+<p begin="00:16:58.630" end="00:17:02.470" style="s2"><span style="s3">discipline taenia by the Mesopotamian</span></p>
+<p begin="00:17:00.550" end="00:17:04.380" style="s2">times<span style="s3"> whatever</span> was<span style="s3"> that</span> Marduk</p>
+<p begin="00:17:02.470" end="00:17:06.550" style="s2">represented was already<span style="s3"> positive</span> as</p>
+<p begin="00:17:04.380" end="00:17:08.230" style="s2">necessarily occupying the highest</p>
+<p begin="00:17:06.550" end="00:17:10.120" style="s2">position in the<span style="s4"> in</span> the dominance</p>
+<p begin="00:17:08.230" end="00:17:12.400" style="s2">hierarchy of gods<span style="s4"> so</span> that's already</p>
+<p begin="00:17:10.120" end="00:17:14.610" style="s2"><span style="s4">established</span><span style="s3"> 5,000</span><span style="s4"> years ago by the time</span></p>
+<p begin="00:17:12.400" end="00:17:16.930" style="s2"><span style="s4">people</span> could<span style="s4"> write</span> we knew that story</p>
+<p begin="00:17:14.610" end="00:17:18.360" style="s2">it's<span style="s4"> debatable whether or not we knew</span></p>
+<p begin="00:17:16.930" end="00:17:20.709" style="s2">what<span style="s4"> it</span> meant<span style="s4"> but then you have to</span> ask</p>
+<p begin="00:17:18.360" end="00:17:22.329" style="s2">yourself when you say that you know what</p>
+<p begin="00:17:20.709" end="00:17:25.209" style="s2"><span style="s4">something</span> means what is what<span style="s4"> are</span> you</p>
+<p begin="00:17:22.329" end="00:17:27.069" style="s2">saying one<span style="s4"> thing</span> you're saying is<span style="s3"> if</span><span style="s4"> you</span></p>
+<p begin="00:17:25.209" end="00:17:28.449" style="s2">know<span style="s4"> something</span> you can<span style="s4"> act</span> it<span style="s4"> out and</span></p>
+<p begin="00:17:27.069" end="00:17:29.890" style="s2">the fact that you can act it up<span style="s3"> does</span> not</p>
+<p begin="00:17:28.449" end="00:17:31.870" style="s2"><span style="s4">necessarily mean</span><span style="s3"> you</span> have<span style="s3"> an</span> accurate</p>
+<p begin="00:17:29.890" end="00:17:34.600" style="s2"><span style="s3">representation</span> of it or that<span style="s3"> you</span><span style="s4"> can</span> say</p>
+<p begin="00:17:31.870" end="00:17:36.090" style="s2"><span style="s4">anything</span><span style="s3"> about</span><span style="s4"> it</span> words that are or that</p>
+<p begin="00:17:34.600" end="00:17:38.820" style="s2">it was<span style="s4"> constructed</span> as it</p>
+<p begin="00:17:36.090" end="00:17:40.440" style="s2">it's a word verbally directed thinking</p>
+<p begin="00:17:38.820" end="00:17:42.780" style="s2">that it was rational or any of those</p>
+<p begin="00:17:40.440" end="00:17:45.510" style="s2">things<span style="s3"> knowing</span><span style="s4"> something</span> is acting<span style="s3"> it</span></p>
+<p begin="00:17:42.780" end="00:17:47.580" style="s2"><span style="s3">out nots wisdom and it's</span> images of</p>
+<p begin="00:17:45.510" end="00:17:50.520" style="s2">wisdom<span style="s4"> that</span> are collected in mythology</p>
+<p begin="00:17:47.580" end="00:17:59.460" style="s2"><span style="s3">far</span> as I can tell<span style="s3"> from</span> the<span style="s3"> wise</span> you have</p>
+<p begin="00:17:50.520" end="00:18:01.200" style="s2"><span style="s4">to</span> come see<span style="s3"> the</span> sacrificial<span style="s3"> rituals</span> you</p>
+<p begin="00:17:59.460" end="00:18:03.270" style="s2"><span style="s3">have</span> to realize these things<span style="s4"> have</span> lasted</p>
+<p begin="00:18:01.200" end="00:18:05.970" style="s2"><span style="s4">long</span><span style="s3"> time</span> when<span style="s4"> I made allusion to the</span></p>
+<p begin="00:18:03.270" end="00:18:08.910" style="s2">Christian mass that's<span style="s4"> now it's a direct</span></p>
+<p begin="00:18:05.970" end="00:18:11.220" style="s2">light<span style="s4"> of it when you eat</span> the wafer<span style="s4"> that</span></p>
+<p begin="00:18:08.910" end="00:18:13.140" style="s2">represents<span style="s4"> Christ</span> he's a<span style="s4"> sacrificial</span></p>
+<p begin="00:18:11.220" end="00:18:14.790" style="s2">victim and the<span style="s3"> incorporation</span> that wafer</p>
+<p begin="00:18:13.140" end="00:18:21.090" style="s2">it's made<span style="s3"> out</span><span style="s4"> of</span> week because week<span style="s4"> is in</span></p>
+<p begin="00:18:14.790" end="00:18:26.510" style="s2">dying and resurrecting plant vegetation</p>
+<p begin="00:18:21.090" end="00:18:28.410" style="s2">garden symbolism is<span style="s4"> assimilated</span><span style="s3"> host:you</span></p>
+<p begin="00:18:26.510" end="00:18:30.210" style="s2"><span style="s4">notion</span> is that<span style="s4"> you're supposed to</span></p>
+<p begin="00:18:28.410" end="00:18:35.160" style="s2">incorporate whatever<span style="s4"> is</span> out the essence</p>
+<p begin="00:18:30.210" end="00:18:38.520" style="s2">of Christ people<span style="s4"> still</span> do<span style="s3"> that</span> it's a</p>
+<p begin="00:18:35.160" end="00:18:42.150" style="s2">good<span style="s3"> sign</span><span style="s4"> it's</span> a symbolic<span style="s4"> representation</span></p>
+<p begin="00:18:38.520" end="00:18:45.300" style="s2">of<span style="s4"> a</span> sacrificial ritual<span style="s4"> and</span> it's</p>
+<p begin="00:18:42.150" end="00:18:49.010" style="s2">supposed to produce<span style="s4"> an</span> effect<span style="s4"> it's</span> got</p>
+<p begin="00:18:45.300" end="00:18:49.010" style="s2">more<span style="s4"> and</span> more abstracted as you can tell</p>
+<p begin="00:19:00.590" end="00:19:21.990" style="s2">there's<span style="s4"> scrap</span> your<span style="s3"> past</span><span style="s4"> burn</span> it to a new</p>
+<p begin="00:19:19.380" end="00:19:24.800" style="s2">self no<span style="s4"> certain</span> those sorts of rituals</p>
+<p begin="00:19:21.990" end="00:19:27.420" style="s2"><span style="s3">those</span> sorts of ideas<span style="s4"> are</span> very<span style="s4"> useful</span></p>
+<p begin="00:19:24.800" end="00:19:28.350" style="s2"><span style="s4">it's very difficult for people to</span><span style="s3"> escape</span></p>
+<p begin="00:19:27.420" end="00:19:29.789" style="s2">often from the</p>
+<p begin="00:19:28.350" end="00:19:31.350" style="s2">of their<span style="s3"> past that's sort of their</span></p>
+<p begin="00:19:29.789" end="00:19:33.210" style="s2">cumulative habits or the way they</p>
+<p begin="00:19:31.350" end="00:19:34.980" style="s2">construe the world<span style="s4"> like</span> there's a</p>
+<p begin="00:19:33.210" end="00:19:37.049" style="s2"><span style="s4">certain</span> utility<span style="s4"> in</span> now<span style="s4"> because</span><span style="s3"> in</span> God</p>
+<p begin="00:19:34.980" end="00:19:39.090" style="s2">you as far as<span style="s3"> you</span> as you are<span style="s4"> now</span><span style="s3"> but</span></p>
+<p begin="00:19:37.049" end="00:19:41.640" style="s2">there's a<span style="s4"> tremendous</span> amount<span style="s3"> of</span> weight<span style="s4"> so</span></p>
+<p begin="00:19:39.090" end="00:19:43.289" style="s2">I can I can remember for example<span style="s4"> I'm</span></p>
+<p begin="00:19:41.640" end="00:19:45.360" style="s2">from<span style="s3"> a</span><span style="s4"> very small County</span> the thing about</p>
+<p begin="00:19:43.289" end="00:19:46.770" style="s2">being<span style="s4"> from</span> the small town<span style="s4"> perhaps</span> it's</p>
+<p begin="00:19:45.360" end="00:19:49.020" style="s2"><span style="s4">not</span> so<span style="s4"> much</span> different the city<span style="s4"> is that</span></p>
+<p begin="00:19:46.770" end="00:19:49.530" style="s2">everyone<span style="s4"> knows</span> you<span style="s4"> when everyone knows</span></p>
+<p begin="00:19:49.020" end="00:19:51.270" style="s2"><span style="s4">you</span></p>
+<p begin="00:19:49.530" end="00:19:54.120" style="s2">you're trapped by your social</p>
+<p begin="00:19:51.270" end="00:19:56.880" style="s2"><span style="s4">representations so it's very difficult</span></p>
+<p begin="00:19:54.120" end="00:19:58.500" style="s2"><span style="s4">not</span> to stay who<span style="s3"> you</span> were<span style="s3"> because your</span></p>
+<p begin="00:19:56.880" end="00:20:00.210" style="s2"><span style="s3">behaviors</span><span style="s4"> always</span> modified by those</p>
+<p begin="00:19:58.500" end="00:20:02.250" style="s2"><span style="s4">around</span> you into<span style="s4"> a</span> shape they<span style="s3"> can</span> predict</p>
+<p begin="00:20:00.210" end="00:20:04.470" style="s2">even if you want to change if you leave</p>
+<p begin="00:20:02.250" end="00:20:06.270" style="s2">a<span style="s4"> place</span> like that<span style="s3"> in fact anytime</span><span style="s4"> you</span></p>
+<p begin="00:20:04.470" end="00:20:08.789" style="s2">leave<span style="s4"> anywhere</span> that's<span style="s4"> the</span> changing of</p>
+<p begin="00:20:06.270" end="00:20:16.260" style="s2"><span style="s4">your world you</span> have a chance to to</p>
+<p begin="00:20:08.789" end="00:20:18.480" style="s2">abandon anyways let me<span style="s4"> show</span> you some of</p>
+<p begin="00:20:16.260" end="00:20:21.030" style="s2"><span style="s3">these</span> representations<span style="s3"> the</span> only way you</p>
+<p begin="00:20:18.480" end="00:20:23.370" style="s2">can get a feel I<span style="s3"> think</span> for this sort of</p>
+<p begin="00:20:21.030" end="00:20:26.330" style="s2">thing<span style="s4"> is</span> by<span style="s4"> well so by thinking</span><span style="s3"> about it</span></p>
+<p begin="00:20:23.370" end="00:20:26.330" style="s2">I want to<span style="s4"> show</span><span style="s3"> you</span> that</p>
+<p begin="00:20:32.440" end="00:20:40.190" style="s2">how<span style="s3"> a new year</span><span style="s4"> so</span> far<span style="s3"> displays</span></p>
+<p begin="00:20:37.190" end="00:20:40.190" style="s2"><span style="s4">resolution</span></p>
+<p begin="00:20:40.400" end="00:20:44.990" style="s2">yeah<span style="s4"> yeah while Christmas isn't</span> very far</p>
+<p begin="00:20:43.340" end="00:20:46.760" style="s2">at<span style="s4"> this</span> place from<span style="s4"> the</span><span style="s3"> new year and</span><span style="s4"> the</span></p>
+<p begin="00:20:44.990" end="00:20:49.309" style="s2">thing is is that<span style="s4"> the</span><span style="s3"> Sun</span> is<span style="s4"> born</span> on the</p>
+<p begin="00:20:46.760" end="00:20:51.289" style="s2">21st of December<span style="s4"> that's</span> why that's why</p>
+<p begin="00:20:49.309" end="00:20:53.750" style="s2"><span style="s3">Christmas</span><span style="s4"> Day</span> is so close<span style="s3"> to</span><span style="s4"> the</span> 21st of</p>
+<p begin="00:20:51.289" end="00:20:56.360" style="s2">December<span style="s4"> so</span> because the days start</p>
+<p begin="00:20:53.750" end="00:20:59.390" style="s2"><span style="s4">getting longer again so</span> then I guess</p>
+<p begin="00:20:56.360" end="00:21:01.880" style="s2">that's<span style="s4"> part</span> of the answer<span style="s3"> is that the</span></p>
+<p begin="00:20:59.390" end="00:21:03.650" style="s2"><span style="s4">Christian the</span><span style="s3"> ceremony</span> of Christ's birth</p>
+<p begin="00:21:01.880" end="00:21:05.480" style="s2">was<span style="s3"> assimilated</span> to<span style="s4"> the Reapers of</span><span style="s3"> the</span></p>
+<p begin="00:21:03.650" end="00:21:15.320" style="s2">Sun so kind<span style="s4"> of</span> occupied<span style="s4"> that</span> space in</p>
+<p begin="00:21:05.480" end="00:21:29.570" style="s2">the calendar yeah you know that's why</p>
+<p begin="00:21:15.320" end="00:21:31.520" style="s2">there are<span style="s4"> rabbits</span> right<span style="s4"> right</span><span style="s3"> okay</span> no</p>
+<p begin="00:21:29.570" end="00:21:33.710" style="s2">I'm motioning that why is boys play</p>
+<p begin="00:21:31.520" end="00:21:35.360" style="s2">isn't Easter in December I'm saying why</p>
+<p begin="00:21:33.710" end="00:21:40.100" style="s2">isn't<span style="s4"> the</span> first<span style="s4"> day</span><span style="s3"> of</span> the year</p>
+<p begin="00:21:35.360" end="00:21:41.929" style="s2"><span style="s3">easy his friends I don't know I don't</span></p>
+<p begin="00:21:40.100" end="00:21:47.270" style="s2"><span style="s4">know you</span><span style="s3"> could</span> speculate that there's</p>
+<p begin="00:21:41.929" end="00:21:49.190" style="s2">tension between<span style="s4"> the</span> two<span style="s4"> days</span> rabbits<span style="s4"> and</span></p>
+<p begin="00:21:47.270" end="00:21:51.409" style="s2">eggs<span style="s4"> don't wet Easter well there are</span></p>
+<p begin="00:21:49.190" end="00:21:55.120" style="s2">symbols<span style="s4"> of</span> rebirth to a<span style="s3"> rabbits</span> are</p>
+<p begin="00:21:51.409" end="00:21:55.120" style="s2">symbols<span style="s4"> of</span> fertility<span style="s3"> well</span></p>
+<p begin="00:21:55.710" end="00:22:02.820" style="s2"><span style="s3">what</span> are you a<span style="s3"> stir bunny would</span><span style="s4"> eat</span></p>
+<p begin="00:21:57.029" end="00:22:04.409" style="s2">these<span style="s4"> things</span><span style="s3"> come</span> from<span style="s4"> somewhere</span> I just</p>
+<p begin="00:22:02.820" end="00:22:05.429" style="s2">told you<span style="s3"> that</span><span style="s4"> five</span> minutes<span style="s4"> ago</span> that<span style="s4"> we</span></p>
+<p begin="00:22:04.409" end="00:22:07.409" style="s2">do all sorts<span style="s3"> of things we don't</span></p>
+<p begin="00:22:05.429" end="00:22:09.690" style="s2"><span style="s4">understand</span> we act out things we don't</p>
+<p begin="00:22:07.409" end="00:22:10.980" style="s2">understand<span style="s3"> so</span> I tell you<span style="s4"> what</span> the Easter</p>
+<p begin="00:22:09.690" end="00:22:12.750" style="s2"><span style="s4">Bunny meetings and everyone laughs</span></p>
+<p begin="00:22:10.980" end="00:22:15.000" style="s2">because<span style="s4"> everyone</span> knows about the Easter</p>
+<p begin="00:22:12.750" end="00:22:16.860" style="s2">Bunny<span style="s3"> no</span> one has a<span style="s4"> clue</span> what it<span style="s4"> means</span><span style="s3"> so</span></p>
+<p begin="00:22:15.000" end="00:22:19.289" style="s2">that's a perfect<span style="s3"> example</span><span style="s4"> of</span><span style="s3"> how</span> these</p>
+<p begin="00:22:16.860" end="00:22:22.289" style="s2">sort of archaic ideas can continue to</p>
+<p begin="00:22:19.289" end="00:22:24.419" style="s2">exist<span style="s3"> people</span> are absolutely<span style="s3"> so</span> to speak</p>
+<p begin="00:22:22.289" end="00:22:26.159" style="s2">unconscious of the meaning<span style="s4"> which</span></p>
+<p begin="00:22:24.419" end="00:22:29.480" style="s2">basically means you<span style="s3"> ask</span> them<span style="s4"> out</span> but you</p>
+<p begin="00:22:26.159" end="00:22:29.480" style="s2"><span style="s3">don't know what you're doing</span><span style="s4"> so</span></p>
+<p begin="00:22:32.179" end="00:22:38.010" style="s2"><span style="s4">something</span> that represents rebirth</p>
+<p begin="00:22:35.690" end="00:22:42.020" style="s2"><span style="s4">because</span> it's some sort<span style="s3"> of</span><span style="s4"> archetype of</span></p>
+<p begin="00:22:38.010" end="00:22:42.020" style="s2"><span style="s3">or</span><span style="s4"> is it an example of something that</span></p>
+<p begin="00:22:43.179" end="00:22:48.380" style="s2">well it's a<span style="s4"> 30</span> it's a fertility<span style="s3"> symbol</span></p>
+<p begin="00:22:46.010" end="00:22:51.169" style="s2">and it was a pagan<span style="s4"> it</span> was a pagan<span style="s4"> symbol</span></p>
+<p begin="00:22:48.380" end="00:22:53.870" style="s2">of fertility<span style="s3"> as</span> far<span style="s4"> as</span> I know it<span style="s4"> just</span></p>
+<p begin="00:22:51.169" end="00:22:56.990" style="s2"><span style="s4">gone it just</span> got assimilated to<span style="s4"> the</span></p>
+<p begin="00:22:53.870" end="00:22:59.900" style="s2"><span style="s4">Christian</span> festival of Easter hung around</p>
+<p begin="00:22:56.990" end="00:23:03.940" style="s2">the<span style="s4"> bottom</span><span style="s3"> women</span> so to speak<span style="s4"> in</span><span style="s3"> a circus</span></p>
+<p begin="00:22:59.900" end="00:23:08.450" style="s2"><span style="s4">you</span><span style="s3"> know - are they sweet chosen</span> as</p>
+<p begin="00:23:03.940" end="00:23:13.490" style="s2">symbols of chaos that preceded the</p>
+<p begin="00:23:08.450" end="00:23:18.590" style="s2">division or or or are they<span style="s4"> ancient</span></p>
+<p begin="00:23:13.490" end="00:23:19.880" style="s2"><span style="s3">symbols</span> that have simply<span style="s3"> been that's</span><span style="s4"> a</span></p>
+<p begin="00:23:18.590" end="00:23:22.190" style="s2">good<span style="s3"> question</span> I'm<span style="s4"> going to show you</span> a</p>
+<p begin="00:23:19.880" end="00:23:24.950" style="s2">bunch<span style="s4"> of</span> videos<span style="s3"> I</span><span style="s4"> don't</span> know the answer</p>
+<p begin="00:23:22.190" end="00:23:28.309" style="s2">to<span style="s3"> that</span> I<span style="s3"> think</span> like personally I think</p>
+<p begin="00:23:24.950" end="00:23:30.470" style="s2"><span style="s4">that</span><span style="s3"> when</span> people<span style="s3"> start</span><span style="s4"> thinking</span> about</p>
+<p begin="00:23:28.309" end="00:23:33.140" style="s2">those sorts of things<span style="s4"> those symbols</span></p>
+<p begin="00:23:30.470" end="00:23:34.789" style="s2">naturally come to mind<span style="s4"> regardless of</span></p>
+<p begin="00:23:33.140" end="00:23:37.789" style="s2">whether they're passed down<span style="s4"> although</span></p>
+<p begin="00:23:34.789" end="00:23:39.260" style="s2">they are also passed down<span style="s4"> not</span> because<span style="s4"> I</span></p>
+<p begin="00:23:37.789" end="00:23:41.210" style="s2">can't understand why they keep popping</p>
+<p begin="00:23:39.260" end="00:23:43.039" style="s2"><span style="s4">up</span> everywhere otherwise<span style="s3"> the</span> other thing</p>
+<p begin="00:23:41.210" end="00:23:45.020" style="s2">is this<span style="s3"> is</span> an argument<span style="s3"> the enemy till</span><span style="s4"> he</span></p>
+<p begin="00:23:43.039" end="00:23:47.360" style="s2">said he said<span style="s4"> while</span> symbols won't last</p>
+<p begin="00:23:45.020" end="00:23:48.230" style="s2">for a long time<span style="s4"> enlisted</span> particularly</p>
+<p begin="00:23:47.360" end="00:23:50.960" style="s2">apropos</p>
+<p begin="00:23:48.230" end="00:23:54.110" style="s2">you know they<span style="s3"> happen</span> to match some a</p>
+<p begin="00:23:50.960" end="00:23:55.429" style="s2">priori<span style="s4"> concept</span> in psychology academic</p>
+<p begin="00:23:54.110" end="00:23:56.929" style="s2">psychology we don't give much credence</p>
+<p begin="00:23:55.429" end="00:24:00.230" style="s2">to the notion of the<span style="s4"> archetypes</span> of<span style="s4"> the</span></p>
+<p begin="00:23:56.929" end="00:24:02.270" style="s2"><span style="s4">conscious that's</span><span style="s3"> absurd</span> that's because</p>
+<p begin="00:24:00.230" end="00:24:05.270" style="s2"><span style="s4">that is</span><span style="s3"> because we are unbelievably</span></p>
+<p begin="00:24:02.270" end="00:24:06.650" style="s2">ignorant historically in psychology<span style="s3"> okay</span></p>
+<p begin="00:24:05.270" end="00:24:08.900" style="s2"><span style="s3">I'll</span> give<span style="s4"> you</span> an<span style="s4"> example</span> I was reading</p>
+<p begin="00:24:06.650" end="00:24:10.309" style="s2">Missy<span style="s4"> Elliott</span><span style="s3"> everday</span><span style="s4"> you</span> know when the</p>
+<p begin="00:24:08.900" end="00:24:11.900" style="s2">Spaniards came<span style="s4"> to</span> the new world they</p>
+<p begin="00:24:10.309" end="00:24:13.490" style="s2">were looking for<span style="s4"> gold</span> for<span style="s4"> El</span> Dorado<span style="s3"> the</span></p>
+<p begin="00:24:11.900" end="00:24:15.140" style="s2"><span style="s3">city</span> of<span style="s4"> the gold</span><span style="s3"> that's</span> a<span style="s4"> that's</span> an</p>
+<p begin="00:24:13.490" end="00:24:17.870" style="s2"><span style="s3">analogue</span> of<span style="s3"> the paradox they're also</span></p>
+<p begin="00:24:15.140" end="00:24:19.340" style="s2">looking<span style="s4"> for</span> the Fountain of Youth<span style="s3"> part</span></p>
+<p begin="00:24:17.870" end="00:24:21.260" style="s2"><span style="s4">of</span> the reason<span style="s3"> that</span> they ended up going</p>
+<p begin="00:24:19.340" end="00:24:23.600" style="s2">up north<span style="s4"> on</span> their trips was because may</p>
+<p begin="00:24:21.260" end="00:24:25.280" style="s2">not have<span style="s4"> band</span> of wandering Indians who</p>
+<p begin="00:24:23.600" end="00:24:26.929" style="s2">were<span style="s3"> looking for</span><span style="s4"> the</span> same<span style="s4"> thing</span></p>
+<p begin="00:24:25.280" end="00:24:29.059" style="s2">the Indians told<span style="s4"> them</span> a whole set of</p>
+<p begin="00:24:26.929" end="00:24:31.100" style="s2">stories<span style="s4"> about where this paradise might</span></p>
+<p begin="00:24:29.059" end="00:24:34.610" style="s2">lay and away they went<span style="s3"> you</span> know<span style="s4"> that's</span></p>
+<p begin="00:24:31.100" end="00:24:35.960" style="s2">pretty peculiar you know it's<span style="s3"> and</span> I can</p>
+<p begin="00:24:34.610" end="00:24:37.429" style="s2">give you<span style="s3"> the</span> reference for<span style="s3"> that</span> it's an</p>
+<p begin="00:24:35.960" end="00:24:38.240" style="s2">le unnie's book the sacred and<span style="s3"> the</span></p>
+<p begin="00:24:37.429" end="00:24:39.980" style="s2">profane</p>
+<p begin="00:24:38.240" end="00:24:43.909" style="s2">I mean it's difficult to<span style="s4"> account</span> for</p>
+<p begin="00:24:39.980" end="00:24:45.960" style="s2">that you can't<span style="s3"> account</span> for<span style="s3"> it by by well</span></p>
+<p begin="00:24:43.909" end="00:24:48.600" style="s2">you could say<span style="s3"> that</span> both<span style="s4"> ideas</span> came from</p>
+<p begin="00:24:45.960" end="00:24:49.770" style="s2"><span style="s3">a</span><span style="s4"> single source some tens</span> of thousands</p>
+<p begin="00:24:48.600" end="00:24:51.929" style="s2">of<span style="s4"> years</span> previous</p>
+<p begin="00:24:49.770" end="00:24:54.210" style="s2">it'd be like<span style="s3"> 17,000</span><span style="s4"> years because I</span></p>
+<p begin="00:24:51.929" end="00:24:55.470" style="s2"><span style="s4">think</span> between<span style="s3"> ten</span> and<span style="s3"> seventeen</span> thousand</p>
+<p begin="00:24:54.210" end="00:24:57.059" style="s2">years because<span style="s3"> I</span> think<span style="s4"> that's when the</span></p>
+<p begin="00:24:55.470" end="00:24:59.789" style="s2">Native Americans crossed the land bridge</p>
+<p begin="00:24:57.059" end="00:25:01.679" style="s2">into North<span style="s3"> America</span> but then you have<span style="s4"> to</span></p>
+<p begin="00:24:59.789" end="00:25:03.870" style="s2"><span style="s4">explain</span> why those<span style="s4"> ideas</span> hung around<span style="s3"> for</span></p>
+<p begin="00:25:01.679" end="00:25:05.600" style="s2">at least<span style="s3"> ten thousand</span><span style="s4"> years I guess</span></p>
+<p begin="00:25:03.870" end="00:25:08.159" style="s2">there's a difference<span style="s3"> between</span> saying that</p>
+<p begin="00:25:05.600" end="00:25:09.990" style="s2"><span style="s3">ideas</span> are innate in us or there's</p>
+<p begin="00:25:08.159" end="00:25:14.100" style="s2">something innate in us that determines</p>
+<p begin="00:25:09.990" end="00:25:16.230" style="s2"><span style="s3">the</span> shape<span style="s4"> yeah</span> well I think<span style="s4"> I think what</span></p>
+<p begin="00:25:14.100" end="00:25:18.480" style="s2">happens is that well let's take<span style="s3"> an i</span></p>
+<p begin="00:25:16.230" end="00:25:22.320" style="s2"><span style="s4">take</span> the notion<span style="s4"> of</span> the snake for example</p>
+<p begin="00:25:18.480" end="00:25:25.230" style="s2">like we know<span style="s4"> that</span> we know<span style="s4"> that</span> novel</p>
+<p begin="00:25:22.320" end="00:25:27.510" style="s2">phenomena<span style="s4"> have</span> the capacity and<span style="s3"> grip</span></p>
+<p begin="00:25:25.230" end="00:25:30.090" style="s2">your attention so then you could<span style="s3"> say</span></p>
+<p begin="00:25:27.510" end="00:25:33.270" style="s2">that any anything<span style="s4"> that</span><span style="s3"> has</span><span style="s4"> the</span> capacity</p>
+<p begin="00:25:30.090" end="00:25:35.970" style="s2">to grip your<span style="s4"> attention</span> would<span style="s3"> be</span> a useful</p>
+<p begin="00:25:33.270" end="00:25:37.919" style="s2">symbol for<span style="s4"> novelty</span> and<span style="s4"> it's</span> certainly</p>
+<p begin="00:25:35.970" end="00:25:39.750" style="s2">the<span style="s3"> case</span> that<span style="s4"> snakes</span> have the capacity</p>
+<p begin="00:25:37.919" end="00:25:42.779" style="s2">to grip your<span style="s4"> attention so that</span><span style="s3"> might</span></p>
+<p begin="00:25:39.750" end="00:25:44.730" style="s2">that<span style="s3"> might</span> be the<span style="s4"> process</span> by which<span style="s4"> the</span></p>
+<p begin="00:25:42.779" end="00:25:46.529" style="s2">symbol is<span style="s3"> not</span> only originally<span style="s3"> generated</span></p>
+<p begin="00:25:44.730" end="00:25:49.529" style="s2">but renewed<span style="s3"> when</span> it has to be removed</p>
+<p begin="00:25:46.529" end="00:25:54.510" style="s2"><span style="s4">and</span><span style="s3"> I'll</span> show<span style="s4"> you</span> a picture<span style="s4"> of</span><span style="s3"> Kali</span> I</p>
+<p begin="00:25:49.529" end="00:25:58.500" style="s2">put it in the manuscript<span style="s4"> it</span> is the case</p>
+<p begin="00:25:54.510" end="00:26:00.770" style="s2">that<span style="s4"> innately</span> the domain<span style="s3"> of</span> the novel</p>
+<p begin="00:25:58.500" end="00:26:03.299" style="s2"><span style="s4">always</span> appears to<span style="s3"> us</span> simultaneously</p>
+<p begin="00:26:00.770" end="00:26:05.429" style="s2">threatening and promising with threat</p>
+<p begin="00:26:03.299" end="00:26:07.799" style="s2">having the initial upper edge if the</p>
+<p begin="00:26:05.429" end="00:26:11.250" style="s2"><span style="s3">phenomenas</span><span style="s4"> of</span> sufficient of sufficient</p>
+<p begin="00:26:07.799" end="00:26:12.630" style="s2">novelty<span style="s4"> and</span> that's<span style="s4"> inborn right I mean</span></p>
+<p begin="00:26:11.250" end="00:26:14.460" style="s2"><span style="s4">that's</span> part<span style="s3"> of</span><span style="s4"> the</span> structure of<span style="s3"> our</span></p>
+<p begin="00:26:12.630" end="00:26:20.100" style="s2"><span style="s4">nervous</span> system<span style="s4"> our</span> capacity oriented</p>
+<p begin="00:26:14.460" end="00:26:22.049" style="s2">unpredictable<span style="s3"> now</span> it's also the<span style="s4"> case</span></p>
+<p begin="00:26:20.100" end="00:26:24.510" style="s2">that we seem to<span style="s4"> be able to</span> generate</p>
+<p begin="00:26:22.049" end="00:26:26.370" style="s2">effect to things like snakes easier than</p>
+<p begin="00:26:24.510" end="00:26:28.100" style="s2">we can<span style="s4"> to</span> things like<span style="s3"> electric</span> outlets</p>
+<p begin="00:26:26.370" end="00:26:30.140" style="s2"><span style="s3">even</span> though</p>
+<p begin="00:26:28.100" end="00:26:32.630" style="s2">our<span style="s3"> mental</span><span style="s4"> danger of this</span> perhaps<span style="s4"> being</span></p>
+<p begin="00:26:30.140" end="00:26:34.760" style="s2"><span style="s3">diverse so there's there's at least a</span></p>
+<p begin="00:26:32.630" end="00:26:38.299" style="s2"><span style="s4">kind of a tendency</span><span style="s3"> in</span> our<span style="s3"> nervous</span> system</p>
+<p begin="00:26:34.760" end="00:26:41.660" style="s2">to acquire fear<span style="s4"> to</span> spiders and to<span style="s3"> bared</span></p>
+<p begin="00:26:38.299" end="00:26:43.970" style="s2">teeth and snakes and<span style="s4"> to</span> fire easier than</p>
+<p begin="00:26:41.660" end="00:26:48.620" style="s2">other objects so perhaps<span style="s4"> you don't need</span></p>
+<p begin="00:26:43.970" end="00:26:50.510" style="s2">much of<span style="s4"> a underlying biological nudge to</span></p>
+<p begin="00:26:48.620" end="00:26:55.309" style="s2">ensure that<span style="s4"> a</span> certain<span style="s4"> class</span> of symbols</p>
+<p begin="00:26:50.510" end="00:26:57.230" style="s2">constantly gets regenerated<span style="s4"> so</span> we know</p>
+<p begin="00:26:55.309" end="00:27:00.860" style="s2">the<span style="s3"> dog</span><span style="s4"> the novel the</span> domain of<span style="s3"> the</span></p>
+<p begin="00:26:57.230" end="00:27:03.020" style="s2">novel has the same attributes<span style="s3"> that</span></p>
+<p begin="00:27:00.860" end="00:27:04.669" style="s2"><span style="s3">Rudolf</span><span style="s4"> our</span> seminal book<span style="s4"> in</span> the<span style="s3"> nineteen</span></p>
+<p begin="00:27:03.020" end="00:27:08.090" style="s2"><span style="s4">what</span> he's called<span style="s4"> the nature of the</span> holy</p>
+<p begin="00:27:04.669" end="00:27:10.549" style="s2">said the holy phenomena is<span style="s3"> newness</span></p>
+<p begin="00:27:08.090" end="00:27:13.250" style="s2">that's a word he coined it has two</p>
+<p begin="00:27:10.549" end="00:27:15.169" style="s2">aspects<span style="s3"> a</span> fascinating aspect and the</p>
+<p begin="00:27:13.250" end="00:27:17.390" style="s2">terrifying aspect<span style="s4"> again</span> I<span style="s3"> think</span> he's</p>
+<p begin="00:27:15.169" end="00:27:19.400" style="s2"><span style="s3">related</span> relating he's describing<span style="s4"> the</span></p>
+<p begin="00:27:17.390" end="00:27:23.150" style="s2">same sort of phenomena is that<span style="s3"> we're</span></p>
+<p begin="00:27:19.400" end="00:27:26.240" style="s2">innately compelled to orient<span style="s4"> and</span><span style="s3"> tend</span></p>
+<p begin="00:27:23.150" end="00:27:28.190" style="s2">and to<span style="s4"> consider</span> on<span style="s3"> spines</span> for that</p>
+<p begin="00:27:26.240" end="00:27:31.130" style="s2">matter<span style="s4"> any</span> sufficiently dramatic</p>
+<p begin="00:27:28.190" end="00:27:33.440" style="s2">manifestation of the novel<span style="s4"> it's</span> also the</p>
+<p begin="00:27:31.130" end="00:27:36.679" style="s2"><span style="s4">case</span><span style="s3"> that</span> it's perfectly<span style="s3"> reasonable</span> to</p>
+<p begin="00:27:33.440" end="00:27:38.600" style="s2"><span style="s4">make the presumption that</span> the world is</p>
+<p begin="00:27:36.679" end="00:27:40.250" style="s2">generated as a consequence of<span style="s4"> our</span></p>
+<p begin="00:27:38.600" end="00:27:43.669" style="s2">contact<span style="s4"> with</span> the normal<span style="s4"> information</span></p>
+<p begin="00:27:40.250" end="00:27:45.409" style="s2"><span style="s4">because</span> it<span style="s4"> is</span> that is<span style="s4"> the</span> place<span style="s4"> where</span> we</p>
+<p begin="00:27:43.669" end="00:27:48.049" style="s2">generate<span style="s4"> everything</span> that we take for</p>
+<p begin="00:27:45.409" end="00:27:50.030" style="s2"><span style="s3">granted</span><span style="s4"> including</span><span style="s3"> ourselves</span> so it</p>
+<p begin="00:27:48.049" end="00:27:52.940" style="s2"><span style="s4">strikes</span> me<span style="s4"> that</span> this is a relatively the</p>
+<p begin="00:27:50.030" end="00:27:55.370" style="s2"><span style="s4">mythological</span><span style="s3"> perspective</span> is it seems<span style="s4"> to</span></p>
+<p begin="00:27:52.940" end="00:27:57.049" style="s2">me to be<span style="s3"> a</span><span style="s4"> completely</span> coherent<span style="s3"> the</span></p>
+<p begin="00:27:55.370" end="00:27:58.309" style="s2"><span style="s3">employed</span> now people say well the fact</p>
+<p begin="00:27:57.049" end="00:28:00.140" style="s2">that<span style="s4"> something coherent doesn't make</span></p>
+<p begin="00:27:58.309" end="00:28:01.820" style="s2"><span style="s3">it's</span><span style="s4"> true</span> make it true<span style="s3"> and</span> that's</p>
+<p begin="00:28:00.140" end="00:28:03.799" style="s2">certainly<span style="s4"> the</span><span style="s3"> case</span> because paranoid</p>
+<p begin="00:28:01.820" end="00:28:07.760" style="s2">delusions<span style="s4"> are</span> coherent but theoretically</p>
+<p begin="00:28:03.799" end="00:28:09.080" style="s2"><span style="s4">they're</span> not true<span style="s4"> then</span> you have to figure</p>
+<p begin="00:28:07.760" end="00:28:11.809" style="s2"><span style="s3">out</span> what do<span style="s4"> you</span> need in<span style="s4"> addition</span> to</p>
+<p begin="00:28:09.080" end="00:28:13.490" style="s2">coherency well that's a<span style="s4"> tougher that's a</span></p>
+<p begin="00:28:11.809" end="00:28:17.770" style="s2">tougher<span style="s3"> question</span><span style="s4"> if</span> you<span style="s3"> hack the</span><span style="s4"> story</span></p>
+<p begin="00:28:13.490" end="00:28:21.760" style="s2">out and your emotions are arranged in</p>
+<p begin="00:28:17.770" end="00:28:24.409" style="s2">the manner that<span style="s4"> you</span><span style="s3"> find</span> better</p>
+<p begin="00:28:21.760" end="00:28:25.940" style="s2">subjectively<span style="s4"> than</span> they were before</p>
+<p begin="00:28:24.409" end="00:28:27.620" style="s2">would you say that<span style="s4"> that</span> would<span style="s4"> be</span></p>
+<p begin="00:28:25.940" end="00:28:30.520" style="s2"><span style="s3">evidence</span> for<span style="s4"> the</span> efficiency<span style="s3"> of</span> the story</p>
+<p begin="00:28:27.620" end="00:28:30.520" style="s2"><span style="s4">the</span> efficacy of</p>
+<p begin="00:28:33.730" end="00:28:37.640" style="s2">well I'm<span style="s4"> just</span> wondering<span style="s3"> like</span> one of the</p>
+<p begin="00:28:36.290" end="00:28:38.930" style="s2">things I've wondered<span style="s3"> about</span> constantly</p>
+<p begin="00:28:37.640" end="00:28:41.990" style="s2">when I was<span style="s4"> teaching</span> my first<span style="s3"> arrow the</span></p>
+<p begin="00:28:38.930" end="00:28:43.490" style="s2"><span style="s3">class for</span><span style="s4"> example these constant panoply</span></p>
+<p begin="00:28:41.990" end="00:28:45.740" style="s2">of different personality theories</p>
+<p begin="00:28:43.490" end="00:28:48.020" style="s2"><span style="s4">they're</span> all predicated<span style="s4"> they</span> have certain</p>
+<p begin="00:28:45.740" end="00:28:50.330" style="s2"><span style="s4">elements</span> in<span style="s4"> common</span><span style="s3"> one</span> of them being a</p>
+<p begin="00:28:48.020" end="00:28:51.830" style="s2"><span style="s3">necessity</span> to face those bits of<span style="s4"> your</span></p>
+<p begin="00:28:50.330" end="00:28:54.020" style="s2"><span style="s4">experience</span> that<span style="s3"> you</span> really can't</p>
+<p begin="00:28:51.830" end="00:28:55.370" style="s2">comprehend very well to face novelty</p>
+<p begin="00:28:54.020" end="00:28:59.360" style="s2">that's something that's really<span style="s4"> core</span> to</p>
+<p begin="00:28:55.370" end="00:29:00.770" style="s2"><span style="s4">them but they vary a lot and</span> in the</p>
+<p begin="00:28:59.360" end="00:29:04.040" style="s2">clinical<span style="s4"> literature</span> there's a fair</p>
+<p begin="00:29:00.770" end="00:29:06.140" style="s2">amount<span style="s4"> of</span><span style="s3"> evidence</span> that there isn't<span style="s4"> much</span></p>
+<p begin="00:29:04.040" end="00:29:07.400" style="s2"><span style="s4">difference</span><span style="s3"> between 1/3</span><span style="s4"> unique</span> approach</p>
+<p begin="00:29:06.140" end="00:29:10.940" style="s2"><span style="s4">and</span><span style="s3"> another</span><span style="s4"> in terms of their efficiency</span></p>
+<p begin="00:29:07.400" end="00:29:12.350" style="s2"><span style="s4">they're</span> all<span style="s4"> pretty good the only</span> thing</p>
+<p begin="00:29:10.940" end="00:29:14.000" style="s2">that's kind<span style="s4"> of</span> known<span style="s3"> for</span> sure is<span style="s3"> that</span> if</p>
+<p begin="00:29:12.350" end="00:29:15.620" style="s2">you're an eclectic<span style="s4"> psychotherapist</span> and</p>
+<p begin="00:29:14.000" end="00:29:17.210" style="s2"><span style="s4">you</span> sort<span style="s3"> of</span> pick<span style="s4"> and choose you don't do</span></p>
+<p begin="00:29:15.620" end="00:29:18.590" style="s2">as<span style="s3"> well</span> as you do if you're committed<span style="s3"> to</span></p>
+<p begin="00:29:17.210" end="00:29:20.630" style="s2">one particular<span style="s4"> model even though</span> it</p>
+<p begin="00:29:18.590" end="00:29:22.190" style="s2">doesn't<span style="s4"> matter</span> what the model is so then</p>
+<p begin="00:29:20.630" end="00:29:23.960" style="s2">it struck<span style="s3"> me</span> that<span style="s4"> well</span> perhaps<span style="s4"> the</span></p>
+<p begin="00:29:22.190" end="00:29:25.520" style="s2">reason<span style="s4"> for</span> this<span style="s4"> is</span> that if<span style="s4"> you</span> go<span style="s4"> into</span></p>
+<p begin="00:29:23.960" end="00:29:27.350" style="s2">therapy<span style="s4"> you</span><span style="s3"> have</span> an incoherent story</p>
+<p begin="00:29:25.520" end="00:29:28.970" style="s2"><span style="s4">which</span><span style="s3"> basically</span> means<span style="s4"> you</span> don't<span style="s4"> know</span></p>
+<p begin="00:29:27.350" end="00:29:30.590" style="s2">what<span style="s4"> direction to go</span><span style="s3"> in</span><span style="s4"> your</span> goals</p>
+<p begin="00:29:28.970" end="00:29:32.480" style="s2">aren't<span style="s4"> set</span> very well you don't<span style="s4"> have</span> a</p>
+<p begin="00:29:30.590" end="00:29:34.820" style="s2">good<span style="s4"> definition</span> of yourself<span style="s4"> that</span> means</p>
+<p begin="00:29:32.480" end="00:29:36.740" style="s2"><span style="s4">your</span> emotions are dysregulated<span style="s4"> if I give</span></p>
+<p begin="00:29:34.820" end="00:29:39.290" style="s2">you a story<span style="s4"> that's</span> coherent that's an</p>
+<p begin="00:29:36.740" end="00:29:40.610" style="s2">improvement<span style="s4"> just the fact that it's</span></p>
+<p begin="00:29:39.290" end="00:29:43.520" style="s2">coherent is an improvement<span style="s4"> over</span> your</p>
+<p begin="00:29:40.610" end="00:29:44.720" style="s2">incoherent story<span style="s3"> maybe</span> there's other the</p>
+<p begin="00:29:43.520" end="00:29:47.840" style="s2">other<span style="s3"> than</span> the<span style="s4"> next</span> thing to do<span style="s3"> would be</span></p>
+<p begin="00:29:44.720" end="00:29:52.370" style="s2"><span style="s3">to specify what else you need from the</span></p>
+<p begin="00:29:47.840" end="00:29:54.230" style="s2">story other than<span style="s4"> coherence</span> so<span style="s3"> what</span> I'm</p>
+<p begin="00:29:52.370" end="00:29:57.350" style="s2"><span style="s3">wondering</span><span style="s4"> is</span> like we would<span style="s4"> say</span> that</p>
+<p begin="00:29:54.230" end="00:30:00.200" style="s2"><span style="s4">therapy</span> is<span style="s4"> effective</span> when the client</p>
+<p begin="00:29:57.350" end="00:30:01.790" style="s2">says I'm better and<span style="s4"> when</span> the<span style="s3"> club</span> or</p>
+<p begin="00:30:00.200" end="00:30:03.560" style="s2">when the therapist says you're better or</p>
+<p begin="00:30:01.790" end="00:30:05.330" style="s2">when both do or when some other people</p>
+<p begin="00:30:03.560" end="00:30:08.630" style="s2">do but the point is it still it's still</p>
+<p begin="00:30:05.330" end="00:30:11.570" style="s2">based on well when<span style="s4"> the</span> client says I'm</p>
+<p begin="00:30:08.630" end="00:30:13.310" style="s2">better<span style="s4"> usually</span> what they mean is I'm<span style="s3"> not</span></p>
+<p begin="00:30:11.570" end="00:30:15.740" style="s2"><span style="s4">going</span> to commit<span style="s3"> suicide now so I'm going</span></p>
+<p begin="00:30:13.310" end="00:30:17.630" style="s2">to depressed<span style="s3"> I</span> may be somewhat anxious</p>
+<p begin="00:30:15.740" end="00:30:19.130" style="s2"><span style="s4">but</span> I think I can handle<span style="s4"> it or and I'm</span></p>
+<p begin="00:30:17.630" end="00:30:20.960" style="s2">nowhere near<span style="s4"> as</span> anxious as I used to<span style="s4"> be</span></p>
+<p begin="00:30:19.130" end="00:30:21.740" style="s2">so<span style="s3"> negative</span> emotion<span style="s3"> is being brought</span></p>
+<p begin="00:30:20.960" end="00:30:24.950" style="s2">under<span style="s3"> control</span></p>
+<p begin="00:30:21.740" end="00:30:27.380" style="s2">I'm hopeful<span style="s3"> about</span> the future<span style="s4"> and</span> I can</p>
+<p begin="00:30:24.950" end="00:30:28.790" style="s2">see<span style="s4"> that</span> life might<span style="s4"> be</span> satisfied that</p>
+<p begin="00:30:27.380" end="00:30:31.120" style="s2"><span style="s4">means</span> their emotions have been<span style="s4"> regulated</span></p>
+<p begin="00:30:28.790" end="00:30:33.680" style="s2"><span style="s3">and that's what a coherent story does</span></p>
+<p begin="00:30:31.120" end="00:30:34.300" style="s2">since stories are about<span style="s4"> patterns</span> of</p>
+<p begin="00:30:33.680" end="00:30:37.000" style="s2"><span style="s4">action</span></p>
+<p begin="00:30:34.300" end="00:30:38.410" style="s2">adaptive that<span style="s4"> me well that means a</span></p>
+<p begin="00:30:37.000" end="00:30:40.030" style="s2">certain<span style="s4"> motive</span> sense because we were</p>
+<p begin="00:30:38.410" end="00:30:42.280" style="s2">acting on the environment what we're</p>
+<p begin="00:30:40.030" end="00:30:44.170" style="s2">trying<span style="s4"> to</span> do is to transform<span style="s3"> it</span><span style="s4"> into</span> a</p>
+<p begin="00:30:42.280" end="00:30:46.570" style="s2">place where our emotions are optimally</p>
+<p begin="00:30:44.170" end="00:30:49.330" style="s2">balanced<span style="s4"> where</span> we're not subjected to</p>
+<p begin="00:30:46.570" end="00:30:54.090" style="s2">pain<span style="s4"> or</span> anxiety<span style="s3"> where</span> we have hope<span style="s3"> for</span></p>
+<p begin="00:30:49.330" end="00:30:54.090" style="s2"><span style="s4">the</span> future<span style="s4"> where</span><span style="s3"> we like the satisfying</span></p>
+<p begin="00:30:54.900" end="00:31:02.290" style="s2">story<span style="s4"> should</span> also be<span style="s4"> relatively</span> stable</p>
+<p begin="00:30:59.470" end="00:31:04.750" style="s2"><span style="s3">well</span> it has<span style="s4"> to</span> have<span style="s3"> two</span> aspects<span style="s3"> it</span> has</p>
+<p begin="00:31:02.290" end="00:31:06.550" style="s2">to be stable<span style="s3"> but</span> it also has<span style="s4"> it</span> has to</p>
+<p begin="00:31:04.750" end="00:31:08.830" style="s2">have the capacity<span style="s3"> to</span> update itself<span style="s4"> with</span></p>
+<p begin="00:31:06.550" end="00:31:10.750" style="s2">stability<span style="s4"> that's</span> right that's<span style="s4"> right</span><span style="s3"> so</span></p>
+<p begin="00:31:08.830" end="00:31:13.450" style="s2">the best story is a<span style="s4"> story</span> about how<span style="s3"> to</span></p>
+<p begin="00:31:10.750" end="00:31:25.780" style="s2">update stories when that's necessary<span style="s3"> and</span></p>
+<p begin="00:31:13.450" end="00:31:27.400" style="s2">that's<span style="s4"> the story of the hero no I would</span></p>
+<p begin="00:31:25.780" end="00:31:30.100" style="s2">say<span style="s3"> actually</span> the to the degree that<span style="s4"> a</span></p>
+<p begin="00:31:27.400" end="00:31:32.470" style="s2">therapy is effective<span style="s4"> it</span> acts that out</p>
+<p begin="00:31:30.100" end="00:31:34.660" style="s2"><span style="s4">because</span><span style="s3"> for</span><span style="s4"> example in one of</span><span style="s3"> the</span> most</p>
+<p begin="00:31:32.470" end="00:31:36.880" style="s2">effective behavior therapy techniques is</p>
+<p begin="00:31:34.660" end="00:31:38.680" style="s2">exposure so to speak and what's explore</p>
+<p begin="00:31:36.880" end="00:31:41.260" style="s2">what exposure is supposed<span style="s4"> to</span> do is is</p>
+<p begin="00:31:38.680" end="00:31:43.570" style="s2">produce a situation which<span style="s3"> is</span> wrong<span style="s4"> that</span></p>
+<p begin="00:31:41.260" end="00:31:45.910" style="s2"><span style="s4">isn't</span> one exposure does if you like if</p>
+<p begin="00:31:43.570" end="00:31:48.550" style="s2">someone's afraid<span style="s3"> of</span> getting into<span style="s4"> an</span></p>
+<p begin="00:31:45.910" end="00:31:51.310" style="s2">elevator<span style="s3"> what</span> you do is teach them</p>
+<p begin="00:31:48.550" end="00:31:52.810" style="s2">behavioral strategies to<span style="s3"> transform</span> that</p>
+<p begin="00:31:51.310" end="00:31:55.290" style="s2">elevator into something that's<span style="s4"> positive</span></p>
+<p begin="00:31:52.810" end="00:31:57.970" style="s2"><span style="s4">it</span> looks like a bitch ooh a<span style="s3"> ssin</span> because</p>
+<p begin="00:31:55.290" end="00:32:00.040" style="s2">because mostly what<span style="s3"> they</span> do is model you</p>
+<p begin="00:31:57.970" end="00:32:01.870" style="s2">but that's still what you're doing<span style="s3"> like</span></p>
+<p begin="00:32:00.040" end="00:32:03.280" style="s2">you don't<span style="s4"> have</span> it you<span style="s3"> ate</span> to think you</p>
+<p begin="00:32:01.870" end="00:32:04.750" style="s2"><span style="s3">don't</span><span style="s4"> even have bitumen</span> to the unknown</p>
+<p begin="00:32:03.280" end="00:32:06.760" style="s2">what you do is explore it<span style="s4"> and</span> classify</p>
+<p begin="00:32:04.750" end="00:32:08.440" style="s2"><span style="s3">them it's just that our experimental</span></p>
+<p begin="00:32:06.760" end="00:32:11.200" style="s2"><span style="s4">procedures</span> have been<span style="s4"> really</span> important</p>
+<p begin="00:32:08.440" end="00:32:14.140" style="s2">constraint<span style="s4"> I</span> think so<span style="s4"> they're</span> trivial<span style="s4"> if</span></p>
+<p begin="00:32:11.200" end="00:32:20.020" style="s2">I<span style="s3"> here</span> in the lab and I play you a</p>
+<p begin="00:32:14.140" end="00:32:21.520" style="s2">hundred<span style="s4"> tones</span> that<span style="s3"> are</span> the same and if I</p>
+<p begin="00:32:20.020" end="00:32:23.620" style="s2">keep playing it over and<span style="s4"> over your</span></p>
+<p begin="00:32:21.520" end="00:32:25.750" style="s2">anything responsive go away and then I</p>
+<p begin="00:32:23.620" end="00:32:28.000" style="s2">would say well<span style="s3"> you</span> the<span style="s4"> bitumen</span><span style="s3"> is</span> not</p>
+<p begin="00:32:25.750" end="00:32:30.310" style="s2">true what you've done is classified<span style="s4"> that</span></p>
+<p begin="00:32:28.000" end="00:32:32.290" style="s2"><span style="s3">the</span> tone as meaningless through</p>
+<p begin="00:32:30.310" end="00:32:33.460" style="s2">exploration<span style="s3"> of</span> its properties and you</p>
+<p begin="00:32:32.290" end="00:32:35.470" style="s2">have to be<span style="s4"> sitting</span> there so your</p>
+<p begin="00:32:33.460" end="00:32:39.640" style="s2">exploration is really constrained<span style="s3"> that's</span></p>
+<p begin="00:32:35.470" end="00:32:41.350" style="s2">still what<span style="s3"> you do so I would</span> say<span style="s4"> like an</span></p>
+<p begin="00:32:39.640" end="00:32:42.410" style="s2"><span style="s4">answer to your question</span> is to<span style="s3"> the</span> degree</p>
+<p begin="00:32:41.350" end="00:32:46.730" style="s2"><span style="s3">that</span> if there</p>
+<p begin="00:32:42.410" end="00:32:48.740" style="s2">peuta doctrine is implicitly or</p>
+<p begin="00:32:46.730" end="00:32:50.690" style="s2">explicitly modeled on this story<span style="s4"> it</span></p>
+<p begin="00:32:48.740" end="00:32:53.300" style="s2">works<span style="s4"> to the degree</span> that<span style="s4"> it</span> isn't it</p>
+<p begin="00:32:50.690" end="00:32:56.050" style="s2"><span style="s4">doesn't</span> we know like one<span style="s3"> of</span> the major</p>
+<p begin="00:32:53.300" end="00:32:59.930" style="s2"><span style="s4">factors</span> in promoting<span style="s4"> therapeutic</span></p>
+<p begin="00:32:56.050" end="00:33:03.950" style="s2">improvement is exposure to threatening</p>
+<p begin="00:32:59.930" end="00:33:06.440" style="s2"><span style="s3">or</span> and almost information so Freud</p>
+<p begin="00:33:03.950" end="00:33:08.690" style="s2">thought<span style="s4"> something</span> terrible's happened to</p>
+<p begin="00:33:06.440" end="00:33:09.980" style="s2">you in the past that's<span style="s4"> trauma right so</span></p>
+<p begin="00:33:08.690" end="00:33:12.290" style="s2">that's<span style="s4"> an event that you can't</span><span style="s3"> make</span></p>
+<p begin="00:33:09.980" end="00:33:13.790" style="s2"><span style="s4">sense</span> of fright you know it's hard<span style="s4"> to</span></p>
+<p begin="00:33:12.290" end="00:33:14.480" style="s2"><span style="s4">define</span> trauma but we'll just<span style="s3"> leave it</span><span style="s4"> at</span></p>
+<p begin="00:33:13.790" end="00:33:15.830" style="s2">that for now</p>
+<p begin="00:33:14.480" end="00:33:17.060" style="s2">Freud originally thought that<span style="s4"> all</span> you</p>
+<p begin="00:33:15.830" end="00:33:18.920" style="s2">have<span style="s4"> do</span> is<span style="s4"> bring</span><span style="s3"> that</span> traumatic</p>
+<p begin="00:33:17.060" end="00:33:21.500" style="s2">experience up into<span style="s4"> consciousness</span> that</p>
+<p begin="00:33:18.920" end="00:33:22.850" style="s2"><span style="s4">was</span> catharsis<span style="s3"> he'd</span> be cured<span style="s4"> but</span> he knew</p>
+<p begin="00:33:21.500" end="00:33:24.980" style="s2">by the end of<span style="s4"> his life that that did</span></p>
+<p begin="00:33:22.850" end="00:33:26.090" style="s2">work<span style="s4"> behavior</span> therapists<span style="s4"> have</span> said no<span style="s4"> no</span></p>
+<p begin="00:33:24.980" end="00:33:30.230" style="s2">you have<span style="s4"> to</span> be more<span style="s4"> that</span> you have<span style="s3"> to</span></p>
+<p begin="00:33:26.090" end="00:33:31.730" style="s2">adjust someone's actions<span style="s4"> so</span> that's the</p>
+<p begin="00:33:30.230" end="00:33:34.190" style="s2"><span style="s4">things if what if they're</span> at what a</p>
+<p begin="00:33:31.730" end="00:33:36.020" style="s2">therapeutic system does is expose you to</p>
+<p begin="00:33:34.190" end="00:33:38.180" style="s2">anomalous or threatening information and</p>
+<p begin="00:33:36.020" end="00:33:39.950" style="s2">make you readjust<span style="s4"> your</span> behavior as a</p>
+<p begin="00:33:38.180" end="00:33:42.590" style="s2">consequence<span style="s4"> to</span> the degree that you do</p>
+<p begin="00:33:39.950" end="00:33:47.450" style="s2">that<span style="s3"> your cure if you won't do it your</span></p>
+<p begin="00:33:42.590" end="00:33:49.640" style="s2"><span style="s3">knowing</span> how<span style="s4"> does I don't</span> understand how</p>
+<p begin="00:33:47.450" end="00:33:52.430" style="s2"><span style="s3">no bitching isn't with you</span><span style="s4"> or</span> you just</p>
+<p begin="00:33:49.640" end="00:33:54.890" style="s2"><span style="s4">subscribe</span><span style="s3"> explore you're getting used</span><span style="s4"> to</span></p>
+<p begin="00:33:52.430" end="00:33:56.780" style="s2">it<span style="s4"> well</span> have<span style="s3"> it</span><span style="s4"> well</span> habituation usually</p>
+<p begin="00:33:54.890" end="00:33:58.220" style="s2">means something<span style="s3"> like</span> getting used to<span style="s4"> but</span></p>
+<p begin="00:33:56.780" end="00:34:00.830" style="s2">most<span style="s3"> of</span> the time when you encounter<span style="s4"> but</span></p>
+<p begin="00:33:58.220" end="00:34:02.090" style="s2">you don't just habituate to<span style="s4"> anomalous</span> or</p>
+<p begin="00:34:00.830" end="00:34:04.010" style="s2"><span style="s4">threatening</span> information if you're</p>
+<p begin="00:34:02.090" end="00:34:05.810" style="s2"><span style="s3">getting</span> pounded<span style="s4"> slot</span> every day you go<span style="s3"> to</span></p>
+<p begin="00:34:04.010" end="00:34:08.030" style="s2"><span style="s3">school</span> saying<span style="s4"> you're</span> a child<span style="s3"> you did not</span></p>
+<p begin="00:34:05.810" end="00:34:09.860" style="s2"><span style="s4">have</span> it you<span style="s4"> ate to that the only way</span></p>
+<p begin="00:34:08.030" end="00:34:11.840" style="s2">that you can<span style="s4"> get</span> used to<span style="s4"> it</span><span style="s3"> so</span> to speak</p>
+<p begin="00:34:09.860" end="00:34:13.910" style="s2"><span style="s4">is to alter your behaviors</span> or your</p>
+<p begin="00:34:11.840" end="00:34:15.980" style="s2"><span style="s3">schema</span><span style="s4"> of</span> representation<span style="s4"> so</span> that that</p>
+<p begin="00:34:13.910" end="00:34:17.630" style="s2">bullying is no longer pounding on you<span style="s3"> so</span></p>
+<p begin="00:34:15.980" end="00:34:19.100" style="s2"><span style="s4">that</span> means you might<span style="s4"> have</span><span style="s3"> to</span> I<span style="s4"> don't</span></p>
+<p begin="00:34:17.630" end="00:34:21.830" style="s2">know what do you have to do take karate</p>
+<p begin="00:34:19.100" end="00:34:23.750" style="s2">lessons<span style="s3"> weight-lift get a new</span><span style="s4"> group</span> of</p>
+<p begin="00:34:21.830" end="00:34:26.300" style="s2">tougher friends<span style="s4"> bring</span> a knife to<span style="s3"> school</span></p>
+<p begin="00:34:23.750" end="00:34:29.090" style="s2">something<span style="s3"> but</span> until<span style="s4"> you</span> transform the</p>
+<p begin="00:34:26.300" end="00:34:30.620" style="s2">source of the threat<span style="s3"> then</span> what you're</p>
+<p begin="00:34:29.090" end="00:34:32.540" style="s2"><span style="s4">not</span> gonna<span style="s3"> have issues you</span><span style="s4"> don't get used</span></p>
+<p begin="00:34:30.620" end="00:34:33.710" style="s2">to<span style="s3"> it</span><span style="s4"> you'd</span> like<span style="s4"> to</span> turn it into</p>
+<p begin="00:34:32.540" end="00:34:35.300" style="s2">something<span style="s3"> positive</span> but<span style="s3"> you</span><span style="s4"> don't</span></p>
+<p begin="00:34:33.710" end="00:34:36.120" style="s2">necessarily turn into pots<span style="s4"> any</span> father</p>
+<p begin="00:34:35.300" end="00:34:39.930" style="s2"><span style="s4">could</span></p>
+<p begin="00:34:36.120" end="00:34:42.660" style="s2"><span style="s3">and</span> if you're bad<span style="s4"> that's right yeah</span></p>
+<p begin="00:34:39.930" end="00:34:44.190" style="s2"><span style="s3">neutrals</span><span style="s4"> not</span> so bad but<span style="s4"> it's</span><span style="s3"> not</span> as good</p>
+<p begin="00:34:42.660" end="00:34:46.620" style="s2"><span style="s3">as</span> positive<span style="s4"> so</span> if you're really</p>
+<p begin="00:34:44.190" end="00:34:48.570" style="s2"><span style="s4">successful</span><span style="s3"> it's</span><span style="s4"> one</span> if it's one thing<span style="s3"> to</span></p>
+<p begin="00:34:46.620" end="00:34:50.070" style="s2">chase the dragon<span style="s3"> away it's another</span><span style="s4"> thing</span></p>
+<p begin="00:34:48.570" end="00:34:52.620" style="s2"><span style="s4">to get the gold if</span> you're really</p>
+<p begin="00:34:50.070" end="00:34:54.140" style="s2"><span style="s4">successful</span><span style="s3"> you</span> get<span style="s4"> the</span> gold<span style="s4"> chasing</span><span style="s3"> the</span></p>
+<p begin="00:34:52.620" end="00:34:57.890" style="s2">dragon ways that's not so bad</p>
+<p begin="00:34:54.140" end="00:34:57.890" style="s2">that's usually<span style="s4"> what we do</span></p>
+<p begin="00:35:12.370" end="00:35:20.390" style="s2">right so<span style="s4"> that would be the patient that</span></p>
+<p begin="00:35:18.500" end="00:35:22.820" style="s2">was that was<span style="s3"> Young's</span> interpretation of</p>
+<p begin="00:35:20.390" end="00:35:24.860" style="s2">transference said because he<span style="s4"> thought</span></p>
+<p begin="00:35:22.820" end="00:35:30.680" style="s2"><span style="s3">that</span> he thought in fact<span style="s3"> the</span> therapy<span style="s3"> was</span></p>
+<p begin="00:35:24.860" end="00:35:31.820" style="s2"><span style="s4">a</span> ritual and the first<span style="s4"> the</span> first he</p>
+<p begin="00:35:30.680" end="00:35:36.230" style="s2">thought<span style="s4"> that</span> what therapy<span style="s4"> it</span> was</p>
+<p begin="00:35:31.820" end="00:35:39.080" style="s2">basically<span style="s3"> initiated</span> a sequence of</p>
+<p begin="00:35:36.230" end="00:35:42.260" style="s2">activities that were biologically</p>
+<p begin="00:35:39.080" end="00:35:44.900" style="s2">predicated and that our capacity<span style="s3"> to</span></p>
+<p begin="00:35:42.260" end="00:35:46.970" style="s2"><span style="s3">hero-worship</span> was one of the things<span style="s4"> that</span></p>
+<p begin="00:35:44.900" end="00:35:48.200" style="s2"><span style="s4">led our adaptational</span><span style="s3"> solely</span><span style="s4"> the</span> thing</p>
+<p begin="00:35:46.970" end="00:35:49.910" style="s2"><span style="s4">you</span> think<span style="s4"> about</span><span style="s3"> this</span> I mean<span style="s3"> you</span> know the</p>
+<p begin="00:35:48.200" end="00:35:53.120" style="s2"><span style="s4">children</span> will will<span style="s3"> hero-worship</span> they'll</p>
+<p begin="00:35:49.910" end="00:35:54.710" style="s2">imitate they'll imitate their parents or</p>
+<p begin="00:35:53.120" end="00:35:56.870" style="s2">they'll pick us child who's<span style="s3"> slightly</span></p>
+<p begin="00:35:54.710" end="00:35:58.460" style="s2">older<span style="s4"> and</span> act them<span style="s4"> up</span> literally<span style="s3"> follow</span></p>
+<p begin="00:35:56.870" end="00:36:02.900" style="s2">them around<span style="s4"> and</span> duplicate their actions</p>
+<p begin="00:35:58.460" end="00:36:05.630" style="s2">say they their capacity<span style="s3"> for</span><span style="s4"> awe drives</span></p>
+<p begin="00:36:02.900" end="00:36:06.890" style="s2">their ability to<span style="s3"> move</span> behavioral</p>
+<p begin="00:36:05.630" end="00:36:08.600" style="s2">information<span style="s3"> from</span> one place<span style="s3"> to</span><span style="s4"> another</span></p>
+<p begin="00:36:06.890" end="00:36:10.730" style="s2"><span style="s4">well young just thought he'd be</span></p>
+<p begin="00:36:08.600" end="00:36:12.800" style="s2">activated that therapy so<span style="s3"> that</span> the</p>
+<p begin="00:36:10.730" end="00:36:15.970" style="s2">person<span style="s4"> would</span> regard the therapist as</p>
+<p begin="00:36:12.800" end="00:36:18.980" style="s2">well for all intents and purposes<span style="s3"> God</span></p>
+<p begin="00:36:15.970" end="00:36:20.930" style="s2"><span style="s4">that</span> was all right<span style="s4"> in</span> a sense because<span style="s3"> it</span></p>
+<p begin="00:36:18.980" end="00:36:23.810" style="s2">could it provided some emotional</p>
+<p begin="00:36:20.930" end="00:36:26.240" style="s2">dynamism<span style="s3"> to keep the therapy going</span></p>
+<p begin="00:36:23.810" end="00:36:30.380" style="s2"><span style="s4">forward</span> in the face<span style="s4"> of tremendous amount</span></p>
+<p begin="00:36:26.240" end="00:36:31.730" style="s2">of threat because you need you need</p>
+<p begin="00:36:30.380" end="00:36:34.070" style="s2">something<span style="s3"> that</span> you<span style="s4"> didn't already have</span></p>
+<p begin="00:36:31.730" end="00:36:37.100" style="s2">to overcome<span style="s4"> to threats that</span><span style="s3"> you</span> couldn't</p>
+<p begin="00:36:34.070" end="00:36:39.410" style="s2"><span style="s4">cope</span> with<span style="s4"> before and then you presume</span></p>
+<p begin="00:36:37.100" end="00:36:42.200" style="s2"><span style="s3">that</span><span style="s4"> once he died in the dream that</span></p>
+<p begin="00:36:39.410" end="00:36:46.190" style="s2">meant that the thing<span style="s4"> that</span> the therapist</p>
+<p begin="00:36:42.200" end="00:36:47.660" style="s2">thought he was had<span style="s4"> being</span> read absorbed</p>
+<p begin="00:36:46.190" end="00:36:49.340" style="s2">so to speak into the person so the</p>
+<p begin="00:36:47.660" end="00:36:51.250" style="s2">person knew that what they<span style="s3"> had</span> put out</p>
+<p begin="00:36:49.340" end="00:36:54.260" style="s2">there was<span style="s4"> actually</span> attributed<span style="s4"> himself</span></p>
+<p begin="00:36:51.250" end="00:36:56.770" style="s2"><span style="s4">but not them personally but of</span> humanity</p>
+<p begin="00:36:54.260" end="00:36:56.770" style="s2">in<span style="s3"> general</span></p>
+<p begin="00:36:57.970" end="00:37:02.260" style="s2">story<span style="s4"> then</span> the therapist would<span style="s4"> be</span></p>
+<p begin="00:37:00.580" end="00:37:05.830" style="s2">incentive of<span style="s4"> the</span> story<span style="s3"> and</span> therefore the</p>
+<p begin="00:37:02.260" end="00:37:08.950" style="s2">king and the<span style="s4"> hero</span> process would result</p>
+<p begin="00:37:05.830" end="00:37:15.970" style="s2">in the death of the<span style="s3"> king</span> as the<span style="s3"> crutch</span></p>
+<p begin="00:37:08.950" end="00:37:17.890" style="s2">story the crutch story you mean to<span style="s4"> get</span></p>
+<p begin="00:37:15.970" end="00:37:21.760" style="s2">to get you through<span style="s4"> this</span> story<span style="s4"> there's</span></p>
+<p begin="00:37:17.890" end="00:37:23.200" style="s2">providing yes yeah that's<span style="s4"> right</span> well</p>
+<p begin="00:37:21.760" end="00:37:29.080" style="s2">that next so the dreams is a</p>
+<p begin="00:37:23.200" end="00:37:29.770" style="s2">representation of<span style="s4"> the</span> story<span style="s4"> right</span> right</p>
+<p begin="00:37:29.080" end="00:37:32.590" style="s2"><span style="s4">exactly</span></p>
+<p begin="00:37:29.770" end="00:37:34.090" style="s2">speaking of which I'm going<span style="s4"> to</span> I want<span style="s3"> to</span></p>
+<p begin="00:37:32.590" end="00:37:35.650" style="s2"><span style="s4">show</span> you some images it's better to show</p>
+<p begin="00:37:34.090" end="00:37:38.170" style="s2">this<span style="s3"> in</span> images you guys can read the</p>
+<p begin="00:37:35.650" end="00:37:39.700" style="s2">manuscript<span style="s3"> you can that I'll answer your</span></p>
+<p begin="00:37:38.170" end="00:37:41.440" style="s2">questions<span style="s3"> too</span> I want to show you this</p>
+<p begin="00:37:39.700" end="00:37:43.240" style="s2">one in particular<span style="s3"> just</span> so you can keep</p>
+<p begin="00:37:41.440" end="00:37:45.010" style="s2">it in mind<span style="s4"> this</span> is an image<span style="s4"> of the</span></p>
+<p begin="00:37:43.240" end="00:37:47.560" style="s2">positive feminine by the way green<span style="s4"> Tara</span></p>
+<p begin="00:37:45.010" end="00:37:50.260" style="s2"><span style="s4">from</span> Tibet<span style="s4"> this</span> is what sorry that's not</p>
+<p begin="00:37:47.560" end="00:37:51.280" style="s2">very<span style="s4"> focused this is a Mandela</span><span style="s3"> you</span> have</p>
+<p begin="00:37:50.260" end="00:37:53.410" style="s2">to take my word<span style="s4"> for it</span></p>
+<p begin="00:37:51.280" end="00:37:55.840" style="s2">seen<span style="s3"> from</span><span style="s4"> the</span> side<span style="s4"> instead</span> of<span style="s4"> from</span><span style="s3"> the</span></p>
+<p begin="00:37:53.410" end="00:37:57.460" style="s2">top usually the<span style="s4"> Mandela's</span> it's a square</p>
+<p begin="00:37:55.840" end="00:37:58.540" style="s2">that has<span style="s3"> a</span><span style="s4"> circle</span> inscribed it's divided</p>
+<p begin="00:37:57.460" end="00:38:00.640" style="s2">into four<span style="s3"> parts</span> you see<span style="s4"> them</span> in</p>
+<p begin="00:37:58.540" end="00:38:03.369" style="s2">wallpaper<span style="s4"> and</span> on<span style="s4"> dogs</span> and all<span style="s4"> over</span> the</p>
+<p begin="00:38:00.640" end="00:38:04.780" style="s2">place anyways this is one that if you</p>
+<p begin="00:38:03.369" end="00:38:06.310" style="s2">look at<span style="s3"> this</span><span style="s4"> from the</span><span style="s3"> top</span> it<span style="s4"> would</span> be<span style="s4"> an</span></p>
+<p begin="00:38:04.780" end="00:38:07.180" style="s2"><span style="s4">end out you can see the square here in</span></p>
+<p begin="00:38:06.310" end="00:38:09.550" style="s2">the circle</p>
+<p begin="00:38:07.180" end="00:38:11.349" style="s2">anyways that's Tara<span style="s4"> she's</span> a positive</p>
+<p begin="00:38:09.550" end="00:38:13.720" style="s2"><span style="s4">image</span> of the feminine<span style="s4"> she's</span> in this</p>
+<p begin="00:38:11.349" end="00:38:18.700" style="s2"><span style="s4">thing</span> of<span style="s3"> fire</span><span style="s4"> in</span> here<span style="s4"> actually</span><span style="s3"> nice</span></p>
+<p begin="00:38:13.720" end="00:38:21.670" style="s2"><span style="s4">trees</span><span style="s3"> thing</span> that's interesting about</p>
+<p begin="00:38:18.700" end="00:38:25.210" style="s2"><span style="s3">Madison</span> there's a whole creation<span style="s4"> myth</span> in</p>
+<p begin="00:38:21.670" end="00:38:27.190" style="s2"><span style="s4">this</span> little in this<span style="s3"> Little Miss little</span></p>
+<p begin="00:38:25.210" end="00:38:29.470" style="s2"><span style="s4">statue</span><span style="s3"> that's</span><span style="s4"> a</span> turtle<span style="s3"> that's</span><span style="s4"> the</span> turtle</p>
+<p begin="00:38:27.190" end="00:38:32.260" style="s2"><span style="s4">on which the earth</span> rests now that comes</p>
+<p begin="00:38:29.470" end="00:38:33.820" style="s2"><span style="s4">these</span> two dragons<span style="s4"> we</span> should know a</p>
+<p begin="00:38:32.260" end="00:38:34.630" style="s2">little<span style="s3"> bit about you should</span><span style="s4"> be</span> able to</p>
+<p begin="00:38:33.820" end="00:38:37.990" style="s2"><span style="s4">see</span></p>
+<p begin="00:38:34.630" end="00:38:38.440" style="s2">it's<span style="s3"> the</span> creation anyway she pops up at</p>
+<p begin="00:38:37.990" end="00:38:40.450" style="s2"><span style="s4">the</span> end</p>
+<p begin="00:38:38.440" end="00:38:44.140" style="s2">she's an image of higher consciousness</p>
+<p begin="00:38:40.450" end="00:38:46.509" style="s2">as well anyways the thing<span style="s3"> I wanted to</span></p>
+<p begin="00:38:44.140" end="00:38:48.579" style="s2">keep in<span style="s4"> mind is to serve</span><span style="s3"> to</span> serpent-like</p>
+<p begin="00:38:46.509" end="00:38:52.299" style="s2">things but a<span style="s4"> company</span> here<span style="s3"> I</span> want<span style="s4"> to</span> show</p>
+<p begin="00:38:48.579" end="00:38:54.220" style="s2">you some Disney animation right<span style="s4"> now</span> and</p>
+<p begin="00:38:52.299" end="00:38:56.799" style="s2"><span style="s4">this</span> is party dancer or to address<span style="s4"> your</span></p>
+<p begin="00:38:54.220" end="00:38:59.140" style="s2">question in part I mean you said you</p>
+<p begin="00:38:56.799" end="00:39:01.240" style="s2">know do these<span style="s3"> images</span> pop up are they</p>
+<p begin="00:38:59.140" end="00:39:03.460" style="s2">transmitted I don't have a clue<span style="s3"> but</span><span style="s4"> I'll</span></p>
+<p begin="00:39:01.240" end="00:39:09.069" style="s2">show you some<span style="s4"> of</span> them this<span style="s3"> is a really</span></p>
+<p begin="00:39:03.460" end="00:39:12.519" style="s2">funny one<span style="s4"> this</span> is from the rescuers this</p>
+<p begin="00:39:09.069" end="00:39:15.190" style="s2"><span style="s4">horrible female gets this little girl</span></p>
+<p begin="00:39:12.519" end="00:39:16.900" style="s2"><span style="s3">over</span><span style="s4"> the</span><span style="s3"> nor</span> footage<span style="s3"> and</span> she wants<span style="s3"> to</span></p>
+<p begin="00:39:15.190" end="00:39:20.680" style="s2">lower down a whale and in the whale</p>
+<p begin="00:39:16.900" end="00:39:24.789" style="s2">there's a diamond<span style="s3"> in</span><span style="s4"> a</span><span style="s3"> scallop</span> which<span style="s3"> is</span></p>
+<p begin="00:39:20.680" end="00:39:29.289" style="s2">an alchemical image by the<span style="s4"> way she lives</span></p>
+<p begin="00:39:24.789" end="00:39:32.289" style="s2">in a swamp<span style="s4"> in</span> a rowboat<span style="s3"> the</span> swamp is a</p>
+<p begin="00:39:29.289" end="00:39:34.839" style="s2">is a favorite place for creatures of the</p>
+<p begin="00:39:32.289" end="00:39:36.400" style="s2">night in fairy tales of myths<span style="s3"> and</span> that's</p>
+<p begin="00:39:34.839" end="00:39:39.130" style="s2">because the swamp is a place<span style="s4"> where</span> death</p>
+<p begin="00:39:36.400" end="00:39:40.630" style="s2"><span style="s4">has</span> transformed into life sorry<span style="s4"> swamp</span> is</p>
+<p begin="00:39:39.130" end="00:39:42.009" style="s2">eerie<span style="s4"> because</span> things are<span style="s4"> dying</span> and</p>
+<p begin="00:39:40.630" end="00:39:44.519" style="s2"><span style="s4">rotting there all the time</span><span style="s3"> but</span> it's also</p>
+<p begin="00:39:42.009" end="00:39:48.160" style="s2">a place<span style="s3"> where</span><span style="s4"> there's</span> a<span style="s4"> lot of action</span> so</p>
+<p begin="00:39:44.519" end="00:39:51.490" style="s2">anyways she's in the swamp<span style="s4"> I'm</span> going to</p>
+<p begin="00:39:48.160" end="00:39:55.319" style="s2">show<span style="s3"> you</span> very<span style="s4"> short clips on</span> this this</p>
+<p begin="00:39:51.490" end="00:39:55.319" style="s2"><span style="s3">is more comical than anything else but</span></p>
+<p begin="00:40:07.240" end="00:40:17.560" style="s2">okay all<span style="s4"> these</span> little<span style="s4"> enemies</span> are going</p>
+<p begin="00:40:09.470" end="00:40:17.560" style="s2">to leave<span style="s3"> tomorrow</span> okay this is where the</p>
+<p begin="00:41:51.210" end="00:41:55.829" style="s2">the horn<span style="s4"> the</span> spark lever</p>
+<p begin="00:43:10.910" end="00:43:16.320" style="s2"><span style="s3">this little</span><span style="s4"> girls</span> an orphan who<span style="s4"> learns</span></p>
+<p begin="00:43:13.290" end="00:43:19.610" style="s2">to have<span style="s4"> a</span> real life<span style="s4"> she</span> ends up<span style="s4"> in</span> an</p>
+<p begin="00:43:16.320" end="00:43:19.610" style="s2">encounter with<span style="s4"> this</span> creature</p>
+<p begin="00:43:32.610" end="00:43:37.990" style="s2">so she plays the<span style="s3"> role</span> that<span style="s3"> hero</span><span style="s4"> so</span> to</p>
+<p begin="00:43:35.650" end="00:43:40.630" style="s2">speak<span style="s4"> which basically means</span> when a human</p>
+<p begin="00:43:37.990" end="00:43:42.820" style="s2"><span style="s4">being is in</span> its<span style="s4"> infancy</span><span style="s3"> his</span> or her</p>
+<p begin="00:43:40.630" end="00:43:44.950" style="s2">infancy<span style="s3"> they're obviously very very</span></p>
+<p begin="00:43:42.820" end="00:43:47.230" style="s2">vulnerable to all<span style="s3"> sorts</span> of<span style="s4"> external</span></p>
+<p begin="00:43:44.950" end="00:43:49.390" style="s2">forces<span style="s4"> so</span> that's that's basically<span style="s4"> all</span></p>
+<p begin="00:43:47.230" end="00:43:50.920" style="s2"><span style="s3">that's</span> making reference<span style="s3"> to</span> you see this</p>
+<p begin="00:43:49.390" end="00:43:53.260" style="s2">pop up in all sorts<span style="s3"> of</span> weird<span style="s4"> ways</span></p>
+<p begin="00:43:50.920" end="00:43:55.420" style="s2"><span style="s4">Superman</span> in<span style="s4"> the</span><span style="s3"> carpet of the</span><span style="s4"> comic</span> by</p>
+<p begin="00:43:53.260" end="00:43:58.540" style="s2"><span style="s4">the</span> way<span style="s4"> that</span> became very very<span style="s3"> popular</span></p>
+<p begin="00:43:55.420" end="00:44:01.210" style="s2">during<span style="s3"> the</span> Depression and<span style="s3"> Superman's</span></p>
+<p begin="00:43:58.540" end="00:44:04.360" style="s2"><span style="s4">birth</span> was endangered<span style="s4"> his</span> planet<span style="s3"> was</span></p>
+<p begin="00:44:01.210" end="00:44:06.220" style="s2">going to blow up<span style="s3"> and</span> he crashed<span style="s4"> earth</span></p>
+<p begin="00:44:04.360" end="00:44:08.440" style="s2">and had two sets of<span style="s4"> parents</span> as well he</p>
+<p begin="00:44:06.220" end="00:44:11.470" style="s2">has<span style="s3"> the</span> cancer<span style="s4"> his</span> normal parents and</p>
+<p begin="00:44:08.440" end="00:44:19.270" style="s2">jor-el and kal-el who are his celestial</p>
+<p begin="00:44:11.470" end="00:44:22.890" style="s2">parents and he's a he's a hero I don't</p>
+<p begin="00:44:19.270" end="00:44:22.890" style="s2">know the story<span style="s3"> of</span> Orphan Annie<span style="s4"> very</span> well</p>
+<p begin="00:44:23.700" end="00:44:28.030" style="s2"><span style="s4">oh</span> yes<span style="s4"> that's</span> right<span style="s4"> that's right</span><span style="s3"> you</span></p>
+<p begin="00:44:26.350" end="00:44:30.730" style="s2">know that's very<span style="s3"> typical</span><span style="s4"> that's</span> very</p>
+<p begin="00:44:28.030" end="00:44:32.680" style="s2">typical<span style="s3"> so</span> that's making<span style="s4"> reference</span> to</p>
+<p begin="00:44:30.730" end="00:44:33.940" style="s2"><span style="s4">the</span> divine parents by the way and the</p>
+<p begin="00:44:32.680" end="00:44:36.880" style="s2">divine parents from the mythological</p>
+<p begin="00:44:33.940" end="00:44:38.920" style="s2"><span style="s3">perspective</span> our culture that's the</p>
+<p begin="00:44:36.880" end="00:44:40.570" style="s2">masculine domain and nature that's the</p>
+<p begin="00:44:38.920" end="00:44:43.630" style="s2">family<span style="s3"> domain</span> you could say the</p>
+<p begin="00:44:40.570" end="00:44:45.370" style="s2">predictable<span style="s4"> and</span> the unknown those those</p>
+<p begin="00:44:43.630" end="00:44:47.080" style="s2"><span style="s3">are the two things that</span> give birth to</p>
+<p begin="00:44:45.370" end="00:44:50.410" style="s2">the hero and<span style="s4"> the</span> hero is of the symbol</p>
+<p begin="00:44:47.080" end="00:45:06.430" style="s2">of is one of the<span style="s4"> symbols</span> of<span style="s4"> the</span></p>
+<p begin="00:44:50.410" end="00:45:07.960" style="s2">individual no no<span style="s4"> I</span> didn't<span style="s4"> pay</span> much</p>
+<p begin="00:45:06.430" end="00:45:09.430" style="s2"><span style="s4">attention</span> to the jewel went to do a</p>
+<p begin="00:45:07.960" end="00:45:10.630" style="s2">plays a big role in here<span style="s4"> because</span> the</p>
+<p begin="00:45:09.430" end="00:45:15.220" style="s2">jewels<span style="s4"> are</span> the little<span style="s4"> teddy</span> bear</p>
+<p begin="00:45:10.630" end="00:45:19.450" style="s2"><span style="s3">yeah</span> it's<span style="s4"> hers</span><span style="s3"> yeah</span> well it's it's it's</p>
+<p begin="00:45:15.220" end="00:45:20.680" style="s2">funny because<span style="s4"> you</span> see<span style="s4"> the</span> girl wins<span style="s4"> let</span></p>
+<p begin="00:45:19.450" end="00:45:24.550" style="s2">me see if I can remember<span style="s3"> the</span><span style="s4"> story</span></p>
+<p begin="00:45:20.680" end="00:45:26.170" style="s2">properly<span style="s3"> and</span> like I said<span style="s4"> the</span> girl has<span style="s3"> to</span></p>
+<p begin="00:45:24.550" end="00:45:27.850" style="s2">go into<span style="s3"> a</span> dark well to get<span style="s4"> this</span> diamond</p>
+<p begin="00:45:26.170" end="00:45:30.340" style="s2"><span style="s4">it's</span> inside his skull<span style="s3"> so</span> she has to</p>
+<p begin="00:45:27.850" end="00:45:31.810" style="s2">overcome<span style="s3"> her</span> fears to get it and she's</p>
+<p begin="00:45:30.340" end="00:45:33.640" style="s2">getting<span style="s4"> it</span> for<span style="s4"> this</span> horrible<span style="s3"> woman</span><span style="s4"> now</span></p>
+<p begin="00:45:31.810" end="00:45:34.610" style="s2">the woman<span style="s3"> has</span><span style="s4"> the</span> diamond confused with</p>
+<p begin="00:45:33.640" end="00:45:36.050" style="s2">what it<span style="s4"> represents</span></p>
+<p begin="00:45:34.610" end="00:45:37.820" style="s2">and that's why she's<span style="s4"> after that's so</span></p>
+<p begin="00:45:36.050" end="00:45:39.980" style="s2">this is a parable<span style="s3"> about</span> materialism by</p>
+<p begin="00:45:37.820" end="00:45:41.600" style="s2">the way that's when you get<span style="s4"> the</span> diamond</p>
+<p begin="00:45:39.980" end="00:45:44.120" style="s2"><span style="s4">confused</span> with what it<span style="s4"> represents</span> the</p>
+<p begin="00:45:41.600" end="00:45:45.680" style="s2">little<span style="s4"> girl</span> actually wins the diamond<span style="s4"> so</span></p>
+<p begin="00:45:44.120" end="00:45:47.180" style="s2">to speak because<span style="s4"> she</span><span style="s3"> overcome</span><span style="s4"> to</span> the</p>
+<p begin="00:45:45.680" end="00:45:47.510" style="s2"><span style="s3">Great Mother and</span> at the end<span style="s4"> of</span> this</p>
+<p begin="00:45:47.180" end="00:45:48.830" style="s2"><span style="s3">trend</span></p>
+<p begin="00:45:47.510" end="00:45:50.360" style="s2">of course historians happen - because</p>
+<p begin="00:45:48.830" end="00:45:52.400" style="s2"><span style="s3">she's</span> a hero<span style="s4"> she</span> does end up with<span style="s4"> the</span></p>
+<p begin="00:45:50.360" end="00:45:54.170" style="s2">family<span style="s3"> she's</span> turned into<span style="s4"> a</span> real person</p>
+<p begin="00:45:52.400" end="00:45:57.230" style="s2"><span style="s4">that's</span> basically<span style="s3"> that</span> that's basically</p>
+<p begin="00:45:54.170" end="00:46:00.020" style="s2"><span style="s3">the</span><span style="s4"> moral</span> of<span style="s4"> the</span> story so<span style="s4"> and</span> on that</p>
+<p begin="00:45:57.230" end="00:46:03.920" style="s2">note let me show you this one<span style="s3"> okay</span> this</p>
+<p begin="00:46:00.020" end="00:46:05.720" style="s2">is<span style="s3"> Tokyo</span> and Pinocchio is a hero myth</p>
+<p begin="00:46:03.920" end="00:46:07.610" style="s2">I mean it's absolutes<span style="s4"> it</span> has all the</p>
+<p begin="00:46:05.720" end="00:46:09.050" style="s2"><span style="s3">elements</span> of the hero myth<span style="s4"> Pinocchio</span> is</p>
+<p begin="00:46:07.610" end="00:46:10.310" style="s2">not real at the<span style="s4"> beginning of the story</span></p>
+<p begin="00:46:09.050" end="00:46:11.900" style="s2">is made out of<span style="s4"> wood</span> well<span style="s4"> blue fairy</span></p>
+<p begin="00:46:10.310" end="00:46:14.120" style="s2">comes down and says<span style="s4"> if</span> you're good<span style="s4"> if</span></p>
+<p begin="00:46:11.900" end="00:46:17.120" style="s2">you're good you can<span style="s4"> become</span> a real a real</p>
+<p begin="00:46:14.120" end="00:46:19.130" style="s2">boy<span style="s3"> and</span> so then<span style="s4"> he goes on a series of</span></p>
+<p begin="00:46:17.120" end="00:46:22.640" style="s2">adventures<span style="s4"> and</span><span style="s3"> the</span> adventures culminate</p>
+<p begin="00:46:19.130" end="00:46:25.130" style="s2">in missing<span style="s4"> and</span> he is accompanied<span style="s4"> by</span> this</p>
+<p begin="00:46:22.640" end="00:46:28.850" style="s2"><span style="s4">cricket being given Jiminy Cricket</span></p>
+<p begin="00:46:25.130" end="00:46:30.050" style="s2"><span style="s3">who's</span><span style="s4"> that's</span> his conscience<span style="s3"> he</span> plays<span style="s4"> the</span></p>
+<p begin="00:46:28.850" end="00:46:31.460" style="s2">same role you know<span style="s3"> his</span> little cartoon</p>
+<p begin="00:46:30.050" end="00:46:33.320" style="s2"><span style="s4">thing</span> seems you see where there's<span style="s3"> an</span></p>
+<p begin="00:46:31.460" end="00:46:34.970" style="s2">angel<span style="s3"> on</span> one children<span style="s3"> a devil</span></p>
+<p begin="00:46:33.320" end="00:46:37.340" style="s2">well Jiminy Cricket is the angelic</p>
+<p begin="00:46:34.970" end="00:46:39.170" style="s2">aspect of conscience<span style="s4"> and</span> I've<span style="s4"> always</span> I</p>
+<p begin="00:46:37.340" end="00:46:41.770" style="s2"><span style="s4">don't</span> know<span style="s4"> like</span> I<span style="s4"> don't know this this</span></p>
+<p begin="00:46:39.170" end="00:46:44.660" style="s2"><span style="s4">is just something</span> that<span style="s4"> popped into my my</span></p>
+<p begin="00:46:41.770" end="00:46:52.450" style="s2">my imagination but his initials are JC</p>
+<p begin="00:46:44.660" end="00:46:55.220" style="s2"><span style="s4">and</span> I don't<span style="s3"> think</span> that's a<span style="s4"> fluke</span> okay so</p>
+<p begin="00:46:52.450" end="00:46:58.720" style="s2">he's fooling with bad company<span style="s3"> okay</span> on</p>
+<p begin="00:46:55.220" end="00:46:58.720" style="s2">his adventures he's out in the world</p>
+<p begin="00:47:15.450" end="00:47:20.230" style="s2"><span style="s4">okay</span> well you get<span style="s4"> the</span> picture<span style="s3"> there</span></p>
+<p begin="00:47:17.560" end="00:47:22.060" style="s2"><span style="s4">that's oh that's that's where</span><span style="s3"> he's</span></p>
+<p begin="00:47:20.230" end="00:47:26.620" style="s2"><span style="s4">almost</span><span style="s3"> identical</span> to<span style="s3"> the</span> story of course</p>
+<p begin="00:47:22.060" end="00:47:28.660" style="s2">and the Cirrus<span style="s4"> and</span> why that's<span style="s4"> the</span> case<span style="s4"> I</span></p>
+<p begin="00:47:26.620" end="00:47:45.760" style="s2">don't know I<span style="s3"> don't</span><span style="s4"> really</span> history<span style="s3"> this</span></p>
+<p begin="00:47:28.660" end="00:47:47.680" style="s2"><span style="s3">your</span> story<span style="s3"> over heads here</span><span style="s4"> just</span> one</p>
+<p begin="00:47:45.760" end="00:47:50.560" style="s2">other comment this<span style="s4"> is</span><span style="s3"> the</span><span style="s4"> edited</span> version</p>
+<p begin="00:47:47.680" end="00:47:52.810" style="s2">the 1980s version in the original Disney</p>
+<p begin="00:47:50.560" end="00:47:54.070" style="s2">version<span style="s3"> when</span> they were inside the<span style="s3"> belly</span></p>
+<p begin="00:47:52.810" end="00:47:56.110" style="s2">of<span style="s3"> the beast</span></p>
+<p begin="00:47:54.070" end="00:47:58.480" style="s2">they they<span style="s3"> decided</span> they were going to eat</p>
+<p begin="00:47:56.110" end="00:48:01.060" style="s2"><span style="s3">the</span> fish<span style="s4"> the little fish Cleo to stay</span></p>
+<p begin="00:47:58.480" end="00:48:06.720" style="s2">alive<span style="s4"> and</span> that was edited<span style="s3"> out</span> that might</p>
+<p begin="00:48:01.060" end="00:48:06.720" style="s2">have some sacrificial<span style="s3"> oh I don't know</span></p>
+<p begin="00:48:10.970" end="00:48:22.839" style="s2">that's an<span style="s3"> interesting</span> image that's you</p>
+<p begin="00:48:19.190" end="00:48:25.550" style="s2">see this<span style="s4"> that</span> souls<span style="s4"> in</span> the jaws of<span style="s3"> hell</span></p>
+<p begin="00:48:22.839" end="00:48:34.369" style="s2">that's<span style="s4"> a</span> detail of<span style="s3"> a wooden choir</span> stole</p>
+<p begin="00:48:25.550" end="00:48:42.380" style="s2">into France<span style="s3"> so</span> that's kind of an</p>
+<p begin="00:48:34.369" end="00:48:45.680" style="s2"><span style="s4">interesting</span> image<span style="s3"> piece</span> there's a</p>
+<p begin="00:48:42.380" end="00:48:50.060" style="s2">baptismal<span style="s4"> image</span> in<span style="s4"> the</span> 6th century</p>
+<p begin="00:48:45.680" end="00:48:53.329" style="s2"><span style="s4">that's the cauldron of</span> transformation by</p>
+<p begin="00:48:50.060" end="00:48:55.490" style="s2">the way that the<span style="s3"> blue angel there at the</span></p>
+<p begin="00:48:53.329" end="00:48:58.099" style="s2"><span style="s3">end that was</span><span style="s4"> her</span> she's a symbol<span style="s4"> of the</span></p>
+<p begin="00:48:55.490" end="00:49:00.109" style="s2">positive aspect of the feminine<span style="s3"> positive</span></p>
+<p begin="00:48:58.099" end="00:49:01.700" style="s2">aspect of novelty basically<span style="s4"> it</span> was</p>
+<p begin="00:49:00.109" end="00:49:03.560" style="s2">released as a consequence of<span style="s4"> his</span></p>
+<p begin="00:49:01.700" end="00:49:06.020" style="s2">voluntary<span style="s3"> encounter with defendant</span></p>
+<p begin="00:49:03.560" end="00:49:08.300" style="s2">represents<span style="s4"> the dragon remember</span><span style="s3"> Marlin</span></p>
+<p begin="00:49:06.020" end="00:49:10.369" style="s2"><span style="s4">carves</span> the world of time and take time</p>
+<p begin="00:49:08.300" end="00:49:11.839" style="s2"><span style="s4">outs</span> this dragon lives at the<span style="s4"> bottom</span> of</p>
+<p begin="00:49:10.369" end="00:49:15.140" style="s2">the ocean<span style="s4"> same</span> thing<span style="s3"> happens</span><span style="s4"> in</span> the</p>
+<p begin="00:49:11.839" end="00:49:17.180" style="s2"><span style="s4">Hebrew</span> Bible - oh it's buried<span style="s4"> it</span> refers</p>
+<p begin="00:49:15.140" end="00:49:20.270" style="s2">to a much more<span style="s4"> arcane tradition</span></p>
+<p begin="00:49:17.180" end="00:49:21.740" style="s2">Jehovah makes the world as a consequence</p>
+<p begin="00:49:20.270" end="00:49:23.720" style="s2"><span style="s4">of</span><span style="s3"> the</span><span style="s4"> battle</span> with the monster<span style="s3"> that's</span></p>
+<p begin="00:49:21.740" end="00:49:28.579" style="s2">variously known as<span style="s3"> it's</span> Rahab with</p>
+<p begin="00:49:23.720" end="00:49:30.109" style="s2">Leviathan<span style="s3"> oh</span> I have the I have<span style="s4"> this</span></p>
+<p begin="00:49:28.579" end="00:49:32.810" style="s2">sections written down but my computer</p>
+<p begin="00:49:30.109" end="00:49:34.609" style="s2"><span style="s4">crashed</span><span style="s3"> today</span> I can bring them in so I</p>
+<p begin="00:49:32.810" end="00:49:36.890" style="s2"><span style="s4">can</span> get you<span style="s3"> their</span> references if you want</p>
+<p begin="00:49:34.609" end="00:49:40.520" style="s2">there's a rope<span style="s4"> for</span> references in various</p>
+<p begin="00:49:36.890" end="00:49:43.900" style="s2">places in the<span style="s3"> Old</span> Testament<span style="s3"> well</span> there's</p>
+<p begin="00:49:40.520" end="00:49:46.339" style="s2">some<span style="s3"> mostly</span> in the Old Testament<span style="s3"> yeah</span></p>
+<p begin="00:49:43.900" end="00:49:49.060" style="s2">it's also the<span style="s3"> case</span> this<span style="s4"> is</span> interesting</p>
+<p begin="00:49:46.339" end="00:49:51.650" style="s2">too<span style="s3"> is</span> when<span style="s4"> Jehovah</span> threatens to lay</p>
+<p begin="00:49:49.060" end="00:49:54.140" style="s2">various territories<span style="s4"> waste</span> which he does</p>
+<p begin="00:49:51.650" end="00:49:55.940" style="s2">with certain<span style="s3"> wealth</span> of regularity<span style="s3"> he</span></p>
+<p begin="00:49:54.140" end="00:49:57.829" style="s2"><span style="s3">always</span> describes the territory<span style="s3"> that</span> will</p>
+<p begin="00:49:55.940" end="00:50:01.760" style="s2">remain after everything's devastated as</p>
+<p begin="00:49:57.829" end="00:50:03.410" style="s2">fit habitation for serpents so again</p>
+<p begin="00:50:01.760" end="00:50:06.650" style="s2">it's that's the story of the reduction</p>
+<p begin="00:50:03.410" end="00:50:08.930" style="s2">of the<span style="s3"> ordered</span> placed<span style="s4"> chaos</span> and chaos</p>
+<p begin="00:50:06.650" end="00:50:10.940" style="s2"><span style="s4">isn't</span><span style="s3"> the</span> place that's fit habitation</p>
+<p begin="00:50:08.930" end="00:50:13.400" style="s2">for serpents and anything that<span style="s4"> lives</span></p>
+<p begin="00:50:10.940" end="00:50:15.319" style="s2">there is assimilated<span style="s3"> to</span><span style="s4"> the</span><span style="s3"> circle</span><span style="s4"> so</span></p>
+<p begin="00:50:13.400" end="00:50:18.109" style="s2">I'll get<span style="s4"> you</span> the quotes I collected them</p>
+<p begin="00:50:15.319" end="00:50:19.870" style="s2">all<span style="s4"> last two weeks ago actually I</span> have</p>
+<p begin="00:50:18.109" end="00:50:22.030" style="s2">the King James Bible on CD</p>
+<p begin="00:50:19.870" end="00:50:24.520" style="s2">which is<span style="s4"> really</span> useful<span style="s3"> because</span> you<span style="s4"> just</span></p>
+<p begin="00:50:22.030" end="00:50:26.020" style="s2"><span style="s3">put</span> in whatever your word is and it</p>
+<p begin="00:50:24.520" end="00:50:29.440" style="s2">gives you every single<span style="s4"> reference</span> to it</p>
+<p begin="00:50:26.020" end="00:50:31.450" style="s2">the whole text so but there's well<span style="s4"> Emily</span></p>
+<p begin="00:50:29.440" end="00:50:33.130" style="s2"><span style="s3">addy</span> collected a whole sequence of</p>
+<p begin="00:50:31.450" end="00:50:41.280" style="s2">reference<span style="s4"> that</span> record<span style="s4"> from</span> various</p>
+<p begin="00:50:33.130" end="00:50:41.280" style="s2"><span style="s4">cultures this</span><span style="s3"> is an interesting room a</span></p>
+<p begin="00:50:43.650" end="00:50:48.570" style="s2"><span style="s3">reveal ocation of the sacrificed ram</span></p>
+<p begin="00:50:52.020" end="00:50:57.420" style="s2">in this baptism imagery<span style="s4"> that was what</span></p>
+<p begin="00:50:55.500" end="00:51:00.060" style="s2">Pinocchio just underwent in fact you can</p>
+<p begin="00:50:57.420" end="00:51:01.710" style="s2">say well but back the baptism rituals we</p>
+<p begin="00:51:00.060" end="00:51:03.000" style="s2">have now which<span style="s4"> are</span> pretty trivial the</p>
+<p begin="00:51:01.710" end="00:51:06.570" style="s2">Christian ones anyways<span style="s3"> are</span> pretty</p>
+<p begin="00:51:03.000" end="00:51:08.340" style="s2">trivial<span style="s4"> so</span> in some some sects in the</p>
+<p begin="00:51:06.570" end="00:51:11.160" style="s2">southern<span style="s3"> us in</span><span style="s4"> particular</span><span style="s3"> debt</span> people</p>
+<p begin="00:51:08.340" end="00:51:12.930" style="s2"><span style="s4">completely</span> into the<span style="s4"> river</span> signifying</p>
+<p begin="00:51:11.160" end="00:51:15.750" style="s2">their second birth gender<span style="s3"> elite</span> just</p>
+<p begin="00:51:12.930" end="00:51:19.920" style="s2">sprinkled with water<span style="s4"> but</span> what that is is</p>
+<p begin="00:51:15.750" end="00:51:22.740" style="s2">a very<span style="s4"> it's</span> a remnant<span style="s4"> from</span><span style="s3"> the</span><span style="s4"> ritual</span></p>
+<p begin="00:51:19.920" end="00:51:25.970" style="s2"><span style="s3">that</span> was much more<span style="s3"> to</span> much more dramatic</p>
+<p begin="00:51:22.740" end="00:51:28.770" style="s2">of the sort that his finger went<span style="s4"> through</span></p>
+<p begin="00:51:25.970" end="00:51:30.990" style="s2"><span style="s4">my two-year-old</span><span style="s3"> son</span><span style="s4"> watch</span> that but<span style="s3"> he</span></p>
+<p begin="00:51:28.770" end="00:51:33.690" style="s2">was quite<span style="s4"> impressed</span><span style="s3"> with</span> that<span style="s4"> wail he</span></p>
+<p begin="00:51:30.990" end="00:51:35.610" style="s2">talked about<span style="s4"> that wheel for</span> a good long</p>
+<p begin="00:51:33.690" end="00:51:37.110" style="s2">time<span style="s4"> he</span> started out<span style="s4"> about</span> a month in<span style="s4"> the</span></p>
+<p begin="00:51:35.610" end="00:51:39.900" style="s2">afternoon he still<span style="s3"> talked</span><span style="s4"> about that</span></p>
+<p begin="00:51:37.110" end="00:51:43.590" style="s2"><span style="s4">wheel</span> there's at the bottom of the ocean</p>
+<p begin="00:51:39.900" end="00:51:45.840" style="s2">it was pretty impressive<span style="s3"> yeah</span> so I can</p>
+<p begin="00:51:43.590" end="00:51:49.650" style="s2"><span style="s3">remember</span><span style="s4"> -</span> from<span style="s3"> my</span> early childhood<span style="s4"> the</span></p>
+<p begin="00:51:45.840" end="00:51:51.750" style="s2">image of the<span style="s3"> inside</span> of<span style="s4"> the</span><span style="s3"> whale</span><span style="s4"> it's</span></p>
+<p begin="00:51:49.650" end="00:51:57.810" style="s2"><span style="s4">almost like a cathedral that's stuck</span></p>
+<p begin="00:51:51.750" end="00:51:59.970" style="s2">with me so that's<span style="s4"> the</span> second rebirth</p>
+<p begin="00:51:57.810" end="00:52:03.240" style="s2">that's<span style="s4"> voluntary hey that's the reason</span></p>
+<p begin="00:51:59.970" end="00:52:04.800" style="s2">that<span style="s4"> nokia</span><span style="s3"> was</span> turned into a boy when he</p>
+<p begin="00:52:03.240" end="00:52:07.050" style="s2">when he<span style="s4"> was</span> well<span style="s3"> on</span> his<span style="s3"> way</span><span style="s4"> to</span> becoming</p>
+<p begin="00:52:04.800" end="00:52:08.460" style="s2">a jackass was because he<span style="s4"> decided</span> ballin</p>
+<p begin="00:52:07.050" end="00:52:11.220" style="s2">terribly first of all<span style="s4"> jump</span> into the</p>
+<p begin="00:52:08.460" end="00:52:13.800" style="s2"><span style="s3">ocean</span> the<span style="s3"> ocean</span><span style="s4"> that's</span> another<span style="s4"> symbol of</span></p>
+<p begin="00:52:11.220" end="00:52:15.750" style="s2"><span style="s4">the</span> chaos<span style="s4"> that</span> sort of precedes creation</p>
+<p begin="00:52:13.800" end="00:52:17.280" style="s2">he was a great symbol I mean that is</p>
+<p begin="00:52:15.750" end="00:52:22.730" style="s2">where life came from<span style="s4"> after all</span></p>
+<p begin="00:52:17.280" end="00:52:22.730" style="s2">here's one from<span style="s4"> Peru</span><span style="s3"> dragon</span> fight</p>
+<p begin="00:52:25.490" end="00:52:31.000" style="s2">like features here as well<span style="s4"> fishing</span></p>
+<p begin="00:52:27.890" end="00:52:31.000" style="s2"><span style="s4">human-like creatures</span></p>
+<p begin="00:52:38.060" end="00:52:42.510" style="s2">you know the respirators why did they</p>
+<p begin="00:52:40.530" end="00:52:47.100" style="s2">work why were there two alligators<span style="s4"> and</span></p>
+<p begin="00:52:42.510" end="00:52:49.770" style="s2"><span style="s4">also</span><span style="s3"> yeah</span> well I<span style="s4"> think</span> that a reference</p>
+<p begin="00:52:47.100" end="00:52:51.990" style="s2"><span style="s4">to</span><span style="s3"> two</span> is is a reference<span style="s4"> that's</span><span style="s3"> I</span> think</p>
+<p begin="00:52:49.770" end="00:52:53.490" style="s2"><span style="s4">it's</span> a reference<span style="s4"> to</span><span style="s3"> the</span> world<span style="s3"> parents's</span></p>
+<p begin="00:52:51.990" end="00:52:56.160" style="s2"><span style="s3">and instead of</span> the serpent separates</p>
+<p begin="00:52:53.490" end="00:52:58.830" style="s2">into two things<span style="s4"> order</span> and chaos</p>
+<p begin="00:52:56.160" end="00:53:01.290" style="s2">I don't exactly<span style="s4"> that's about the best I</span></p>
+<p begin="00:52:58.830" end="00:53:04.200" style="s2"><span style="s3">could</span> give to<span style="s4"> that</span> stuff<span style="s3"> but- them</span></p>
+<p begin="00:53:01.290" end="00:53:06.630" style="s2"><span style="s4">either</span> often appears associated with a</p>
+<p begin="00:53:04.200" end="00:53:08.280" style="s2">serpentine form and that's<span style="s4"> because</span> as<span style="s4"> I</span></p>
+<p begin="00:53:06.630" end="00:53:09.660" style="s2"><span style="s3">said</span> as<span style="s4"> far</span> as<span style="s4"> I</span> can<span style="s3"> Tom</span> you trying to</p>
+<p begin="00:53:08.280" end="00:53:13.200" style="s2"><span style="s4">puzzle this out for a long time</span><span style="s3"> it's</span></p>
+<p begin="00:53:09.660" end="00:53:15.060" style="s2">because the it's not that easy<span style="s3"> to</span></p>
+<p begin="00:53:13.200" end="00:53:17.490" style="s2">distinguish the chaos that exists in</p>
+<p begin="00:53:15.060" end="00:53:19.200" style="s2"><span style="s3">opposition from</span><span style="s4"> order</span> to<span style="s3"> the</span> chaos<span style="s4"> that</span></p>
+<p begin="00:53:17.490" end="00:53:20.990" style="s2">precedes or the division of<span style="s4"> order</span> and</p>
+<p begin="00:53:19.200" end="00:53:23.610" style="s2"><span style="s4">chaos</span><span style="s3"> they</span> get they get<span style="s4"> mixed together</span></p>
+<p begin="00:53:20.990" end="00:53:27.750" style="s2"><span style="s4">okay oh yeah that's a great that's</span><span style="s3"> a</span></p>
+<p begin="00:53:23.610" end="00:53:28.320" style="s2"><span style="s3">great</span> picture<span style="s4"> Hercules</span> on the night<span style="s3"> see</span></p>
+<p begin="00:53:27.750" end="00:53:30.120" style="s2">journey</p>
+<p begin="00:53:28.320" end="00:53:31.440" style="s2">so he's assimilated to<span style="s4"> the Sun because</span></p>
+<p begin="00:53:30.120" end="00:53:33.720" style="s2">it's the Sun that<span style="s3"> goes</span> through the night</p>
+<p begin="00:53:31.440" end="00:53:35.460" style="s2"><span style="s3">seizure</span><span style="s4"> a</span> Sisyphus by the way the myth</p>
+<p begin="00:53:33.720" end="00:53:38.280" style="s2">of Sisyphus is often<span style="s3"> was</span><span style="s4"> simulated</span><span style="s3"> to</span></p>
+<p begin="00:53:35.460" end="00:53:39.810" style="s2">the Sun and you remember the<span style="s3"> diagram</span> I</p>
+<p begin="00:53:38.280" end="00:53:42.000" style="s2">showed you things descending into chaos</p>
+<p begin="00:53:39.810" end="00:53:44.550" style="s2"><span style="s4">and</span> then being reborn well that's a</p>
+<p begin="00:53:42.000" end="00:53:47.010" style="s2">solar imagery as well<span style="s4"> anyways</span> this is a</p>
+<p begin="00:53:44.550" end="00:53:49.440" style="s2">great<span style="s4"> image</span><span style="s3"> you</span><span style="s4"> see</span> okay so he's out</p>
+<p begin="00:53:47.010" end="00:53:51.270" style="s2">there<span style="s3"> in</span> the night<span style="s3"> in</span> this cauldron he's</p>
+<p begin="00:53:49.440" end="00:53:52.920" style="s2">wearing the skin of a lion<span style="s3"> aligns</span><span style="s4"> a</span></p>
+<p begin="00:53:51.270" end="00:53:55.160" style="s2">solar<span style="s4"> beast</span><span style="s3"> for</span> all these reasons it's</p>
+<p begin="00:53:52.920" end="00:53:55.160" style="s2">yellow</p>
+<p begin="00:54:06.470" end="00:54:10.240" style="s2">he's carrying<span style="s4"> a</span> club right that's his</p>
+<p begin="00:54:08.940" end="00:54:12.310" style="s2">weapon his<span style="s4"> eyes</span> are<span style="s4"> burning</span></p>
+<p begin="00:54:10.240" end="00:54:14.440" style="s2">he's conscious<span style="s4"> fully</span> conscious he<span style="s4"> goes</span></p>
+<p begin="00:54:12.310" end="00:54:15.040" style="s2">he's doing<span style="s4"> see</span> the club<span style="s4"> these</span> things on</p>
+<p begin="00:54:14.440" end="00:54:20.770" style="s2">the club</p>
+<p begin="00:54:15.040" end="00:54:23.290" style="s2">those are eyes or for symbolism of</p>
+<p begin="00:54:20.770" end="00:54:26.320" style="s2">consciousness there so he's up to defeat</p>
+<p begin="00:54:23.290" end="00:54:28.150" style="s2">the monster<span style="s3"> that</span><span style="s4"> inhabits unexplored</span></p>
+<p begin="00:54:26.320" end="00:54:30.400" style="s2">territory territory<span style="s4"> before</span> it's<span style="s3"> being</span></p>
+<p begin="00:54:28.150" end="00:54:34.869" style="s2">transformed into the<span style="s3"> place</span> where real</p>
+<p begin="00:54:30.400" end="00:54:36.940" style="s2">human beings can live so<span style="s3"> ok</span> let me<span style="s3"> show</span></p>
+<p begin="00:54:34.869" end="00:54:41.470" style="s2"><span style="s3">you</span> some so we looked<span style="s4"> at</span> the rescuers</p>
+<p begin="00:54:36.940" end="00:54:43.810" style="s2"><span style="s4">right</span> yes<span style="s3"> thank</span><span style="s4"> you</span><span style="s3"> jumps</span> off into the</p>
+<p begin="00:54:41.470" end="00:54:47.230" style="s2">unknown<span style="s4"> into</span> the ocean but then he yeah</p>
+<p begin="00:54:43.810" end="00:54:49.270" style="s2">voluntarily<span style="s4"> but then he runs from</span><span style="s3"> when</span></p>
+<p begin="00:54:47.230" end="00:54:51.460" style="s2">he looks he<span style="s4"> sees</span> the<span style="s3"> clothes she was</span></p>
+<p begin="00:54:49.270" end="00:54:53.680" style="s2"><span style="s3">robbed on strollers</span> yeah well you know</p>
+<p begin="00:54:51.460" end="00:54:56.650" style="s2">it gets<span style="s3"> kind</span> of<span style="s4"> scared</span> so by that<span style="s4"> time</span></p>
+<p begin="00:54:53.680" end="00:54:59.619" style="s2"><span style="s3">it's</span><span style="s4"> more</span> or less inevitable so yeah<span style="s4"> he</span></p>
+<p begin="00:54:56.650" end="00:55:01.000" style="s2">tries<span style="s4"> to</span> get<span style="s4"> away</span> so it's funny<span style="s4"> so</span> I</p>
+<p begin="00:54:59.619" end="00:55:02.680" style="s2">don't know what to<span style="s4"> make</span><span style="s3"> of</span><span style="s4"> that exactly</span></p>
+<p begin="00:55:01.000" end="00:55:06.040" style="s2">accepted by that<span style="s4"> time</span> it's too late to</p>
+<p begin="00:55:02.680" end="00:55:07.810" style="s2">turn<span style="s4"> it's</span> funny too because his</p>
+<p begin="00:55:06.040" end="00:55:09.670" style="s2">conscience is more or less warning him</p>
+<p begin="00:55:07.810" end="00:55:11.349" style="s2">against<span style="s3"> this</span> jiminy crickets warning</p>
+<p begin="00:55:09.670" end="00:55:13.180" style="s2">them against doing<span style="s4"> it but I</span> also<span style="s4"> hate</span></p>
+<p begin="00:55:11.349" end="00:55:16.800" style="s2">helps him tie the Bronco<span style="s3"> into</span> his<span style="s4"> day</span><span style="s3"> of</span></p>
+<p begin="00:55:13.180" end="00:55:16.800" style="s2">enjoy<span style="s4"> it</span> was a real cute touch</p>
+<p begin="00:55:32.420" end="00:55:42.049" style="s2">so you can see the assimilation<span style="s3"> of</span> the</p>
+<p begin="00:55:34.579" end="00:55:42.859" style="s2">feminine<span style="s4"> area</span> wants to become a real</p>
+<p begin="00:55:42.049" end="00:55:48.039" style="s2">human being</p>
+<p begin="00:55:42.859" end="00:55:53.380" style="s2">same sort of<span style="s4"> she's</span> also<span style="s4"> accompanied by</span></p>
+<p begin="00:55:48.039" end="00:55:56.900" style="s2">two serpents they're not hers<span style="s4"> they're</span></p>
+<p begin="00:55:53.380" end="00:55:59.119" style="s2">eels<span style="s4"> look</span> look at the structure she goes</p>
+<p begin="00:55:56.900" end="00:56:02.329" style="s2">into<span style="s4"> this</span> is very<span style="s4"> interesting it's a</span></p>
+<p begin="00:55:59.119" end="00:56:05.059" style="s2">portal portal imagery defines the border</p>
+<p begin="00:56:02.329" end="00:56:06.859" style="s2">between chaos and order<span style="s3"> that's</span> another</p>
+<p begin="00:56:05.059" end="00:56:08.990" style="s2">reason<span style="s4"> where</span> the<span style="s3"> feminine</span> is often used</p>
+<p begin="00:56:06.859" end="00:56:11.359" style="s2"><span style="s4">to</span> symbolize the<span style="s3"> chaos</span> because<span style="s4"> the</span></p>
+<p begin="00:56:08.990" end="00:56:13.130" style="s2">female is<span style="s3"> the</span> border between<span style="s4"> the</span> place</p>
+<p begin="00:56:11.359" end="00:56:15.500" style="s2">that creation<span style="s4"> takei-san</span><span style="s3"> in</span> the real</p>
+<p begin="00:56:13.130" end="00:56:17.960" style="s2">world<span style="s4"> that's the most</span> fundamental reason</p>
+<p begin="00:56:15.500" end="00:56:20.059" style="s2"><span style="s4">and</span> heroes<span style="s3"> often</span> climb into<span style="s3"> depth</span> the</p>
+<p begin="00:56:17.960" end="00:56:23.049" style="s2">body into<span style="s4"> the</span> valley of feminine</p>
+<p begin="00:56:20.059" end="00:56:23.049" style="s2">families</p>
+<p begin="00:56:27.420" end="00:56:55.890" style="s2">those are<span style="s3"> souls</span> the same thing after</p>
+<p begin="00:56:54.210" end="00:57:00.750" style="s2"><span style="s3">that</span><span style="s4"> was</span> half the<span style="s4"> boys that were turned</span></p>
+<p begin="00:56:55.890" end="00:57:11.789" style="s2"><span style="s4">into</span> donkeys<span style="s3"> is crazy Dave it may have</span></p>
+<p begin="00:57:00.750" end="00:57:12.450" style="s2">errors in choices<span style="s3"> I'm</span> just<span style="s4"> gonna stop</span></p>
+<p begin="00:57:11.789" end="00:57:14.519" style="s2">this for<span style="s3"> a</span> minute</p>
+<p begin="00:57:12.450" end="00:57:16.920" style="s2"><span style="s4">one</span> of my students<span style="s4"> last</span> year asked<span style="s4"> me</span></p>
+<p begin="00:57:14.519" end="00:57:19.710" style="s2">why ask<span style="s4"> me</span> some questions about<span style="s4"> these</span></p>
+<p begin="00:57:16.920" end="00:57:23.010" style="s2">negative feminine<span style="s4"> images</span><span style="s3"> see</span> why they</p>
+<p begin="00:57:19.710" end="00:57:25.140" style="s2">were often sexual it's<span style="s3"> been</span><span style="s4"> in</span> Disney</p>
+<p begin="00:57:23.010" end="00:57:27.150" style="s2"><span style="s3">movies</span> that<span style="s3"> they're</span> very<span style="s4"> concerned with</span></p>
+<p begin="00:57:25.140" end="00:57:30.119" style="s2"><span style="s4">beauty</span> for example though she's she's</p>
+<p begin="00:57:27.150" end="00:57:32.940" style="s2">kind<span style="s3"> of</span> grotesque<span style="s4"> but</span> the figure of Snow</p>
+<p begin="00:57:30.119" end="00:57:35.309" style="s2">White's mother<span style="s3"> -</span> which is Sleeping</p>
+<p begin="00:57:32.940" end="00:57:38.160" style="s2">Beauty<span style="s3"> they're</span> usually older childless</p>
+<p begin="00:57:35.309" end="00:57:40.890" style="s2">women<span style="s4"> and</span> I read that there's a symbol</p>
+<p begin="00:57:38.160" end="00:57:43.349" style="s2"><span style="s4">of</span> the sacrifice<span style="s3"> of</span><span style="s4"> the</span> child to<span style="s3"> the</span></p>
+<p begin="00:57:40.890" end="00:57:45.539" style="s2">maintenance of beautiful beauties</p>
+<p begin="00:57:43.349" end="00:57:48.089" style="s2">that's what childless that's what</p>
+<p begin="00:57:45.539" end="00:57:50.309" style="s2"><span style="s3">childless misrepresents of these and</span></p>
+<p begin="00:57:48.089" end="00:57:51.750" style="s2"><span style="s4">these</span> stories so for example Snow</p>
+<p begin="00:57:50.309" end="00:57:53.970" style="s2">White's mother<span style="s4"> is very concerned that</span></p>
+<p begin="00:57:51.750" end="00:57:54.720" style="s2">she's the most<span style="s4"> beautiful</span> she's the</p>
+<p begin="00:57:53.970" end="00:57:57.930" style="s2">stepmother</p>
+<p begin="00:57:54.720" end="00:57:59.849" style="s2">she's never she's never she never<span style="s4"> had</span></p>
+<p begin="00:57:57.930" end="00:58:01.710" style="s2">children<span style="s4"> and</span> the wind that<span style="s4"> myth</span> reads</p>
+<p begin="00:57:59.849" end="00:58:04.109" style="s2">that basically<span style="s4"> as</span><span style="s3"> far</span> as I can tell<span style="s3"> is</span></p>
+<p begin="00:58:01.710" end="00:58:05.660" style="s2"><span style="s3">that</span><span style="s4"> that's</span> equivalent<span style="s4"> to</span> the<span style="s4"> devouring</span></p>
+<p begin="00:58:04.109" end="00:58:08.009" style="s2">of children who sacrifice their children</p>
+<p begin="00:58:05.660" end="00:58:09.829" style="s2"><span style="s4">to</span> beauty and<span style="s4"> that's what makes these</span></p>
+<p begin="00:58:08.009" end="00:58:12.210" style="s2">figures sort of both beautiful<span style="s4"> and</span></p>
+<p begin="00:58:09.829" end="00:58:15.779" style="s2">horrifying at the same time<span style="s4"> they're</span></p>
+<p begin="00:58:12.210" end="00:58:18.170" style="s2">attempting<span style="s4"> to</span> hold<span style="s4"> on</span> to a domain<span style="s4"> this</span> I</p>
+<p begin="00:58:15.779" end="00:58:18.170" style="s2">guess not</p>
+<p begin="00:58:27.020" end="00:58:29.980" style="s2">yeah</p>
+<p begin="01:00:18.239" end="01:00:24.729" style="s2">now here's the deal<span style="s3"> I</span> will<span style="s4"> make</span> you a</p>
+<p begin="01:00:22.299" end="01:00:30.390" style="s2">portion<span style="s4"> table</span> turn you into a human for</p>
+<p begin="01:00:24.729" end="01:00:30.390" style="s2">three days<span style="s3"> got</span><span style="s4"> that</span> three days</p>
+<p begin="01:01:48.400" end="01:01:53.440" style="s2">you know</p>
+<p begin="01:03:21.380" end="01:03:26.749" style="s2"><span style="s4">that's</span><span style="s3"> really</span> so<span style="s3"> cheese</span></p>
+<p begin="01:03:29.180" end="01:03:32.759" style="s2">the funny<span style="s4"> thing</span> about this movie<span style="s3"> is that</span></p>
+<p begin="01:03:31.769" end="01:03:36.329" style="s2">you know she's a pretty horrible</p>
+<p begin="01:03:32.759" end="01:03:38.369" style="s2"><span style="s4">character</span> but it is is<span style="s4"> because</span> of her</p>
+<p begin="01:03:36.329" end="01:03:45.029" style="s2"><span style="s3">defined</span><span style="s4"> analysis</span> that area does get what</p>
+<p begin="01:03:38.369" end="01:03:49.529" style="s2"><span style="s4">she</span> wants<span style="s3"> so</span><span style="s4"> she</span><span style="s3"> wants</span> to<span style="s4"> well</span><span style="s3"> print</span> she</p>
+<p begin="01:03:45.029" end="01:03:51.779" style="s2">wants to be<span style="s4"> human so I</span> mean<span style="s3"> whoa</span> what</p>
+<p begin="01:03:49.529" end="01:03:54.539" style="s2">does that mean<span style="s3"> well</span> she's not really</p>
+<p begin="01:03:51.779" end="01:04:03.809" style="s2"><span style="s4">real</span> she's a subterranean<span style="s4"> creature she</span></p>
+<p begin="01:03:54.539" end="01:04:08.759" style="s2">doesn't she's so she's she<span style="s3"> wants</span> to be</p>
+<p begin="01:04:03.809" end="01:04:10.230" style="s2">transformed into<span style="s3"> actuality</span> what does<span style="s3"> it</span></p>
+<p begin="01:04:08.759" end="01:04:23.759" style="s2"><span style="s3">seem</span> that<span style="s3"> she</span> has to sacrifice<span style="s4"> something</span></p>
+<p begin="01:04:10.230" end="01:04:26.970" style="s2"><span style="s3">for</span><span style="s4"> to</span> get what she<span style="s4"> wants</span> I mean<span style="s4"> that's</span></p>
+<p begin="01:04:23.759" end="01:04:29.239" style="s2">the thing she does most right because in</p>
+<p begin="01:04:26.970" end="01:04:29.239" style="s2">this particular</p>
+<p begin="01:04:36.170" end="01:05:10.019" style="s2">feels like she's standing on<span style="s3"> ice</span><span style="s4"> Hans</span></p>
+<p begin="01:04:40.439" end="01:05:11.489" style="s2">Christian<span style="s3"> Andersen tell she died it's</span></p>
+<p begin="01:05:10.019" end="01:05:14.069" style="s2">hard for<span style="s4"> me</span> to tell<span style="s3"> exactly</span> where to</p>
+<p begin="01:05:11.489" end="01:05:16.400" style="s2"><span style="s3">start this</span><span style="s4"> because</span> this<span style="s4"> machine doesn't</span></p>
+<p begin="01:05:14.069" end="01:05:16.400" style="s2"><span style="s3">have</span><span style="s4"> any</span></p>
+<p begin="01:05:35.810" end="01:05:38.810" style="s2">yeah</p>
+<p begin="01:05:45.430" end="01:05:50.230" style="s2">the<span style="s4"> prince</span> here is about<span style="s4"> to</span> marry<span style="s4"> the</span></p>
+<p begin="01:05:47.690" end="01:05:52.609" style="s2">wrong woman<span style="s3"> he's</span> in transit by there</p>
+<p begin="01:05:50.230" end="01:05:55.490" style="s2">because she has Ariel's voice<span style="s4"> I</span> want you</p>
+<p begin="01:05:52.609" end="01:05:57.170" style="s2">to just watch<span style="s3"> without is too much it</span> was</p>
+<p begin="01:05:55.490" end="01:05:59.000" style="s2">the<span style="s3"> Sunday that's</span><span style="s4"> the</span> sunset remember</p>
+<p begin="01:05:57.170" end="01:06:02.109" style="s2">that's<span style="s4"> her</span><span style="s3"> domain</span> right she's the</p>
+<p begin="01:05:59.000" end="01:06:02.109" style="s2">creature that eats<span style="s3"> the</span> Sun</p>
+<p begin="01:07:01.430" end="01:07:06.350" style="s2">so the witch was using the voice of the</p>
+<p begin="01:07:03.870" end="01:07:06.350" style="s2">positive</p>
+<p begin="01:07:25.200" end="01:07:28.800" style="s2">the<span style="s4"> sunset</span></p>
+<p begin="01:12:10.140" end="01:12:15.390" style="s2">anyways southern monster bites the dust</p>
+<p begin="01:12:16.050" end="01:12:22.420" style="s2"><span style="s3">know</span> the king is released<span style="s4"> again</span> here</p>
+<p begin="01:12:19.710" end="01:12:24.730" style="s2"><span style="s4">this</span> is typical and when the<span style="s3"> herald</span> goes</p>
+<p begin="01:12:22.420" end="01:12:26.770" style="s2">into the belly of the<span style="s3"> beast</span> he he<span style="s3"> fries</span></p>
+<p begin="01:12:24.730" end="01:12:29.110" style="s2">those people who<span style="s4"> inherited basically</span></p>
+<p begin="01:12:26.770" end="01:12:32.050" style="s2">what that means<span style="s4"> is them he's established</span></p>
+<p begin="01:12:29.110" end="01:12:34.060" style="s2">a new pattern<span style="s4"> of</span> behavior<span style="s3"> rat</span> adaptation</p>
+<p begin="01:12:32.050" end="01:12:36.930" style="s2">or new frame of reference<span style="s4"> that</span> enables</p>
+<p begin="01:12:34.060" end="01:12:40.930" style="s2">people<span style="s4"> would</span> be defeated<span style="s3"> by</span> the unknown</p>
+<p begin="01:12:36.930" end="01:12:43.150" style="s2">by the<span style="s4"> threatening</span><span style="s3"> and</span> not knowing<span style="s4"> to to</span></p>
+<p begin="01:12:40.930" end="01:12:46.000" style="s2">start<span style="s4"> their life again because</span> you<span style="s4"> have</span></p>
+<p begin="01:12:43.150" end="01:12:48.430" style="s2">to remember them the<span style="s4"> nature</span> of<span style="s4"> the</span></p>
+<p begin="01:12:46.000" end="01:13:02.710" style="s2">unknown<span style="s3"> which</span> is<span style="s3"> to</span> say the<span style="s4"> nature</span> of</p>
+<p begin="01:12:48.430" end="01:13:08.950" style="s2">their experience<span style="s4"> I</span> want<span style="s4"> to show you all</span></p>
+<p begin="01:13:02.710" end="01:13:12.040" style="s2"><span style="s4">those</span> images<span style="s4"> because</span> the<span style="s4"> only</span> way<span style="s4"> you</span></p>
+<p begin="01:13:08.950" end="01:13:14.320" style="s2">can understand this<span style="s4"> stuff</span> is to<span style="s3"> get the</span></p>
+<p begin="01:13:12.040" end="01:13:20.140" style="s2"><span style="s3">images down</span><span style="s4"> basically so you're also</span></p>
+<p begin="01:13:14.320" end="01:13:22.420" style="s2">reading the<span style="s3"> Great Mother you</span> see you</p>
+<p begin="01:13:20.140" end="01:13:27.340" style="s2">know this<span style="s4"> is</span> a<span style="s4"> union</span><span style="s3"> book</span> fundamentally</p>
+<p begin="01:13:22.420" end="01:13:28.960" style="s2">air-cooling students believe<span style="s4"> the</span><span style="s3"> great</span></p>
+<p begin="01:13:27.340" end="01:13:31.420" style="s2"><span style="s3">mother</span> was a representation of the</p>
+<p begin="01:13:28.960" end="01:13:33.460" style="s2">collective unconscious<span style="s4"> I</span> think they're</p>
+<p begin="01:13:31.420" end="01:13:36.100" style="s2">wrong in a sense<span style="s4"> it's</span> the<span style="s4"> great mother</span></p>
+<p begin="01:13:33.460" end="01:13:37.900" style="s2">is a representation of novelty<span style="s4"> it</span> just</p>
+<p begin="01:13:36.100" end="01:13:39.580" style="s2">so happens that the phenomena that<span style="s3"> young</span></p>
+<p begin="01:13:37.900" end="01:13:42.550" style="s2">subsumed under the rubric of the</p>
+<p begin="01:13:39.580" end="01:13:46.180" style="s2">collective unconscious<span style="s4"> are</span> the you could</p>
+<p begin="01:13:42.550" end="01:13:48.250" style="s2">say are the first are is the first<span style="s3"> line</span></p>
+<p begin="01:13:46.180" end="01:13:49.960" style="s2">of defense<span style="s4"> that</span> people erect against the</p>
+<p begin="01:13:48.250" end="01:13:52.630" style="s2">unknown<span style="s4"> which</span> is<span style="s4"> basically</span><span style="s3"> to</span><span style="s4"> say that</span></p>
+<p begin="01:13:49.960" end="01:13:55.450" style="s2">if something unexpected<span style="s4"> happens you</span></p>
+<p begin="01:13:52.630" end="01:13:58.120" style="s2">start<span style="s3"> imagining</span> what it might need so</p>
+<p begin="01:13:55.450" end="01:14:00.130" style="s2">the imagination what we would normally</p>
+<p begin="01:13:58.120" end="01:14:01.960" style="s2"><span style="s4">refer</span> to as the imagination<span style="s4"> its</span></p>
+<p begin="01:14:00.130" end="01:14:04.030" style="s2">constituent elements and that's<span style="s3"> when</span> you</p>
+<p begin="01:14:01.960" end="01:14:07.300" style="s2">identified as the collective unconscious</p>
+<p begin="01:14:04.030" end="01:14:09.760" style="s2"><span style="s4">so</span> all I'm saying basically<span style="s4"> is</span> that<span style="s4"> if</span></p>
+<p begin="01:14:07.300" end="01:14:12.940" style="s2">something unexpected<span style="s4"> happens</span> to you<span style="s3"> it</span></p>
+<p begin="01:14:09.760" end="01:14:15.579" style="s2">always occurs<span style="s4"> into something form of</span></p>
+<p begin="01:14:12.940" end="01:14:17.530" style="s2">representation so</p>
+<p begin="01:14:15.579" end="01:14:19.659" style="s2">and it's that form of representation</p>
+<p begin="01:14:17.530" end="01:14:22.000" style="s2"><span style="s3">that</span> you identified<span style="s4"> as</span> the collective</p>
+<p begin="01:14:19.659" end="01:14:25.510" style="s2">unconscious<span style="s3"> so</span> he would say novelty as</p>
+<p begin="01:14:22.000" end="01:14:28.050" style="s2">such<span style="s4"> for</span> the<span style="s4"> doctor</span> aspect of<span style="s3"> Kelly</span> for</p>
+<p begin="01:14:25.510" end="01:14:28.050" style="s2">example</p>
+<p begin="01:14:37.059" end="01:14:41.650" style="s2">anyways<span style="s4"> I think the book makes more</span></p>
+<p begin="01:14:39.460" end="01:14:43.929" style="s2">sense and the theory makes more sense in</p>
+<p begin="01:14:41.650" end="01:14:49.780" style="s2">general<span style="s3"> if</span><span style="s4"> you</span> understand what<span style="s4"> the</span> great</p>
+<p begin="01:14:43.929" end="01:14:54.429" style="s2"><span style="s4">mother's</span> the archetypal behind your</p>
+<p begin="01:14:49.780" end="01:14:58.119" style="s2">since the<span style="s4"> dragon</span><span style="s3"> yeah</span> I just<span style="s3"> look</span><span style="s4"> in the</span></p>
+<p begin="01:14:54.429" end="01:15:01.840" style="s2">book<span style="s4"> the</span> other<span style="s3"> day</span> and I saw<span style="s4"> the</span><span style="s3"> euro</span></p>
+<p begin="01:14:58.119" end="01:15:09.039" style="s2"><span style="s3">Burris</span> described as a representation<span style="s4"> of</span></p>
+<p begin="01:15:01.840" end="01:15:10.869" style="s2">consciousness well<span style="s4"> that</span> the thing is the</p>
+<p begin="01:15:09.039" end="01:15:12.940" style="s2">herb<span style="s3"> nurse</span><span style="s4"> is</span> the source of the subject</p>
+<p begin="01:15:10.869" end="01:15:15.039" style="s2"><span style="s4">and</span> of<span style="s4"> knowledge</span><span style="s3"> it's</span> not it's not<span style="s4"> a</span></p>
+<p begin="01:15:12.940" end="01:15:16.559" style="s2"><span style="s4">symbol</span> for consciousness per se it's a</p>
+<p begin="01:15:15.039" end="01:15:20.550" style="s2">symbol<span style="s4"> for</span><span style="s3"> the</span> origins<span style="s4"> of</span> consciousness</p>
+<p begin="01:15:16.559" end="01:15:20.550" style="s2"><span style="s3">the</span> place that it comes<span style="s4"> from</span></p>
+<p begin="01:15:24.489" end="01:15:28.239" style="s2">well<span style="s4"> people</span> take liberties with<span style="s3"> the</span></p>
+<p begin="01:15:26.530" end="01:15:30.099" style="s2">symbols that's the problem<span style="s4"> is that they</span></p>
+<p begin="01:15:28.239" end="01:15:32.650" style="s2">do tend them<span style="s4"> they</span> do tend to<span style="s3"> mail</span><span style="s4"> the</span></p>
+<p begin="01:15:30.099" end="01:15:34.630" style="s2"><span style="s4">cross</span><span style="s3"> categories</span><span style="s4"> it's not because they</span></p>
+<p begin="01:15:32.650" end="01:15:39.039" style="s2">have fuzzy borders they do tend<span style="s4"> to</span> blend</p>
+<p begin="01:15:34.630" end="01:15:41.110" style="s2"><span style="s3">into</span> one another<span style="s4"> but</span><span style="s3"> not</span><span style="s4"> knowing</span></p>
+<p begin="01:15:39.039" end="01:15:42.909" style="s2"><span style="s4">anything else about the book I would</span><span style="s3"> say</span></p>
+<p begin="01:15:41.110" end="01:15:46.590" style="s2">that the statement<span style="s3"> that</span> the uroboros is</p>
+<p begin="01:15:42.909" end="01:15:46.590" style="s2">the symbol for<span style="s3"> consciousness</span> is wrong</p>
+<p begin="01:15:56.480" end="01:16:03.480" style="s2">to<span style="s4"> further her the</span> father represents the</p>
+<p begin="01:15:59.760" end="01:16:05.310" style="s2">there's there's<span style="s3"> two</span> domains of masculine</p>
+<p begin="01:16:03.480" end="01:16:08.070" style="s2">simple<span style="s3"> ism</span> in mythology once they here</p>
+<p begin="01:16:05.310" end="01:16:09.840" style="s2">are the<span style="s4"> ones</span> the<span style="s3"> father</span> okay<span style="s4"> the</span> father</p>
+<p begin="01:16:08.070" end="01:16:11.670" style="s2">gives rise to the hero which is to say</p>
+<p begin="01:16:09.840" end="01:16:13.590" style="s2">if you're a<span style="s4"> product</span> of your culture but</p>
+<p begin="01:16:11.670" end="01:16:15.540" style="s2"><span style="s3">the</span> hero also<span style="s4"> gives</span><span style="s3"> rise</span> to the<span style="s4"> father</span></p>
+<p begin="01:16:13.590" end="01:16:16.980" style="s2"><span style="s4">which</span> is<span style="s3"> to</span> say that<span style="s3"> culture</span> is a</p>
+<p begin="01:16:15.540" end="01:16:20.940" style="s2">product of the activity<span style="s4"> of</span> the</p>
+<p begin="01:16:16.980" end="01:16:23.750" style="s2">individual<span style="s3"> so</span> in Pinocchio<span style="s3"> I</span> would still</p>
+<p begin="01:16:20.940" end="01:16:26.010" style="s2"><span style="s4">say</span><span style="s3"> that</span> Geppetto was the symbol</p>
+<p begin="01:16:23.750" end="01:16:28.800" style="s2">symbolized more what we would consider</p>
+<p begin="01:16:26.010" end="01:16:33.140" style="s2">the<span style="s3"> domain</span> of the<span style="s3"> state</span> of culture<span style="s4"> and</span></p>
+<p begin="01:16:28.800" end="01:16:33.140" style="s2"><span style="s3">Tanaka was</span><span style="s4"> the</span> force that<span style="s3"> reified</span></p>
+<p begin="01:16:43.160" end="01:16:48.350" style="s2">no it was so save his consciousness</p>
+<p begin="01:16:54.440" end="01:16:59.550" style="s2">he's not<span style="s3"> now</span> oh I see<span style="s4"> no</span> he's not saving</p>
+<p begin="01:16:57.480" end="01:17:02.550" style="s2"><span style="s4">his</span> consciousness<span style="s3"> see</span> Geppetto in the</p>
+<p begin="01:16:59.550" end="01:17:05.100" style="s2">ocean<span style="s4"> tells them to save themselves so</span></p>
+<p begin="01:17:02.550" end="01:17:07.500" style="s2">but Pinocchio takes the more difficult</p>
+<p begin="01:17:05.100" end="01:17:09.390" style="s2"><span style="s4">route</span> which is<span style="s4"> the</span> simultaneous<span style="s3"> I</span> would</p>
+<p begin="01:17:07.500" end="01:17:11.280" style="s2">say from<span style="s3"> a mythological</span><span style="s4"> perspective</span> it's</p>
+<p begin="01:17:09.390" end="01:17:13.890" style="s2"><span style="s4">the</span> simultaneous regeneration of<span style="s4"> the</span></p>
+<p begin="01:17:11.280" end="01:17:16.560" style="s2">culture so that<span style="s4"> one</span><span style="s3"> of</span> the things that</p>
+<p begin="01:17:13.890" end="01:17:18.540" style="s2"><span style="s3">yellow</span> pointed out was<span style="s3"> that</span> any personal</p>
+<p begin="01:17:16.560" end="01:17:20.880" style="s2">problem<span style="s4"> that's</span> taken far enough becomes</p>
+<p begin="01:17:18.540" end="01:17:22.890" style="s2">a cultural<span style="s3"> problem and then if you do a</span></p>
+<p begin="01:17:20.880" end="01:17:25.020" style="s2">thorough job<span style="s3"> of</span> solving<span style="s3"> your</span> personal</p>
+<p begin="01:17:22.890" end="01:17:26.490" style="s2">problem because many<span style="s3"> people</span> share that</p>
+<p begin="01:17:25.020" end="01:17:28.050" style="s2">problem with you I mean it's<span style="s3"> very</span> rare</p>
+<p begin="01:17:26.490" end="01:17:29.850" style="s2"><span style="s3">that you'll</span><span style="s4"> have</span> a<span style="s4"> problem</span> it's<span style="s3"> you're</span></p>
+<p begin="01:17:28.050" end="01:17:32.070" style="s2">so unique to you<span style="s3"> that</span><span style="s4"> doesn't</span><span style="s3"> also</span></p>
+<p begin="01:17:29.850" end="01:17:34.410" style="s2">affect<span style="s4"> the</span> whole a<span style="s3"> whole</span> sequence of</p>
+<p begin="01:17:32.070" end="01:17:36.680" style="s2">people who live at<span style="s3"> the</span> same time as you</p>
+<p begin="01:17:34.410" end="01:17:38.940" style="s2">do<span style="s4"> if</span> you<span style="s4"> really</span> solved that problem</p>
+<p begin="01:17:36.680" end="01:17:40.560" style="s2"><span style="s3">simultaneously</span> update<span style="s4"> your</span> culture<span style="s3"> and</span></p>
+<p begin="01:17:38.940" end="01:17:42.570" style="s2"><span style="s3">that's</span> what that<span style="s3"> was</span><span style="s4"> new</span> bounce without</p>
+<p begin="01:17:40.560" end="01:17:44.970" style="s2"><span style="s4">historian</span> was referring to<span style="s4"> that's</span> why</p>
+<p begin="01:17:42.570" end="01:17:47.940" style="s2">that was a sufficiently heroic<span style="s4"> endeavor</span></p>
+<p begin="01:17:44.970" end="01:17:51.180" style="s2">so Pinocchio got<span style="s4"> awarded</span> by becoming</p>
+<p begin="01:17:47.940" end="01:17:53.340" style="s2">real<span style="s3"> he</span> didn't just do the thing<span style="s3"> that</span></p>
+<p begin="01:17:51.180" end="01:17:54.930" style="s2">was best for<span style="s3"> himself</span> in the<span style="s4"> narrow</span> sense</p>
+<p begin="01:17:53.340" end="01:17:57.690" style="s2">he also did<span style="s3"> the</span> thing that<span style="s3"> we</span> live</p>
+<p begin="01:17:54.930" end="01:18:03.980" style="s2"><span style="s3">affine</span> his father<span style="s4"> the</span> thing<span style="s4"> that</span> made</p>
+<p begin="01:17:57.690" end="01:18:07.650" style="s2">him literally was a master<span style="s3"> craftsman</span> so</p>
+<p begin="01:18:03.980" end="01:18:11.430" style="s2">Geppetto stands for accumulated wisdom</p>
+<p begin="01:18:07.650" end="01:18:14.610" style="s2"><span style="s4">basically</span> that can<span style="s3"> become</span> stultifying</p>
+<p begin="01:18:11.430" end="01:18:20.190" style="s2"><span style="s4">but</span> is nonetheless necessary to sort of</p>
+<p begin="01:18:14.610" end="01:18:29.610" style="s2">drag along<span style="s3"> so to speak yeah in the in</span></p>
+<p begin="01:18:20.190" end="01:18:31.620" style="s2"><span style="s4">that</span> particular that's right</p>
+<p begin="01:18:29.610" end="01:18:33.510" style="s2">that's right see you Nathan<span style="s3"> the</span> boys who</p>
+<p begin="01:18:31.620" end="01:18:35.280" style="s2">misbehaved<span style="s3"> who</span> didn't follow their</p>
+<p begin="01:18:33.510" end="01:18:37.020" style="s2">conscience<span style="s3"> who</span> were abandoned by their</p>
+<p begin="01:18:35.280" end="01:18:39.030" style="s2">conscience never no longer spoke to them</p>
+<p begin="01:18:37.020" end="01:18:40.560" style="s2"><span style="s3">they</span><span style="s4"> were transformed into jackasses</span> who</p>
+<p begin="01:18:39.030" end="01:18:42.300" style="s2">became slaves that's right he was<span style="s3"> the</span></p>
+<p begin="01:18:40.560" end="01:18:44.550" style="s2"><span style="s4">negative</span> aspect</p>
+<p begin="01:18:42.300" end="01:18:46.920" style="s2"><span style="s4">that's</span> better culture with it so the</p>
+<p begin="01:18:44.550" end="01:18:49.199" style="s2">hero is transformed by identifying the</p>
+<p begin="01:18:46.920" end="01:18:51.420" style="s2">father<span style="s3"> I</span> mean<span style="s4"> they're</span> both transformed</p>
+<p begin="01:18:49.199" end="01:18:53.130" style="s2">right<span style="s4"> while</span> the hero<span style="s4"> that's</span> right<span style="s4"> that's</span></p>
+<p begin="01:18:51.420" end="01:18:55.260" style="s2">exactly it's a process of mutual</p>
+<p begin="01:18:53.130" end="01:18:57.960" style="s2">transformation you see in the Osiris</p>
+<p begin="01:18:55.260" end="01:19:01.110" style="s2"><span style="s4">Horus</span> myth which<span style="s3"> is</span><span style="s4"> the</span> myth that<span style="s3"> he</span><span style="s4"> the</span></p>
+<p begin="01:18:57.960" end="01:19:04.280" style="s2">Egyptian<span style="s3"> veronik</span> state was predicated on</p>
+<p begin="01:19:01.110" end="01:19:06.659" style="s2">is the Pharaoh is both Osiris and Horus</p>
+<p begin="01:19:04.280" end="01:19:09.150" style="s2"><span style="s4">simultaneously</span> and that's because the</p>
+<p begin="01:19:06.659" end="01:19:10.409" style="s2"><span style="s4">Pharaoh</span><span style="s3"> if</span> like the dead Pharaoh the</p>
+<p begin="01:19:09.150" end="01:19:12.059" style="s2">Pharaoh<span style="s4"> just</span> died is instantly</p>
+<p begin="01:19:10.409" end="01:19:14.849" style="s2">assimilated to Osiris</p>
+<p begin="01:19:12.059" end="01:19:16.309" style="s2">but the live Pharaoh that's Horus he's</p>
+<p begin="01:19:14.849" end="01:19:17.969" style="s2">both<span style="s3"> the</span> Horace and Osiris</p>
+<p begin="01:19:16.309" end="01:19:19.530" style="s2">simultaneously they take well that's</p>
+<p begin="01:19:17.969" end="01:19:21.119" style="s2">confusing<span style="s4"> is</span><span style="s3"> the</span> dead Pharaohs of</p>
+<p begin="01:19:19.530" end="01:19:23.489" style="s2"><span style="s3">Sarah's</span> happened the live farrell meal</p>
+<p begin="01:19:21.119" end="01:19:26.159" style="s2">service<span style="s4"> and</span> Horus<span style="s4"> but though serious is</span></p>
+<p begin="01:19:23.489" end="01:19:28.460" style="s2">the<span style="s3"> wisdom</span> of<span style="s4"> the</span><span style="s3"> past</span><span style="s4"> and</span> Horus is the</p>
+<p begin="01:19:26.159" end="01:19:31.199" style="s2">process that faces the unknown and</p>
+<p begin="01:19:28.460" end="01:19:33.360" style="s2"><span style="s4">constantly</span> updates<span style="s4"> the</span> wisdom of<span style="s4"> the</span></p>
+<p begin="01:19:31.199" end="01:19:35.369" style="s2"><span style="s4">past</span> and both of<span style="s4"> those</span> together make the</p>
+<p begin="01:19:33.360" end="01:19:37.739" style="s2">Pharaoh and that's right<span style="s3"> I</span> mean the</p>
+<p begin="01:19:35.369" end="01:19:40.980" style="s2"><span style="s4">Egyptians</span> had<span style="s3"> a right</span><span style="s4"> there's</span> an act</p>
+<p begin="01:19:37.739" end="01:19:43.230" style="s2">that<span style="s4"> the</span> state is an active process<span style="s4"> plus</span></p>
+<p begin="01:19:40.980" end="01:19:45.750" style="s2">the<span style="s4"> accumulation of knowledge and the</span></p>
+<p begin="01:19:43.230" end="01:19:48.119" style="s2">process<span style="s4"> is</span> adaptation in the face<span style="s3"> of</span> the</p>
+<p begin="01:19:45.750" end="01:19:50.190" style="s2">unknown<span style="s4"> adaptation</span> to the unknown<span style="s3"> and</span></p>
+<p begin="01:19:48.119" end="01:19:53.639" style="s2">that<span style="s4"> was</span><span style="s3"> twelve</span><span style="s4"> semis by these monsters</span></p>
+<p begin="01:19:50.190" end="01:20:00.809" style="s2"><span style="s3">the</span> key<span style="s4"> necessary</span> monsters that keep</p>
+<p begin="01:19:53.639" end="01:20:02.699" style="s2">talking<span style="s4"> up</span> these<span style="s4"> stories</span> what<span style="s4"> did</span><span style="s3"> she</span></p>
+<p begin="01:20:00.809" end="01:20:04.079" style="s2"><span style="s4">bring</span> yeah I can't<span style="s3"> remember how I</span><span style="s4"> just</span></p>
+<p begin="01:20:02.699" end="01:20:06.329" style="s2">don't<span style="s4"> remember what here</span> she is</p>
+<p begin="01:20:04.079" end="01:20:10.639" style="s2"><span style="s3">oh</span> well she's the<span style="s3"> one</span> who reassembles</p>
+<p begin="01:20:06.329" end="01:20:10.639" style="s2">Osiris once he's cut apart</p>
+<p begin="01:20:15.880" end="01:20:22.090" style="s2">but Isis gathers up<span style="s3"> his</span> pieces<span style="s4"> so</span> she's</p>
+<p begin="01:20:19.900" end="01:20:25.800" style="s2">a<span style="s3"> she's</span> an image of the<span style="s3"> cross</span> defender<span style="s3"> I</span></p>
+<p begin="01:20:22.090" end="01:20:25.800" style="s2">don't<span style="s4"> remember</span> her<span style="s4"> developmental</span> history</p>
+<p begin="01:20:36.300" end="01:20:39.300" style="s2">yes</p>
+</div>
+</body>
+</tt>

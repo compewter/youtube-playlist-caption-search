@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#E5E5E5"/>
+<pen id="2" fc="#CCCCCC"/>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="0" d="3120" w="1"><s ac="221">there</s><s t="179" ac="252"> have</s><s t="299" ac="252"> been</s><s p="1" t="329" ac="201"> many</s><s p="1" t="690" ac="201"> conflicting</s></p>
+<p t="1309" d="1811" w="1" a="1">
+</p>
+<p t="1319" d="4440" w="1"><s ac="252">definitions</s><s t="150" ac="252"> of</s><s p="1" t="751" ac="216"> mental</s><s p="2" t="901" ac="166"> health</s><s t="1171" ac="242"> put</s><s t="1501" ac="252"> forward</s></p>
+<p t="3110" d="2649" w="1" a="1">
+</p>
+<p t="3120" d="5820" w="1"><s ac="252">by</s><s t="269" ac="246"> philosophers</s><s p="1" t="990" ac="204"> physicians</s><s p="1" t="1949" ac="213"> and</s></p>
+<p t="5749" d="3191" w="1" a="1">
+</p>
+<p t="5759" d="4710" w="1"><s ac="248">psychologists</s><s t="870" ac="252"> over</s><s t="1111" ac="252"> the</s><s t="1201" ac="252"> years</s><s t="2181" ac="226"> Freud</s></p>
+<p t="8930" d="1539" w="1" a="1">
+</p>
+<p t="8940" d="4500" w="1"><s ac="252">believed</s><s t="360" ac="252"> that</s><s t="570" ac="228"> love</s><s t="840" ac="252"> and</s><s t="989" ac="224"> work</s><s t="1199" ac="252"> were</s><s t="1470" ac="252"> the</s></p>
+<p t="10459" d="2981" w="1" a="1">
+</p>
+<p t="10469" d="5040" w="1"><s ac="222">cornerstones</s><s t="691" ac="252"> of</s><s t="871" ac="252"> our</s><s t="991" ac="239"> humaneness</s><s p="1" t="1971" ac="204"> Abraham</s></p>
+<p t="13430" d="2079" w="1" a="1">
+</p>
+<p t="13440" d="4410" w="1"><s ac="249">Maslow</s><s t="480" ac="252"> spoke</s><s t="810" ac="252"> of</s><s t="1050" ac="252"> the</s><s t="1230" ac="252"> self-actualized</s></p>
+<p t="15499" d="2351" w="1" a="1">
+</p>
+<p t="15509" d="4791" w="1"><s ac="252">person</s><s p="1" t="121" ac="204"> Carl</s><s t="1110" ac="247"> Jung</s><s t="1381" ac="252"> believed</s><s t="1741" ac="252"> that</s><s t="1891" ac="252"> the</s><s p="1" t="2011" ac="216"> human</s></p>
+<p t="17840" d="2460" w="1" a="1">
+</p>
+<p t="17850" d="7320" w="1"><s ac="252">psyche</s><s p="1" t="420" ac="218"> was</s><s t="1019" ac="252"> geared</s><s p="1" t="1290" ac="216"> toward</s><s t="1620" ac="220"> some</s><s t="1890" ac="252"> idealized</s></p>
+<p t="20290" d="4880" w="1" a="1">
+</p>
+<p t="20300" d="7030" w="1"><s p="1" ac="206">heroic</s><s t="1000" ac="236"> end</s><s t="1530" ac="232"> here's</s><s t="2530" ac="252"> mine</s><s p="1" t="3420" ac="216"> mental</s><s t="4420" ac="240"> health</s><s t="4630" ac="252"> is</s></p>
+<p t="25160" d="2170" w="1" a="1">
+</p>
+<p t="25170" d="5939" w="1"><s p="2" ac="141">the</s><s t="180" ac="252"> desire</s><s t="540" ac="252"> to</s><s p="1" t="570" ac="213"> work</s><s p="1" t="960" ac="202"> for</s><s p="1" t="1439" ac="252"> the</s><s p="2" t="1500" ac="197"> betterment</s><s t="1859" ac="245"> of</s></p>
+<p t="27320" d="3789" w="1" a="1">
+</p>
+<p t="27330" d="5850" w="1"><s ac="252">being</s><s t="800" ac="235"> life</s><s t="1800" ac="252"> is</s><s t="2010" ac="252"> difficult</s><s p="1" t="2779" ac="208"> uncertainty</s></p>
+<p t="31099" d="2081" w="1" a="1">
+</p>
+<p t="31109" d="4950" w="1"><s ac="255">suffering</s><s t="631" ac="237"> and</s><s t="811" ac="252"> disappointment</s><s p="2" t="1801" ac="186"> are</s></p>
+<p t="33170" d="2889" w="1" a="1">
+</p>
+<p t="33180" d="4800" w="1"><s ac="252">everywhere</s><s p="1" t="770" ac="203"> the</s><s t="1770" ac="252"> healthy</s><s t="2129" ac="250"> mind</s><s t="2340" ac="252"> must</s><s t="2610" ac="252"> avoid</s></p>
+<p t="36049" d="1931" w="1" a="1">
+</p>
+<p t="36059" d="5221" w="1"><s p="1" ac="217">the</s><s t="211" ac="252"> twin</s><s t="421" ac="252"> dangers</s><s t="631" ac="252"> of</s><s t="991" ac="252"> resentment</s><s p="1" t="1680" ac="207"> and</s></p>
+<p t="37970" d="3310" w="1" a="1">
+</p>
+<p t="37980" d="4620" w="1"><s ac="252">arrogance</s><s t="1280" ac="227"> true</s><s t="2280" ac="249"> mental</s><s t="2610" ac="226"> health</s><s t="2849" ac="252"> is</s><s t="3060" ac="252"> to</s><s t="3180" ac="252"> be</s></p>
+<p t="41270" d="1330" w="1" a="1">
+</p>
+<p t="41280" d="3660" w="1"><s p="1" ac="218">found</s><s t="270" ac="242"> in</s><s t="480" ac="252"> the</s><s t="570" ac="252"> pursuit</s><s p="1" t="900" ac="204"> of</s><s t="1049" ac="252"> the</s><s t="1140" ac="249"> life</s></p>
+<p t="42590" d="2350" w="1" a="1">
+</p>
+<p t="42600" d="5010" w="1"><s p="1" ac="208">profound</s><s t="570" ac="252"> and</s><s t="840" ac="252"> satisfying</s><s p="2" t="1380" ac="187"> enough</s><s t="1740" ac="252"> to</s></p>
+<p t="44930" d="2680" w="1" a="1">
+</p>
+<p t="44940" d="4639" w="1"><s ac="252">justify</s><s t="420" ac="252"> the</s><s t="630" ac="222"> inevitable</s><s t="1380" ac="252"> suffering</s><s p="2" t="1670" ac="177"> it's</s></p>
+<p t="47600" d="1979" w="1" a="1">
+</p>
+<p t="47610" d="4679" w="1"><s ac="252">part</s><s t="359" ac="252"> and</s><s p="1" t="420" ac="201"> parcel</s><s p="2" t="539" ac="152"> of</s><s t="990" ac="252"> the</s><s t="1109" ac="252"> human</s><s t="1440" ac="252"> condition</s></p>
+<p t="49569" d="2720" w="1" a="1">
+</p>
+<p t="49579" d="6061" w="1"><s p="2" ac="140">mental</s><s t="1000" ac="252"> health</s><s t="1210" ac="247"> matters</s><s p="2" t="1511" ac="150"> the</s><s t="2230" ac="252"> week</s><s t="2410" ac="236"> of</s><s t="2561" ac="248"> May</s></p>
+<p t="52279" d="3361" w="1" a="1">
+</p>
+<p t="52289" d="3351" w="1" p="1"><s ac="211">7th</s><s t="450" ac="216"> on</s><s t="750" ac="236"> TV</s><s p="2" t="1321" ac="165"> Oh</s></p>
+</body>
+</timedtext>
