@@ -23,7 +23,9 @@ class Result extends Component {
     return matches.map((match)=>{
       let fragment = match.fragment
       let fragmentIndex = content.indexOf(fragment)
-      let largerFragmentSlice = content.slice(fragmentIndex-500, fragmentIndex+500)
+      let sliceStart = fragmentIndex-500 < 0 ? 0 : fragmentIndex-500
+      let sliceEnd = fragmentIndex+500 > content.length ? content.length-1 : fragmentIndex+500
+      let largerFragmentSlice = content.slice(sliceStart, sliceEnd)
       let { filteredText, timeStamp } = filterXML(largerFragmentSlice, 150, match.matches[0].text)
       if(timeStamp){
         if(isNaN(timeStamp/100)){
@@ -35,7 +37,7 @@ class Result extends Component {
           match: match.matches[0].text
         }
       }else{
-        return 'failed'
+        return null
       }
     })
   }
@@ -77,6 +79,7 @@ class Result extends Component {
           <Item.Meta>{result.snippet.channelTitle}</Item.Meta>
           <Item.Description>
             {matches.map((match,ind)=>{
+              if(!match) return null
               return <a
                   target='_blank'
                   href={`https://www.youtube.com/watch?v=${match.videoID}&t=${match.timeStamp}`}
