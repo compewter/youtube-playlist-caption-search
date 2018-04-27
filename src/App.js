@@ -8,6 +8,7 @@ import logo from './logo.png';
 import './App.css';
 import PlaylistSelector from './components/Playlist/Selector';
 import Search from './components/Search/Search';
+import { Menu } from 'semantic-ui-react'
 
 class App extends Component {
   render() {
@@ -20,6 +21,7 @@ class App extends Component {
           </header>
           <Route exact path="/" component={PlaylistSelector}/>
           <Route path="/search/:playlistId" component={Search}/>
+          <footer className="App-footer" fixed="bottom"><p>© 2018 - <a href="https://www.thecompewterlab.com" target="_blank">The Compewter Lab</a>. Ideas? Thoughts? Bugs? Let's chat! <a href="mailto:michael@thecompewterlab.com">michael@thecompewterlab.com</a></p></footer>
         </div>
       </Router>
     );
