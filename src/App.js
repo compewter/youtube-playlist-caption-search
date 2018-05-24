@@ -21,7 +21,8 @@ class App extends Component {
           </header>
           <Route exact path="/" component={PlaylistSelector}/>
           <Route path="/search/:playlistId" component={Search}/>
-          <footer className="App-footer" fixed="bottom"><p>© 2018 - <a href="https://www.thecompewterlab.com" target="_blank">The Compewter Lab</a>. Ideas? Thoughts? Bugs? Let's chat! <a href="mailto:michael@thecompewterlab.com">michael@thecompewterlab.com</a></p></footer>
+          <footer className="App-footer mobile-hide" fixed="bottom"><p>© 2018 - <a href="https://www.thecompewterlab.com" target="_blank">The Compewter Lab</a>. Ideas? Thoughts? Bugs? Let's chat! <a href="mailto:michael@thecompewterlab.com">michael@thecompewterlab.com</a></p></footer>
+          <footer className="App-footer mobile-show" fixed="bottom"><p>© 2018 - <a href="mailto:michael@thecompewterlab.com">Ideas? Bugs? Let's chat!</a></p></footer>
         </div>
       </Router>
     );
