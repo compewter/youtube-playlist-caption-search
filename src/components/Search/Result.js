@@ -67,10 +67,12 @@ class Result extends Component {
   }
 
   render() {
-    //fetch data from youtube
-    //infinite scroll these things?
     let {result} = this.props
     let {matches} = this.state
+    if(!result.snippet){
+      console.log(result)
+      return null
+    }
     return (
       <Item>
         <Item.Image as='a' target='_blank' href={`https://www.youtube.com/watch?v=${result.name.slice(0, result.name.indexOf('.'))}`} src={result.snippet.thumbnails.medium.url} size='medium'/>
