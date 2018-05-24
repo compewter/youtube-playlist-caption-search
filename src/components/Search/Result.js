@@ -26,7 +26,10 @@ class Result extends Component {
       let sliceStart = fragmentIndex-500 < 0 ? 0 : fragmentIndex-500
       let sliceEnd = fragmentIndex+500 > content.length ? content.length-1 : fragmentIndex+500
       let largerFragmentSlice = content.slice(sliceStart, sliceEnd)
-      let { filteredText, timeStamp } = filterXML(largerFragmentSlice, 150, match.matches[0].text)
+      let longestMatchText = match.matches.reduce((txt, mtch)=>{
+        return mtch.text.length > txt.length ? mtch.text : txt
+      },'')
+      let { filteredText, timeStamp } = filterXML(largerFragmentSlice, 150, longestMatchText)
       if(timeStamp){
         if(isNaN(timeStamp/100)){
           debugger
@@ -34,7 +37,7 @@ class Result extends Component {
         return {
           text: filteredText,
           timeStamp: Math.floor(timeStamp/1000),
-          match: match.matches[0].text
+          match: longestMatchText
         }
       }else{
         return null
