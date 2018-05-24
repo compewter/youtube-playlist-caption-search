@@ -43,7 +43,7 @@ class Result extends Component {
   }
 
   getContent = (textMatches, query, videoID) => {
-    fetch(`/playlists/${this.props.playlist}/timedtext/${videoID}.xml`)
+    fetch(`https://raw.githubusercontent.com/compewter/youtube-playlist-caption-search/master/playlists/${this.props.playlist}/timedtext/${videoID}.xml`)
       .then((response)=>{
         response.text()
           .then((result)=>{
